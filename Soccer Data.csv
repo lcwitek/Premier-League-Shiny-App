@@ -1,0 +1,2281 @@
+﻿Season,Matchday,Day,Month,Year,HomeTeam,AwayTeam,HTG,ATG,RES,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+13-14,1,17,8,13,Arsenal FC,Aston Villa,1,3,A,16,9,4,4,15,18,4,3,4,5,1,0
+13-14,1,17,8,13,Liverpool FC,Stoke City,1,0,H,26,10,11,4,11,11,12,6,1,1,0,0
+13-14,1,17,8,13,Norwich City,Everton FC,2,2,D,8,19,2,6,13,10,6,8,2,0,0,0
+13-14,1,17,8,13,Sunderland AFC,Fulham FC,0,1,A,20,5,3,1,14,14,6,1,0,3,0,0
+13-14,1,17,8,13,Swansea City,Manchester United,1,4,A,17,15,6,7,13,10,7,4,1,3,0,0
+13-14,1,17,8,13,West Bromwich Albion,Southampton FC,0,1,A,11,7,1,2,14,24,4,8,4,0,0,0
+13-14,1,17,8,13,West Ham United,Cardiff City,2,0,H,18,12,4,1,10,7,4,3,0,1,0,0
+13-14,1,18,8,13,Chelsea FC,Hull City,2,0,H,22,7,5,2,7,16,5,1,0,1,0,0
+13-14,1,18,8,13,Crystal Palace,Tottenham Hotspur,0,1,A,5,17,3,2,6,9,3,7,1,0,0,0
+13-14,1,19,8,13,Manchester City,Newcastle United,4,0,H,20,5,11,1,9,7,8,1,2,3,0,1
+13-14,3,21,8,13,Chelsea FC,Aston Villa,2,1,H,15,7,3,3,12,13,1,2,1,4,0,0
+13-14,2,24,8,13,Aston Villa,Liverpool FC,0,1,A,17,5,3,1,9,8,8,2,3,3,0,0
+13-14,2,24,8,13,Everton FC,West Bromwich Albion,0,0,D,22,7,8,2,14,15,11,1,1,1,0,0
+13-14,2,24,8,13,Fulham FC,Arsenal FC,1,3,A,16,18,7,7,10,8,1,8,2,2,0,0
+13-14,2,24,8,13,Hull City,Norwich City,1,0,H,6,13,1,4,14,19,1,5,1,1,1,0
+13-14,2,24,8,13,Newcastle United,West Ham United,0,0,D,16,6,0,1,12,14,5,4,0,1,0,0
+13-14,2,24,8,13,Southampton FC,Sunderland AFC,1,1,D,17,8,6,3,12,13,5,2,2,2,0,0
+13-14,2,24,8,13,Stoke City,Crystal Palace,2,1,H,14,14,5,5,13,6,7,0,3,0,0,0
+13-14,2,25,8,13,Cardiff City,Manchester City,3,2,H,9,16,6,5,2,9,3,8,0,0,0,0
+13-14,2,25,8,13,Tottenham Hotspur,Swansea City,1,0,H,19,7,5,5,10,15,8,3,1,4,0,0
+13-14,2,26,8,13,Manchester United,Chelsea FC,0,0,D,13,8,3,4,9,9,4,1,0,2,0,0
+13-14,3,31,8,13,Cardiff City,Everton FC,0,0,D,4,13,1,3,11,9,4,5,1,1,0,0
+13-14,3,31,8,13,Crystal Palace,Sunderland AFC,3,1,H,17,10,6,2,6,6,6,6,1,0,0,1
+13-14,3,31,8,13,Manchester City,Hull City,2,0,H,12,7,6,2,15,14,7,4,2,3,0,0
+13-14,3,31,8,13,Newcastle United,Fulham FC,1,0,H,24,3,9,2,13,9,13,2,2,2,0,0
+13-14,3,31,8,13,Norwich City,Southampton FC,1,0,H,15,11,4,2,11,15,5,5,0,0,0,0
+13-14,3,31,8,13,West Ham United,Stoke City,0,1,A,9,15,0,5,10,12,3,4,2,1,0,0
+13-14,3,1,9,13,Arsenal FC,Tottenham Hotspur,1,0,H,12,14,5,4,15,14,3,6,2,2,0,0
+13-14,3,1,9,13,Liverpool FC,Manchester United,1,0,H,10,10,5,4,15,15,2,7,2,4,0,0
+13-14,3,1,9,13,West Bromwich Albion,Swansea City,0,2,A,10,12,1,4,10,14,2,3,4,3,0,0
+13-14,4,14,9,13,Aston Villa,Newcastle United,1,2,A,10,17,1,8,9,11,4,2,1,4,0,0
+13-14,4,14,9,13,Everton FC,Chelsea FC,1,0,H,11,22,5,5,10,12,5,7,0,4,0,0
+13-14,4,14,9,13,Fulham FC,West Bromwich Albion,1,1,D,12,12,2,4,9,12,4,5,0,1,0,0
+13-14,4,14,9,13,Hull City,Cardiff City,1,1,D,18,10,5,2,8,8,6,2,1,2,0,0
+13-14,4,14,9,13,Manchester United,Crystal Palace,2,0,H,19,4,7,0,8,11,10,1,1,2,0,1
+13-14,4,14,9,13,Stoke City,Manchester City,0,0,D,11,10,3,3,13,11,2,4,1,1,0,0
+13-14,4,14,9,13,Sunderland AFC,Arsenal FC,1,3,A,17,14,2,6,12,10,6,7,1,2,0,0
+13-14,4,14,9,13,Tottenham Hotspur,Norwich City,2,0,H,23,4,7,1,2,12,8,1,1,3,0,0
+13-14,4,15,9,13,Southampton FC,West Ham United,0,0,D,15,6,5,1,12,10,10,4,1,3,0,0
+13-14,4,16,9,13,Swansea City,Liverpool FC,2,2,D,17,12,8,5,7,10,3,7,2,3,0,0
+13-14,5,21,9,13,Chelsea FC,Fulham FC,2,0,H,26,4,10,1,11,9,13,3,0,0,0,0
+13-14,5,21,9,13,Liverpool FC,Southampton FC,0,1,A,10,12,5,7,6,9,6,6,0,1,0,0
+13-14,5,21,9,13,Newcastle United,Hull City,2,3,A,15,12,2,5,11,8,3,3,1,1,0,0
+13-14,5,21,9,13,Norwich City,Aston Villa,0,1,A,12,16,1,4,15,10,7,4,1,0,0,0
+13-14,5,21,9,13,West Bromwich Albion,Sunderland AFC,3,0,H,13,7,4,0,9,10,5,6,0,2,0,0
+13-14,5,21,9,13,West Ham United,Everton FC,2,3,A,9,10,1,4,16,12,5,5,2,1,1,0
+13-14,5,22,9,13,Arsenal FC,Stoke City,3,1,H,16,9,8,3,8,15,6,7,0,2,0,0
+13-14,5,22,9,13,Cardiff City,Tottenham Hotspur,0,1,A,6,29,0,12,5,7,2,12,1,4,0,0
+13-14,5,22,9,13,Crystal Palace,Swansea City,0,2,A,9,15,1,7,13,9,6,7,2,2,0,0
+13-14,5,22,9,13,Manchester City,Manchester United,4,1,H,18,14,5,3,8,12,8,4,1,2,0,0
+13-14,6,28,9,13,Aston Villa,Manchester City,3,2,H,8,20,4,7,13,9,2,13,1,1,0,0
+13-14,6,28,9,13,Fulham FC,Cardiff City,1,2,A,9,22,5,4,14,13,11,10,1,1,0,0
+13-14,6,28,9,13,Hull City,West Ham United,1,0,H,9,18,2,5,11,12,6,6,1,2,0,0
+13-14,6,28,9,13,Manchester United,West Bromwich Albion,1,2,A,14,12,6,4,10,14,5,8,3,2,0,0
+13-14,6,28,9,13,Southampton FC,Crystal Palace,2,0,H,12,8,3,0,11,12,8,2,1,2,0,0
+13-14,6,28,9,13,Swansea City,Arsenal FC,1,2,A,10,10,3,4,5,11,4,3,3,2,0,0
+13-14,6,28,9,13,Tottenham Hotspur,Chelsea FC,1,1,D,12,11,4,5,14,14,4,5,5,1,0,1
+13-14,6,29,9,13,Stoke City,Norwich City,0,1,A,8,8,1,3,14,12,7,3,2,1,0,0
+13-14,6,29,9,13,Sunderland AFC,Liverpool FC,1,3,A,23,15,5,6,8,10,10,8,2,1,0,0
+13-14,6,30,9,13,Everton FC,Newcastle United,3,2,H,18,15,7,6,5,15,1,1,3,1,0,0
+13-14,7,5,10,13,Cardiff City,Newcastle United,1,2,A,8,20,2,10,11,8,3,3,1,0,0,0
+13-14,7,5,10,13,Fulham FC,Stoke City,1,0,H,9,16,2,3,11,13,7,5,3,2,0,0
+13-14,7,5,10,13,Hull City,Aston Villa,0,0,D,6,18,1,4,7,11,7,7,2,1,0,0
+13-14,7,5,10,13,Liverpool FC,Crystal Palace,3,1,H,13,11,7,2,11,6,11,3,2,1,0,0
+13-14,7,5,10,13,Manchester City,Everton FC,3,1,H,12,6,6,4,15,10,8,1,5,4,0,0
+13-14,7,5,10,13,Sunderland AFC,Manchester United,1,2,A,6,13,2,6,15,13,4,4,2,4,0,0
+13-14,7,6,10,13,Norwich City,Chelsea FC,1,3,A,14,22,3,8,12,9,4,6,1,1,0,0
+13-14,7,6,10,13,Southampton FC,Swansea City,2,0,H,12,17,4,7,13,8,7,4,3,1,0,0
+13-14,7,6,10,13,Tottenham Hotspur,West Ham United,0,3,A,14,16,4,5,5,9,6,7,0,0,0,0
+13-14,7,6,10,13,West Bromwich Albion,Arsenal FC,1,1,D,12,14,4,5,6,11,6,2,1,2,0,0
+13-14,8,19,10,13,Arsenal FC,Norwich City,4,1,H,20,12,11,6,8,7,10,1,0,0,0,0
+13-14,8,19,10,13,Chelsea FC,Cardiff City,4,1,H,20,13,7,3,12,5,6,9,1,2,0,0
+13-14,8,19,10,13,Everton FC,Hull City,2,1,H,14,9,6,1,7,17,5,7,3,1,0,0
+13-14,8,19,10,13,Manchester United,Southampton FC,1,1,D,12,18,5,7,10,19,4,4,2,3,0,0
+13-14,8,19,10,13,Newcastle United,Liverpool FC,2,2,D,14,23,4,7,8,10,3,13,2,3,1,0
+13-14,8,19,10,13,Stoke City,West Bromwich Albion,0,0,D,9,12,3,5,12,10,6,6,1,0,0,0
+13-14,8,19,10,13,Swansea City,Sunderland AFC,4,0,H,14,6,6,1,12,13,7,2,1,2,0,0
+13-14,8,19,10,13,West Ham United,Manchester City,1,3,A,11,16,2,9,7,12,5,5,1,2,0,0
+13-14,8,20,10,13,Aston Villa,Tottenham Hotspur,0,2,A,15,13,2,6,13,12,4,7,3,4,0,0
+13-14,8,21,10,13,Crystal Palace,Fulham FC,1,4,A,14,9,4,6,10,13,5,7,0,1,0,0
+13-14,9,26,10,13,Aston Villa,Everton FC,0,2,A,14,15,3,4,14,8,8,6,0,2,0,0
+13-14,9,26,10,13,Crystal Palace,Arsenal FC,0,2,A,13,10,4,4,12,8,4,3,0,0,0,1
+13-14,9,26,10,13,Liverpool FC,West Bromwich Albion,4,1,H,18,15,7,3,14,11,3,9,0,2,0,0
+13-14,9,26,10,13,Manchester United,Stoke City,3,2,H,19,10,5,5,8,18,12,2,2,6,0,0
+13-14,9,26,10,13,Norwich City,Cardiff City,0,0,D,31,6,10,4,8,10,13,2,1,1,0,0
+13-14,9,26,10,13,Southampton FC,Fulham FC,2,0,H,20,1,6,0,12,8,10,3,0,2,0,0
+13-14,9,27,10,13,Chelsea FC,Manchester City,2,1,H,12,15,4,6,11,15,3,6,2,3,0,0
+13-14,9,27,10,13,Sunderland AFC,Newcastle United,2,1,H,8,16,4,4,13,14,5,3,1,1,0,0
+13-14,9,27,10,13,Swansea City,West Ham United,0,0,D,10,15,5,4,12,14,9,6,1,3,0,0
+13-14,9,27,10,13,Tottenham Hotspur,Hull City,1,0,H,15,10,6,4,13,10,6,4,3,3,0,0
+13-14,10,2,11,13,Arsenal FC,Liverpool FC,2,0,H,12,12,7,4,11,7,3,5,2,1,0,0
+13-14,10,2,11,13,Fulham FC,Manchester United,1,3,A,15,10,6,4,6,12,4,4,2,1,0,0
+13-14,10,2,11,13,Hull City,Sunderland AFC,1,0,H,25,9,2,1,17,11,4,2,2,0,0,2
+13-14,10,2,11,13,Manchester City,Norwich City,7,0,H,27,7,9,1,6,9,10,3,1,1,0,0
+13-14,10,2,11,13,Newcastle United,Chelsea FC,2,0,H,15,13,8,2,13,11,3,8,2,2,0,0
+13-14,10,2,11,13,Stoke City,Southampton FC,1,1,D,9,10,3,2,13,13,5,5,3,1,0,0
+13-14,10,2,11,13,West Bromwich Albion,Crystal Palace,2,0,H,9,12,4,4,11,9,10,3,0,1,0,0
+13-14,10,2,11,13,West Ham United,Aston Villa,0,0,D,17,8,4,2,8,15,5,1,0,2,0,0
+13-14,10,3,11,13,Cardiff City,Swansea City,1,0,H,9,10,3,3,11,7,6,3,1,1,0,1
+13-14,10,3,11,13,Everton FC,Tottenham Hotspur,0,0,D,8,16,1,6,11,9,7,4,4,1,0,0
+13-14,11,9,11,13,Aston Villa,Cardiff City,2,0,H,17,8,6,2,10,3,5,3,1,1,0,0
+13-14,11,9,11,13,Chelsea FC,West Bromwich Albion,2,2,D,17,11,7,3,11,15,9,4,3,7,0,0
+13-14,11,9,11,13,Crystal Palace,Everton FC,0,0,D,9,15,2,2,16,8,4,7,1,0,0,0
+13-14,11,9,11,13,Liverpool FC,Fulham FC,4,0,H,32,4,10,1,13,9,9,3,0,1,0,0
+13-14,11,9,11,13,Norwich City,West Ham United,3,1,H,15,12,6,4,12,11,4,2,1,1,0,0
+13-14,11,9,11,13,Southampton FC,Hull City,4,1,H,15,10,7,2,10,15,6,5,1,2,0,0
+13-14,11,10,11,13,Manchester United,Arsenal FC,1,0,H,5,10,2,2,12,11,5,6,2,3,0,0
+13-14,11,10,11,13,Sunderland AFC,Manchester City,1,0,H,5,24,2,4,6,13,0,14,0,1,0,0
+13-14,11,10,11,13,Swansea City,Stoke City,3,3,D,17,6,6,3,12,15,14,3,5,3,0,0
+13-14,11,10,11,13,Tottenham Hotspur,Newcastle United,0,1,A,31,8,14,4,5,15,11,4,1,2,0,0
+13-14,12,23,11,13,Arsenal FC,Southampton FC,2,0,H,9,10,4,4,10,14,5,6,0,3,0,0
+13-14,12,23,11,13,Everton FC,Liverpool FC,3,3,D,18,11,12,5,16,15,6,7,4,3,0,0
+13-14,12,23,11,13,Fulham FC,Swansea City,1,2,A,9,21,3,5,11,9,8,8,3,1,0,0
+13-14,12,23,11,13,Hull City,Crystal Palace,0,1,A,15,9,2,2,8,11,11,4,2,1,0,1
+13-14,12,23,11,13,Newcastle United,Norwich City,2,1,H,21,10,5,2,8,7,6,5,0,1,0,0
+13-14,12,23,11,13,Stoke City,Sunderland AFC,2,0,H,17,11,5,3,11,5,3,7,2,1,0,1
+13-14,12,23,11,13,West Ham United,Chelsea FC,0,3,A,8,20,1,8,12,10,8,4,0,0,0,0
+13-14,12,24,11,13,Cardiff City,Manchester United,2,2,D,14,16,4,5,15,14,2,8,4,2,0,0
+13-14,12,24,11,13,Manchester City,Tottenham Hotspur,6,0,H,15,13,10,5,7,11,4,7,1,3,0,0
+13-14,12,25,11,13,West Bromwich Albion,Aston Villa,2,2,D,11,15,4,7,9,14,4,2,1,2,0,0
+13-14,13,30,11,13,Aston Villa,Sunderland AFC,0,0,D,13,7,4,1,14,12,7,6,2,1,0,0
+13-14,13,30,11,13,Cardiff City,Arsenal FC,0,3,A,10,15,4,6,6,8,3,3,0,3,0,0
+13-14,13,30,11,13,Everton FC,Stoke City,4,0,H,22,4,12,3,9,16,9,3,0,3,0,0
+13-14,13,30,11,13,Newcastle United,West Bromwich Albion,2,1,H,14,14,6,1,15,15,3,3,1,2,0,0
+13-14,13,30,11,13,Norwich City,Crystal Palace,1,0,H,10,13,3,3,12,14,5,4,1,2,0,0
+13-14,13,30,11,13,West Ham United,Fulham FC,3,0,H,23,10,12,0,11,8,6,3,3,2,0,0
+13-14,13,1,12,13,Chelsea FC,Southampton FC,3,1,H,16,9,7,1,15,14,8,4,1,4,0,0
+13-14,13,1,12,13,Hull City,Liverpool FC,3,1,H,12,9,4,4,10,16,2,6,2,0,0,0
+13-14,13,1,12,13,Manchester City,Swansea City,3,0,H,22,9,7,4,7,8,5,4,1,0,0,0
+13-14,13,1,12,13,Tottenham Hotspur,Manchester United,2,2,D,10,8,4,3,9,15,7,7,1,3,0,0
+13-14,14,3,12,13,Crystal Palace,West Ham United,1,0,H,10,11,5,2,10,9,3,4,1,2,0,0
+13-14,14,4,12,13,Arsenal FC,Hull City,2,0,H,20,7,7,2,9,6,11,1,0,0,0,0
+13-14,14,4,12,13,Fulham FC,Tottenham Hotspur,1,2,A,16,18,6,5,7,16,9,7,2,1,0,0
+13-14,14,4,12,13,Liverpool FC,Norwich City,5,1,H,28,14,12,5,10,6,4,0,3,1,0,0
+13-14,14,4,12,13,Manchester United,Everton FC,0,1,A,18,15,6,4,12,12,7,4,2,0,0,0
+13-14,14,4,12,13,Southampton FC,Aston Villa,2,3,A,21,6,9,3,9,13,8,2,3,2,0,0
+13-14,14,4,12,13,Stoke City,Cardiff City,0,0,D,17,14,2,3,11,12,2,5,2,2,0,0
+13-14,14,4,12,13,Sunderland AFC,Chelsea FC,3,4,A,12,19,3,5,15,14,6,5,4,3,0,0
+13-14,14,4,12,13,Swansea City,Newcastle United,3,0,H,13,14,5,3,4,8,5,1,0,2,0,0
+13-14,14,4,12,13,West Bromwich Albion,Manchester City,2,3,A,12,15,1,5,8,10,3,3,1,1,0,0
+13-14,15,7,12,13,Crystal Palace,Cardiff City,2,0,H,19,10,5,2,9,12,8,3,0,0,0,0
+13-14,15,7,12,13,Liverpool FC,West Ham United,4,1,H,32,8,9,1,9,12,8,4,0,3,0,1
+13-14,15,7,12,13,Manchester United,Newcastle United,0,1,A,8,9,4,3,11,18,4,4,0,2,0,0
+13-14,15,7,12,13,Southampton FC,Manchester City,1,1,D,15,13,4,3,6,9,5,4,0,2,0,0
+13-14,15,7,12,13,Stoke City,Chelsea FC,3,2,H,9,15,3,6,14,8,5,2,4,1,0,0
+13-14,15,7,12,13,Sunderland AFC,Tottenham Hotspur,1,2,A,11,22,4,5,14,9,4,10,2,0,0,0
+13-14,15,7,12,13,West Bromwich Albion,Norwich City,0,2,A,26,8,12,3,10,6,10,3,1,3,0,0
+13-14,15,8,12,13,Arsenal FC,Everton FC,1,1,D,11,12,5,4,13,11,3,2,0,4,0,0
+13-14,15,8,12,13,Fulham FC,Aston Villa,2,0,H,22,10,10,2,12,13,4,7,0,2,0,0
+13-14,15,9,12,13,Swansea City,Hull City,1,1,D,11,9,2,2,8,7,12,1,3,3,0,0
+13-14,16,14,12,13,Cardiff City,West Bromwich Albion,1,0,H,11,12,3,2,16,12,8,6,2,1,0,0
+13-14,16,14,12,13,Chelsea FC,Crystal Palace,2,1,H,16,10,7,5,13,7,3,1,2,1,0,0
+13-14,16,14,12,13,Everton FC,Fulham FC,4,1,H,22,16,7,3,10,7,12,2,1,2,0,0
+13-14,16,14,12,13,Hull City,Stoke City,0,0,D,13,11,4,2,11,13,7,5,1,0,0,0
+13-14,16,14,12,13,Manchester City,Arsenal FC,6,3,H,22,12,7,6,12,6,8,8,2,1,0,0
+13-14,16,14,12,13,Newcastle United,Southampton FC,1,1,D,16,8,5,3,10,16,11,3,1,2,0,0
+13-14,16,14,12,13,West Ham United,Sunderland AFC,0,0,D,11,19,2,6,11,5,2,9,1,0,0,0
+13-14,16,15,12,13,Aston Villa,Manchester United,0,3,A,17,14,6,5,15,8,3,4,4,2,0,0
+13-14,16,15,12,13,Norwich City,Swansea City,1,1,D,16,10,3,2,12,11,8,5,0,3,0,0
+13-14,16,15,12,13,Tottenham Hotspur,Liverpool FC,0,5,A,9,21,0,10,17,15,2,9,3,0,1,0
+13-14,17,21,12,13,Crystal Palace,Newcastle United,0,3,A,9,13,4,6,11,14,3,7,1,2,0,0
+13-14,17,21,12,13,Fulham FC,Manchester City,2,4,A,12,17,5,10,7,15,4,4,1,1,0,0
+13-14,17,21,12,13,Liverpool FC,Cardiff City,3,1,H,27,10,7,3,11,13,9,5,2,0,0,0
+13-14,17,21,12,13,Manchester United,West Ham United,3,1,H,21,4,8,1,7,16,8,2,1,4,0,0
+13-14,17,21,12,13,Stoke City,Aston Villa,2,1,H,12,14,2,4,13,17,6,7,1,5,0,0
+13-14,17,21,12,13,Sunderland AFC,Norwich City,0,0,D,18,14,4,5,13,10,6,7,2,1,1,0
+13-14,17,21,12,13,West Bromwich Albion,Hull City,1,1,D,14,6,3,3,8,15,9,2,2,1,0,0
+13-14,17,22,12,13,Southampton FC,Tottenham Hotspur,2,3,A,12,13,5,3,10,18,2,5,1,1,0,0
+13-14,17,22,12,13,Swansea City,Everton FC,1,2,A,13,14,3,6,11,10,4,8,1,0,0,0
+13-14,17,23,12,13,Arsenal FC,Chelsea FC,0,0,D,7,13,2,4,7,11,8,6,2,1,0,0
+13-14,18,26,12,13,Aston Villa,Crystal Palace,0,1,A,10,12,4,7,11,8,7,5,2,2,0,0
+13-14,18,26,12,13,Cardiff City,Southampton FC,0,3,A,9,11,0,6,11,13,6,3,1,2,0,0
+13-14,18,26,12,13,Chelsea FC,Swansea City,1,0,H,19,8,7,1,14,9,13,7,1,0,0,0
+13-14,18,26,12,13,Everton FC,Sunderland AFC,0,1,A,26,13,9,6,11,7,11,2,1,0,1,0
+13-14,18,26,12,13,Hull City,Manchester United,2,3,A,17,13,5,4,12,14,6,5,2,2,0,1
+13-14,18,26,12,13,Manchester City,Liverpool FC,2,1,H,20,12,6,5,10,9,7,6,1,3,0,0
+13-14,18,26,12,13,Newcastle United,Stoke City,5,1,H,27,11,8,3,10,8,8,2,1,1,0,2
+13-14,18,26,12,13,Norwich City,Fulham FC,1,2,A,12,15,3,7,14,10,5,4,3,0,0,0
+13-14,18,26,12,13,Tottenham Hotspur,West Bromwich Albion,1,1,D,20,7,3,4,8,12,12,2,3,2,0,0
+13-14,18,26,12,13,West Ham United,Arsenal FC,1,3,A,12,29,5,8,11,6,0,10,1,1,0,0
+13-14,19,28,12,13,Aston Villa,Swansea City,1,1,D,7,17,3,3,13,9,2,8,3,2,0,0
+13-14,19,28,12,13,Cardiff City,Sunderland AFC,2,2,D,16,21,7,9,14,10,6,6,3,2,0,0
+13-14,19,28,12,13,Hull City,Fulham FC,6,0,H,21,5,13,2,11,9,6,1,0,0,0,0
+13-14,19,28,12,13,Manchester City,Crystal Palace,1,0,H,23,9,4,4,12,7,12,5,1,1,0,0
+13-14,19,28,12,13,Norwich City,Manchester United,0,1,A,15,7,4,3,11,10,8,3,4,3,0,0
+13-14,19,28,12,13,West Ham United,West Bromwich Albion,3,3,D,16,22,6,7,10,13,6,5,3,2,0,0
+13-14,19,29,12,13,Chelsea FC,Liverpool FC,2,1,H,11,8,5,4,17,17,4,2,4,1,0,0
+13-14,19,29,12,13,Everton FC,Southampton FC,2,1,H,9,12,4,2,9,14,2,3,2,4,0,0
+13-14,19,29,12,13,Newcastle United,Arsenal FC,0,1,A,11,11,3,5,10,8,4,1,0,3,0,0
+13-14,19,29,12,13,Tottenham Hotspur,Stoke City,3,0,H,20,2,7,1,6,14,6,1,2,2,0,0
+13-14,20,1,1,14,Arsenal FC,Cardiff City,2,0,H,28,8,6,2,6,11,12,2,1,2,0,0
+13-14,20,1,1,14,Crystal Palace,Norwich City,1,1,D,13,8,4,5,12,10,9,4,2,1,0,1
+13-14,20,1,1,14,Fulham FC,West Ham United,2,1,H,30,11,11,3,6,5,12,4,2,1,0,1
+13-14,20,1,1,14,Liverpool FC,Hull City,2,0,H,17,10,6,0,15,15,3,4,1,2,0,0
+13-14,20,1,1,14,Manchester United,Tottenham Hotspur,1,2,A,16,9,6,4,7,7,13,2,2,1,0,0
+13-14,20,1,1,14,Southampton FC,Chelsea FC,0,3,A,12,11,2,5,13,10,6,8,4,1,0,0
+13-14,20,1,1,14,Stoke City,Everton FC,1,1,D,10,16,4,4,16,11,2,5,4,1,0,0
+13-14,20,1,1,14,Sunderland AFC,Aston Villa,0,1,A,17,13,1,5,8,11,10,2,4,3,0,0
+13-14,20,1,1,14,Swansea City,Manchester City,2,3,A,15,14,4,4,5,10,8,6,2,5,0,0
+13-14,20,1,1,14,West Bromwich Albion,Newcastle United,1,0,H,13,9,4,3,7,15,3,4,0,0,0,1
+13-14,21,11,1,14,Cardiff City,West Ham United,0,2,A,19,10,7,3,7,16,8,7,1,3,0,1
+13-14,21,11,1,14,Everton FC,Norwich City,2,0,H,23,12,5,3,7,14,10,5,1,2,0,0
+13-14,21,11,1,14,Fulham FC,Sunderland AFC,1,4,A,17,10,5,6,15,13,10,6,3,3,0,0
+13-14,21,11,1,14,Hull City,Chelsea FC,0,2,A,10,14,2,5,12,7,1,7,2,1,0,0
+13-14,21,11,1,14,Manchester United,Swansea City,2,0,H,16,13,5,2,9,10,3,5,0,2,0,0
+13-14,21,11,1,14,Southampton FC,West Bromwich Albion,1,0,H,18,4,5,2,11,17,4,4,1,2,0,0
+13-14,21,11,1,14,Tottenham Hotspur,Crystal Palace,2,0,H,10,14,4,2,12,12,5,11,1,2,0,0
+13-14,21,12,1,14,Newcastle United,Manchester City,0,2,A,13,14,5,6,18,15,5,6,4,2,0,0
+13-14,21,12,1,14,Stoke City,Liverpool FC,3,5,A,13,13,4,9,10,8,11,2,1,1,0,0
+13-14,21,13,1,14,Aston Villa,Arsenal FC,1,2,A,11,8,5,4,12,9,3,5,2,2,0,0
+13-14,22,18,1,14,Arsenal FC,Fulham FC,2,0,H,22,8,8,2,5,7,4,4,0,0,0,0
+13-14,22,18,1,14,Crystal Palace,Stoke City,1,0,H,12,17,6,2,9,13,4,3,0,2,0,0
+13-14,22,18,1,14,Liverpool FC,Aston Villa,2,2,D,14,12,6,3,14,18,2,3,1,4,0,0
+13-14,22,18,1,14,Manchester City,Cardiff City,4,2,H,24,7,9,6,6,5,10,7,2,0,0,0
+13-14,22,18,1,14,Norwich City,Hull City,1,0,H,25,10,4,0,8,16,10,8,1,2,0,1
+13-14,22,18,1,14,Sunderland AFC,Southampton FC,2,2,D,10,17,5,8,8,8,4,7,2,0,0,0
+13-14,22,18,1,14,West Ham United,Newcastle United,1,3,A,11,19,2,9,9,6,4,3,0,0,0,0
+13-14,22,19,1,14,Chelsea FC,Manchester United,3,1,H,13,10,6,4,15,21,5,4,1,3,0,1
+13-14,22,19,1,14,Swansea City,Tottenham Hotspur,1,3,A,13,11,3,5,6,9,8,2,2,1,0,0
+13-14,22,20,1,14,West Bromwich Albion,Everton FC,1,1,D,14,13,6,4,16,12,4,2,3,2,0,0
+13-14,23,28,1,14,Crystal Palace,Hull City,1,0,H,13,13,3,4,14,8,8,3,4,0,0,1
+13-14,23,28,1,14,Liverpool FC,Everton FC,4,0,H,20,18,9,4,11,13,5,8,0,3,0,0
+13-14,23,28,1,14,Manchester United,Cardiff City,2,0,H,17,7,5,1,9,9,5,5,0,1,0,0
+13-14,23,28,1,14,Norwich City,Newcastle United,0,0,D,9,22,2,3,13,7,7,7,1,1,1,1
+13-14,23,28,1,14,Southampton FC,Arsenal FC,2,2,D,13,7,5,4,11,4,7,5,1,1,0,1
+13-14,23,28,1,14,Swansea City,Fulham FC,2,0,H,14,15,7,4,14,9,5,8,1,1,0,0
+13-14,23,29,1,14,Aston Villa,West Bromwich Albion,4,3,H,10,12,6,4,15,10,3,3,1,3,0,0
+13-14,23,29,1,14,Chelsea FC,West Ham United,0,0,D,39,1,9,1,12,11,13,3,1,3,0,0
+13-14,23,29,1,14,Sunderland AFC,Stoke City,1,0,H,16,14,6,5,16,15,2,3,2,2,0,1
+13-14,23,29,1,14,Tottenham Hotspur,Manchester City,1,5,A,4,24,2,10,11,10,3,5,1,4,1,0
+13-14,24,1,2,14,Cardiff City,Norwich City,2,1,H,14,27,5,6,8,9,7,14,1,4,0,0
+13-14,24,1,2,14,Everton FC,Aston Villa,2,1,H,13,4,6,1,4,18,13,1,1,0,0,0
+13-14,24,1,2,14,Fulham FC,Southampton FC,0,3,A,8,17,4,5,10,9,4,5,0,3,0,0
+13-14,24,1,2,14,Hull City,Tottenham Hotspur,1,1,D,9,19,4,3,13,9,4,10,1,1,0,0
+13-14,24,1,2,14,Newcastle United,Sunderland AFC,0,3,A,28,16,10,5,18,13,7,3,2,2,0,0
+13-14,24,1,2,14,Stoke City,Manchester United,2,1,H,13,19,6,4,18,7,7,10,2,2,0,0
+13-14,24,1,2,14,West Ham United,Swansea City,2,0,H,11,20,4,0,7,7,8,11,1,0,1,0
+13-14,24,2,2,14,Arsenal FC,Crystal Palace,2,0,H,11,10,6,2,9,14,6,5,1,2,0,0
+13-14,24,2,2,14,West Bromwich Albion,Liverpool FC,1,1,D,12,12,4,3,13,15,3,4,4,2,0,0
+13-14,24,3,2,14,Manchester City,Chelsea FC,0,1,A,25,18,3,6,11,13,12,6,3,3,0,0
+13-14,25,8,2,14,Aston Villa,West Ham United,0,2,A,16,10,1,2,9,8,8,10,0,2,0,0
+13-14,25,8,2,14,Chelsea FC,Newcastle United,3,0,H,18,12,8,6,7,10,6,5,0,3,0,0
+13-14,25,8,2,14,Crystal Palace,West Bromwich Albion,3,1,H,10,16,6,6,13,13,4,7,0,3,0,0
+13-14,25,8,2,14,Liverpool FC,Arsenal FC,5,1,H,22,11,12,6,14,14,6,6,1,2,0,0
+13-14,25,8,2,14,Norwich City,Manchester City,0,0,D,7,15,2,2,7,6,4,14,2,1,0,0
+13-14,25,8,2,14,Southampton FC,Stoke City,2,2,D,17,5,5,4,7,14,7,4,0,4,0,0
+13-14,25,8,2,14,Sunderland AFC,Hull City,0,2,A,7,25,3,9,12,16,2,6,1,3,1,0
+13-14,25,8,2,14,Swansea City,Cardiff City,3,0,H,17,7,6,1,7,8,5,1,1,1,0,0
+13-14,25,9,2,14,Manchester United,Fulham FC,2,2,D,31,6,9,3,3,6,10,1,0,0,0,0
+13-14,25,9,2,14,Tottenham Hotspur,Everton FC,1,0,H,8,11,2,3,9,13,9,7,1,0,0,0
+13-14,26,11,2,14,Cardiff City,Aston Villa,0,0,D,12,18,3,6,5,9,7,9,0,0,0,0
+13-14,26,11,2,14,Hull City,Southampton FC,0,1,A,12,16,4,7,6,8,2,2,0,3,0,0
+13-14,26,11,2,14,West Bromwich Albion,Chelsea FC,1,1,D,12,15,1,4,9,13,5,8,3,4,0,0
+13-14,26,11,2,14,West Ham United,Norwich City,2,0,H,12,13,7,6,12,16,5,5,1,3,0,0
+13-14,26,12,2,14,Arsenal FC,Manchester United,0,0,D,17,6,5,2,10,14,5,5,1,2,0,0
+13-14,26,12,2,14,Fulham FC,Liverpool FC,2,3,A,10,21,3,7,7,9,7,5,4,3,0,0
+13-14,26,12,2,14,Newcastle United,Tottenham Hotspur,0,4,A,13,15,5,8,6,11,8,6,0,0,0,0
+13-14,26,12,2,14,Stoke City,Swansea City,1,1,D,7,13,4,3,11,12,2,5,2,2,0,0
+13-14,27,22,2,14,Arsenal FC,Sunderland AFC,4,1,H,12,7,9,3,10,11,7,3,0,1,0,0
+13-14,27,22,2,14,Cardiff City,Hull City,0,4,A,23,12,5,6,4,11,9,2,1,1,0,0
+13-14,27,22,2,14,Chelsea FC,Everton FC,1,0,H,25,8,8,2,15,12,8,8,1,2,0,0
+13-14,27,22,2,14,Crystal Palace,Manchester United,0,2,A,15,14,6,5,12,10,6,4,0,2,0,0
+13-14,27,22,2,14,Manchester City,Stoke City,1,0,H,19,7,7,2,16,13,8,3,3,1,0,0
+13-14,27,22,2,14,West Bromwich Albion,Fulham FC,1,1,D,16,7,5,3,13,15,8,2,3,3,0,0
+13-14,27,22,2,14,West Ham United,Southampton FC,3,1,H,10,25,5,5,10,8,5,11,0,1,0,0
+13-14,27,23,2,14,Liverpool FC,Swansea City,4,3,H,21,14,10,5,9,11,3,5,1,0,0,0
+13-14,27,23,2,14,Newcastle United,Aston Villa,1,0,H,23,10,5,2,12,10,10,1,2,2,0,0
+13-14,27,23,2,14,Norwich City,Tottenham Hotspur,1,0,H,13,9,3,2,8,15,5,3,1,3,0,0
+13-14,28,1,3,14,Everton FC,West Ham United,1,0,H,22,6,3,1,9,8,11,5,1,1,0,0
+13-14,28,1,3,14,Fulham FC,Chelsea FC,1,3,A,7,17,3,8,14,13,5,4,2,1,0,0
+13-14,28,1,3,14,Hull City,Newcastle United,1,4,A,13,17,3,7,13,10,6,3,3,2,0,0
+13-14,28,1,3,14,Southampton FC,Liverpool FC,0,3,A,13,12,2,5,10,6,3,6,1,2,0,0
+13-14,28,1,3,14,Stoke City,Arsenal FC,1,0,H,8,10,4,2,13,11,3,4,3,1,0,0
+13-14,28,2,3,14,Aston Villa,Norwich City,4,1,H,10,7,4,4,12,10,6,2,0,3,0,0
+13-14,28,2,3,14,Swansea City,Crystal Palace,1,1,D,7,7,5,4,8,11,1,4,1,4,1,0
+13-14,28,2,3,14,Tottenham Hotspur,Cardiff City,1,0,H,15,8,6,2,11,12,4,7,1,3,0,0
+13-14,29,8,3,14,Cardiff City,Fulham FC,3,1,H,19,14,9,6,9,12,7,6,1,0,0,0
+13-14,29,8,3,14,Chelsea FC,Tottenham Hotspur,4,0,H,12,6,4,2,11,18,5,4,2,3,0,1
+13-14,29,8,3,14,Crystal Palace,Southampton FC,0,1,A,6,11,1,3,14,18,8,3,1,5,0,0
+13-14,29,8,3,14,Norwich City,Stoke City,1,1,D,13,6,5,3,9,12,3,1,0,2,0,1
+13-14,29,8,3,14,West Bromwich Albion,Manchester United,0,3,A,14,14,3,5,11,10,3,5,1,2,0,0
+13-14,30,15,3,14,Aston Villa,Chelsea FC,1,0,H,13,15,4,2,14,8,4,5,4,0,0,2
+13-14,30,15,3,14,Everton FC,Cardiff City,2,1,H,19,10,6,3,10,10,10,5,1,3,0,0
+13-14,30,15,3,14,Fulham FC,Newcastle United,1,0,H,12,12,3,3,11,6,9,7,1,0,0,0
+13-14,30,15,3,14,Hull City,Manchester City,0,2,A,15,8,5,3,9,14,3,4,2,2,0,1
+13-14,30,15,3,14,Southampton FC,Norwich City,4,2,H,16,6,6,3,11,17,6,1,1,2,0,0
+13-14,30,15,3,14,Stoke City,West Ham United,3,1,H,17,8,9,2,13,13,6,4,1,1,0,0
+13-14,30,15,3,14,Sunderland AFC,Crystal Palace,0,0,D,19,12,2,5,16,14,6,2,4,4,0,0
+13-14,30,15,3,14,Swansea City,West Bromwich Albion,1,2,A,15,13,4,4,7,13,4,1,1,3,0,0
+13-14,30,16,3,14,Manchester United,Liverpool FC,0,3,A,13,17,1,7,13,12,3,4,1,4,1,0
+13-14,30,16,3,14,Tottenham Hotspur,Arsenal FC,0,1,A,17,7,2,3,18,11,5,2,5,3,0,0
+13-14,31,22,3,14,Cardiff City,Liverpool FC,3,6,A,9,19,3,9,14,11,4,6,2,3,0,0
+13-14,31,22,3,14,Chelsea FC,Arsenal FC,6,0,H,21,12,11,5,14,8,7,1,0,1,0,1
+13-14,31,22,3,14,Everton FC,Swansea City,3,2,H,9,21,6,7,9,6,5,12,0,0,0,0
+13-14,31,22,3,14,Hull City,West Bromwich Albion,2,0,H,12,17,5,4,18,13,4,5,2,0,0,0
+13-14,31,22,3,14,Manchester City,Fulham FC,5,0,H,22,6,12,0,8,15,13,2,0,3,0,1
+13-14,31,22,3,14,Newcastle United,Crystal Palace,1,0,H,21,8,8,1,4,8,9,5,0,1,0,0
+13-14,31,22,3,14,Norwich City,Sunderland AFC,2,0,H,14,10,8,2,16,20,8,5,2,4,0,1
+13-14,31,22,3,14,West Ham United,Manchester United,0,2,A,10,16,1,7,8,8,12,7,2,1,0,0
+13-14,31,23,3,14,Aston Villa,Stoke City,1,4,A,12,10,3,5,16,10,5,3,5,1,0,0
+13-14,31,23,3,14,Tottenham Hotspur,Southampton FC,3,2,H,15,12,6,4,9,9,7,3,1,2,0,0
+13-14,29,25,3,14,Arsenal FC,Swansea City,2,2,D,13,8,4,2,11,12,7,0,0,1,0,0
+13-14,28,25,3,14,Manchester United,Manchester City,0,3,A,10,13,4,4,12,8,5,8,2,2,0,0
+13-14,29,25,3,14,Newcastle United,Everton FC,0,3,A,16,8,3,6,8,10,9,8,0,1,0,0
+13-14,29,26,3,14,Liverpool FC,Sunderland AFC,2,1,H,21,12,7,4,5,15,3,4,0,2,0,0
+13-14,29,26,3,14,West Ham United,Hull City,2,1,H,9,10,3,3,12,9,4,5,0,1,0,1
+13-14,32,29,3,14,Arsenal FC,Manchester City,1,1,D,10,15,3,4,8,11,6,6,1,4,0,0
+13-14,32,29,3,14,Crystal Palace,Chelsea FC,1,0,H,14,21,4,2,10,4,2,13,4,1,0,0
+13-14,32,29,3,14,Manchester United,Aston Villa,4,1,H,9,10,6,1,10,16,0,5,2,4,0,0
+13-14,32,29,3,14,Southampton FC,Newcastle United,4,0,H,23,5,11,2,5,6,7,5,0,1,0,0
+13-14,32,29,3,14,Stoke City,Hull City,1,0,H,15,5,3,3,9,9,8,1,2,0,0,0
+13-14,32,29,3,14,Swansea City,Norwich City,3,0,H,16,8,7,4,15,9,7,4,1,2,0,0
+13-14,32,29,3,14,West Bromwich Albion,Cardiff City,3,3,D,16,11,6,5,12,13,4,1,1,1,0,0
+13-14,32,30,3,14,Fulham FC,Everton FC,1,3,A,23,14,8,7,7,4,5,6,1,2,0,0
+13-14,32,30,3,14,Liverpool FC,Tottenham Hotspur,4,0,H,11,15,5,4,9,9,5,7,0,2,0,0
+13-14,32,31,3,14,Sunderland AFC,West Ham United,1,2,A,26,11,7,6,11,14,8,3,2,4,0,0
+13-14,33,5,4,14,Aston Villa,Fulham FC,1,2,A,12,16,6,8,10,13,2,7,3,2,0,0
+13-14,33,5,4,14,Cardiff City,Crystal Palace,0,3,A,13,13,4,8,5,13,10,3,2,4,0,0
+13-14,33,5,4,14,Chelsea FC,Stoke City,3,0,H,18,4,8,2,8,18,7,3,0,0,0,0
+13-14,33,5,4,14,Hull City,Swansea City,1,0,H,8,12,4,2,6,18,7,2,0,2,0,0
+13-14,33,5,4,14,Manchester City,Southampton FC,4,1,H,15,5,8,1,9,15,5,9,3,0,0,0
+13-14,33,5,4,14,Newcastle United,Manchester United,0,4,A,14,8,4,4,16,6,4,5,1,0,0,0
+13-14,33,5,4,14,Norwich City,West Bromwich Albion,0,1,A,12,8,4,5,10,11,7,3,1,0,0,0
+13-14,33,6,4,14,Everton FC,Arsenal FC,3,0,H,14,15,8,5,6,5,3,6,1,2,0,0
+13-14,33,6,4,14,West Ham United,Liverpool FC,1,2,A,11,17,1,8,10,9,4,4,4,0,0,0
+13-14,33,7,4,14,Tottenham Hotspur,Sunderland AFC,5,1,H,29,8,11,4,12,8,8,2,0,2,0,0
+13-14,34,12,4,14,Crystal Palace,Aston Villa,1,0,H,14,7,4,4,7,12,2,4,0,2,0,0
+13-14,34,12,4,14,Fulham FC,Norwich City,1,0,H,14,13,3,3,10,12,8,8,1,3,0,0
+13-14,34,12,4,14,Southampton FC,Cardiff City,0,1,A,19,6,7,4,9,7,5,5,0,0,0,0
+13-14,34,12,4,14,Stoke City,Newcastle United,1,0,H,10,13,3,1,12,11,4,5,1,1,0,0
+13-14,34,12,4,14,Sunderland AFC,Everton FC,0,1,A,24,20,6,3,17,15,6,6,3,1,0,0
+13-14,34,12,4,14,West Bromwich Albion,Tottenham Hotspur,3,3,D,6,20,5,8,11,8,2,2,4,2,0,0
+13-14,34,13,4,14,Liverpool FC,Manchester City,3,2,H,10,13,4,5,7,9,7,7,1,3,1,0
+13-14,34,13,4,14,Swansea City,Chelsea FC,0,1,A,7,26,4,3,8,13,5,12,0,2,1,0
+13-14,34,15,4,14,Arsenal FC,West Ham United,3,1,H,14,12,8,2,14,12,4,3,2,2,0,0
+13-14,26,16,4,14,Everton FC,Crystal Palace,2,3,A,17,7,5,4,6,10,13,3,1,2,0,0
+13-14,26,16,4,14,Manchester City,Sunderland AFC,2,2,D,16,11,4,3,14,10,3,6,1,2,0,0
+13-14,35,19,4,14,Aston Villa,Southampton FC,0,0,D,6,3,1,2,11,11,5,3,0,2,0,0
+13-14,35,19,4,14,Cardiff City,Stoke City,1,1,D,13,14,4,5,6,12,12,7,2,3,0,0
+13-14,35,19,4,14,Chelsea FC,Sunderland AFC,1,2,A,31,7,15,3,11,14,10,4,1,2,0,0
+13-14,35,19,4,14,Newcastle United,Swansea City,1,2,A,14,10,4,2,6,9,2,8,2,0,0,0
+13-14,35,19,4,14,Tottenham Hotspur,Fulham FC,3,1,H,14,11,5,4,8,11,4,5,0,1,0,0
+13-14,35,19,4,14,West Ham United,Crystal Palace,0,1,A,13,11,4,3,7,16,3,11,1,1,0,0
+13-14,35,20,4,14,Everton FC,Manchester United,2,0,H,17,9,5,2,9,8,6,5,2,2,0,0
+13-14,35,20,4,14,Hull City,Arsenal FC,0,3,A,13,12,4,6,10,7,7,0,1,1,0,0
+13-14,35,20,4,14,Norwich City,Liverpool FC,2,3,A,13,14,5,6,16,10,8,3,3,2,0,0
+13-14,35,21,4,14,Manchester City,West Bromwich Albion,3,1,H,19,10,6,3,9,7,8,2,1,1,0,0
+13-14,26,26,4,14,Fulham FC,Hull City,2,2,D,10,8,3,4,8,7,7,2,1,3,0,0
+13-14,26,26,4,14,Manchester United,Norwich City,4,0,H,25,9,11,2,13,9,5,3,1,1,0,0
+13-14,26,26,4,14,Southampton FC,Everton FC,2,0,H,14,9,4,2,13,12,4,7,0,2,0,0
+13-14,26,26,4,14,Stoke City,Tottenham Hotspur,0,1,A,17,16,3,4,11,6,4,3,1,2,1,0
+13-14,26,26,4,14,Swansea City,Aston Villa,4,1,H,11,11,8,3,9,12,9,6,1,3,0,0
+13-14,26,26,4,14,West Bromwich Albion,West Ham United,1,0,H,19,9,6,3,14,8,7,6,0,1,0,0
+13-14,26,27,4,14,Crystal Palace,Manchester City,0,2,A,3,16,2,6,9,10,4,8,3,1,0,0
+13-14,26,27,4,14,Liverpool FC,Chelsea FC,0,2,A,26,11,8,4,9,7,14,3,0,4,0,0
+13-14,26,27,4,14,Sunderland AFC,Cardiff City,4,0,H,21,6,7,1,10,11,11,5,5,3,0,1
+13-14,26,28,4,14,Arsenal FC,Newcastle United,3,0,H,20,8,8,3,9,8,14,0,3,2,0,0
+13-14,37,3,5,14,Aston Villa,Hull City,3,1,H,15,7,9,2,14,9,8,5,0,0,0,0
+13-14,37,3,5,14,Manchester United,Sunderland AFC,0,1,A,17,8,2,1,11,12,8,0,2,1,0,0
+13-14,37,3,5,14,Newcastle United,Cardiff City,3,0,H,22,16,6,3,9,6,10,6,1,0,0,0
+13-14,37,3,5,14,Stoke City,Fulham FC,4,1,H,23,10,8,2,9,13,3,5,0,2,0,0
+13-14,37,3,5,14,Swansea City,Southampton FC,0,1,A,12,18,3,4,11,5,3,5,1,1,0,0
+13-14,37,3,5,14,West Ham United,Tottenham Hotspur,2,0,H,20,12,8,3,10,16,10,6,0,4,0,1
+13-14,37,3,5,14,Everton FC,Manchester City,2,3,A,9,18,4,6,3,9,4,3,0,3,0,0
+13-14,37,4,5,14,Arsenal FC,West Bromwich Albion,1,0,H,15,11,4,1,9,6,9,10,2,2,0,0
+13-14,37,4,5,14,Chelsea FC,Norwich City,0,0,D,23,6,4,3,9,17,5,2,1,3,0,0
+13-14,37,5,5,14,Crystal Palace,Liverpool FC,3,3,D,10,26,6,9,7,12,7,7,2,3,0,0
+13-14,34,6,5,14,Manchester United,Hull City,3,1,H,18,2,7,2,13,9,8,0,1,1,0,0
+13-14,29,7,5,14,Manchester City,Aston Villa,4,0,H,18,5,9,0,8,9,7,2,1,2,0,0
+13-14,28,7,5,14,Sunderland AFC,West Bromwich Albion,2,0,H,10,13,4,3,14,12,5,0,0,0,0,0
+13-14,38,11,5,14,Cardiff City,Chelsea FC,1,2,A,10,28,4,7,7,9,3,8,1,2,0,0
+13-14,38,11,5,14,Fulham FC,Crystal Palace,2,2,D,15,15,5,6,11,15,6,4,3,1,0,0
+13-14,38,11,5,14,Hull City,Everton FC,0,2,A,12,11,3,4,8,8,6,4,0,1,0,0
+13-14,38,11,5,14,Liverpool FC,Newcastle United,2,1,H,13,8,5,2,8,16,6,2,1,3,0,2
+13-14,38,11,5,14,Manchester City,West Ham United,2,0,H,28,3,7,0,7,9,12,1,2,2,0,0
+13-14,38,11,5,14,Norwich City,Arsenal FC,0,2,A,11,14,5,8,6,5,4,4,1,0,0,0
+13-14,38,11,5,14,Southampton FC,Manchester United,1,1,D,15,8,6,2,16,5,6,2,3,2,0,0
+13-14,38,11,5,14,Sunderland AFC,Swansea City,1,3,A,20,8,4,4,14,15,6,3,2,3,0,0
+13-14,38,11,5,14,Tottenham Hotspur,Aston Villa,3,0,H,12,4,6,1,11,11,5,1,1,0,0,0
+13-14,38,11,5,14,West Bromwich Albion,Stoke City,1,2,A,17,15,4,4,4,7,11,6,0,0,0,0
+14-15,1,16,8,14,Arsenal FC,Crystal Palace,2,1,H,14,4,6,2,13,19,9,3,2,2,0,1
+14-15,1,16,8,14,Leicester City,Everton FC,2,2,D,11,13,3,3,16,10,3,6,1,1,0,0
+14-15,1,16,8,14,Manchester United,Swansea City,1,2,A,14,5,5,4,14,20,4,0,2,4,0,0
+14-15,1,16,8,14,Queen Park Rangers,Hull City,0,1,A,19,11,6,4,10,10,8,9,1,2,0,0
+14-15,1,16,8,14,Stoke City,Aston Villa,0,1,A,12,7,2,2,14,9,2,8,0,3,0,0
+14-15,1,16,8,14,West Bromwich Albion,Sunderland AFC,2,2,D,10,7,5,2,18,9,6,3,3,1,0,0
+14-15,1,16,8,14,West Ham United,Tottenham Hotspur,0,1,A,18,10,4,4,12,10,8,5,1,0,1,1
+14-15,1,17,8,14,Liverpool FC,Southampton FC,2,1,H,12,12,5,6,8,11,2,6,1,2,0,0
+14-15,1,17,8,14,Newcastle United,Manchester City,0,2,A,12,13,0,5,8,11,3,3,1,5,0,0
+14-15,1,18,8,14,Burnley FC,Chelsea FC,1,3,A,9,11,2,3,6,7,4,3,1,1,0,0
+14-15,2,23,8,14,Aston Villa,Newcastle United,0,0,D,9,11,0,4,11,8,7,7,4,0,0,1
+14-15,2,23,8,14,Chelsea FC,Leicester City,2,0,H,27,6,10,4,11,11,8,7,0,1,0,0
+14-15,2,23,8,14,Crystal Palace,West Ham United,1,3,A,9,17,4,8,14,11,6,9,1,3,0,0
+14-15,2,23,8,14,Everton FC,Arsenal FC,2,2,D,8,13,2,3,10,18,3,3,1,4,0,0
+14-15,2,23,8,14,Southampton FC,West Bromwich Albion,0,0,D,8,8,2,2,14,15,1,5,1,2,0,0
+14-15,2,23,8,14,Swansea City,Burnley FC,1,0,H,10,12,5,1,14,13,2,3,2,1,0,0
+14-15,2,24,8,14,Hull City,Stoke City,1,1,D,9,19,2,3,10,10,4,5,1,3,1,0
+14-15,2,24,8,14,Sunderland AFC,Manchester United,1,1,D,11,10,3,3,10,15,4,4,0,2,0,0
+14-15,2,24,8,14,Tottenham Hotspur,Queen Park Rangers,4,0,H,18,9,5,1,12,6,7,6,0,1,0,0
+14-15,2,25,8,14,Manchester City,Liverpool FC,3,1,H,9,11,4,3,13,7,6,7,1,1,0,0
+14-15,3,30,8,14,Burnley FC,Manchester United,0,0,D,9,7,3,2,10,14,3,6,2,2,0,0
+14-15,3,30,8,14,Everton FC,Chelsea FC,3,6,A,17,12,7,8,7,16,8,2,1,3,0,0
+14-15,3,30,8,14,Manchester City,Stoke City,0,1,A,16,7,2,2,14,5,11,4,2,1,0,0
+14-15,3,30,8,14,Newcastle United,Crystal Palace,3,3,D,18,12,4,7,12,19,11,4,1,3,0,0
+14-15,3,30,8,14,Queen Park Rangers,Sunderland AFC,1,0,H,18,16,5,6,8,9,4,6,1,2,0,0
+14-15,3,30,8,14,Swansea City,West Bromwich Albion,3,0,H,15,16,8,2,10,8,0,7,1,2,0,0
+14-15,3,30,8,14,West Ham United,Southampton FC,1,3,A,4,18,2,8,11,13,2,9,2,1,0,0
+14-15,3,31,8,14,Aston Villa,Hull City,2,1,H,11,9,4,3,9,10,3,7,1,4,0,0
+14-15,3,31,8,14,Leicester City,Arsenal FC,1,1,D,9,24,3,6,14,6,5,10,3,1,0,0
+14-15,3,31,8,14,Tottenham Hotspur,Liverpool FC,0,3,A,7,17,1,8,14,11,7,3,0,4,0,0
+14-15,4,13,9,14,Arsenal FC,Manchester City,2,2,D,15,15,6,8,11,15,0,3,3,4,0,0
+14-15,4,13,9,14,Chelsea FC,Swansea City,4,2,H,29,11,9,2,12,11,7,4,0,3,0,0
+14-15,4,13,9,14,Crystal Palace,Burnley FC,0,0,D,14,11,3,3,12,10,5,5,2,3,0,0
+14-15,4,13,9,14,Liverpool FC,Aston Villa,0,1,A,18,5,1,1,9,10,7,6,2,1,0,0
+14-15,4,13,9,14,Southampton FC,Newcastle United,4,0,H,10,9,7,4,15,7,5,5,0,2,0,0
+14-15,4,13,9,14,Stoke City,Leicester City,0,1,A,24,8,4,1,8,15,13,3,3,0,0,0
+14-15,4,13,9,14,Sunderland AFC,Tottenham Hotspur,2,2,D,6,15,1,6,10,13,5,5,5,1,0,0
+14-15,4,13,9,14,West Bromwich Albion,Everton FC,0,2,A,11,11,1,4,12,8,9,1,2,3,0,0
+14-15,4,14,9,14,Manchester United,Queen Park Rangers,4,0,H,19,9,9,2,11,8,3,1,1,0,0,0
+14-15,4,15,9,14,Hull City,West Ham United,2,2,D,11,16,6,4,12,7,3,10,3,1,0,0
+14-15,5,20,9,14,Aston Villa,Arsenal FC,0,3,A,6,9,2,3,11,9,5,5,1,3,0,0
+14-15,5,20,9,14,Burnley FC,Sunderland AFC,0,0,D,17,14,6,6,14,14,5,1,1,2,0,0
+14-15,5,20,9,14,Newcastle United,Hull City,2,2,D,25,10,7,3,11,11,4,2,4,2,0,0
+14-15,5,20,9,14,Queen Park Rangers,Stoke City,2,2,D,21,8,5,4,6,15,10,1,2,4,0,0
+14-15,5,20,9,14,Swansea City,Southampton FC,0,1,A,5,11,2,4,11,15,2,4,0,4,1,0
+14-15,5,20,9,14,West Ham United,Liverpool FC,3,1,H,13,11,7,5,16,11,7,5,4,1,0,0
+14-15,5,21,9,14,Everton FC,Crystal Palace,2,3,A,17,10,6,3,8,13,7,1,2,2,0,0
+14-15,5,21,9,14,Leicester City,Manchester United,5,3,H,15,16,5,5,11,9,2,4,1,1,0,1
+14-15,5,21,9,14,Manchester City,Chelsea FC,1,1,D,16,6,4,2,16,12,14,2,3,4,1,0
+14-15,5,21,9,14,Tottenham Hotspur,West Bromwich Albion,0,1,A,7,10,1,4,12,7,9,7,2,2,0,0
+14-15,6,27,9,14,Arsenal FC,Tottenham Hotspur,1,1,D,16,6,6,4,7,16,15,5,3,6,0,0
+14-15,6,27,9,14,Chelsea FC,Aston Villa,3,0,H,17,7,8,1,11,9,9,2,2,2,0,0
+14-15,6,27,9,14,Crystal Palace,Leicester City,2,0,H,16,7,6,1,14,9,6,6,0,2,0,0
+14-15,6,27,9,14,Hull City,Manchester City,2,4,A,10,20,5,6,10,6,3,8,0,2,0,0
+14-15,6,27,9,14,Liverpool FC,Everton FC,1,1,D,24,11,8,5,8,9,8,2,2,1,0,0
+14-15,6,27,9,14,Manchester United,West Ham United,2,1,H,8,13,3,4,10,12,7,10,1,3,1,0
+14-15,6,27,9,14,Southampton FC,Queen Park Rangers,2,1,H,19,10,9,2,12,11,6,3,2,1,0,0
+14-15,6,27,9,14,Sunderland AFC,Swansea City,0,0,D,15,7,3,1,13,15,10,1,2,1,0,1
+14-15,6,28,9,14,West Bromwich Albion,Burnley FC,4,0,H,20,10,6,2,7,9,10,2,1,2,0,0
+14-15,6,29,9,14,Stoke City,Newcastle United,1,0,H,12,16,3,1,20,15,2,10,1,2,0,0
+14-15,7,4,10,14,Aston Villa,Manchester City,0,2,A,6,27,1,7,4,6,0,7,0,1,0,0
+14-15,7,4,10,14,Hull City,Crystal Palace,2,0,H,15,11,2,2,6,14,6,7,1,2,0,0
+14-15,7,4,10,14,Leicester City,Burnley FC,2,2,D,15,10,6,4,16,12,9,3,2,2,0,0
+14-15,7,4,10,14,Liverpool FC,West Bromwich Albion,2,1,H,19,8,7,4,12,15,5,5,2,2,0,0
+14-15,7,4,10,14,Sunderland AFC,Stoke City,3,1,H,8,11,3,5,10,17,7,4,3,4,0,0
+14-15,7,4,10,14,Swansea City,Newcastle United,2,2,D,11,9,5,4,11,15,3,1,1,3,0,0
+14-15,7,5,10,14,Chelsea FC,Arsenal FC,2,0,H,5,10,3,0,14,10,2,2,4,3,0,0
+14-15,7,5,10,14,Manchester United,Everton FC,2,1,H,15,10,4,6,18,11,11,6,4,3,0,0
+14-15,7,5,10,14,Tottenham Hotspur,Southampton FC,1,0,H,9,7,4,3,15,9,10,5,2,1,0,0
+14-15,7,5,10,14,West Ham United,Queen Park Rangers,2,0,H,11,10,3,3,10,11,7,5,2,2,0,0
+14-15,8,18,10,14,Arsenal FC,Hull City,2,2,D,25,4,9,4,9,13,10,0,2,2,0,0
+14-15,8,18,10,14,Burnley FC,West Ham United,1,3,A,17,22,3,6,3,10,5,7,0,1,0,0
+14-15,8,18,10,14,Crystal Palace,Chelsea FC,1,2,A,7,14,4,5,13,7,3,2,1,1,1,1
+14-15,8,18,10,14,Everton FC,Aston Villa,3,0,H,15,10,6,2,11,16,3,4,2,2,0,0
+14-15,8,18,10,14,Manchester City,Tottenham Hotspur,4,1,H,20,19,12,7,11,9,3,4,1,2,0,1
+14-15,8,18,10,14,Newcastle United,Leicester City,1,0,H,19,7,6,2,13,15,10,7,0,3,0,0
+14-15,8,18,10,14,Southampton FC,Sunderland AFC,8,0,H,20,12,11,1,11,8,5,6,1,3,0,0
+14-15,8,19,10,14,Queen Park Rangers,Liverpool FC,2,3,A,15,15,6,5,10,15,7,2,2,3,0,0
+14-15,8,19,10,14,Stoke City,Swansea City,2,1,H,17,13,3,5,17,7,3,5,4,1,0,0
+14-15,8,20,10,14,West Bromwich Albion,Manchester United,2,2,D,8,22,2,7,6,8,0,11,1,2,0,0
+14-15,9,25,10,14,Liverpool FC,Hull City,0,0,D,17,6,4,3,12,17,14,1,3,2,0,0
+14-15,9,25,10,14,Southampton FC,Stoke City,1,0,H,20,8,2,1,10,12,6,3,0,2,0,0
+14-15,9,25,10,14,Sunderland AFC,Arsenal FC,0,2,A,11,15,3,5,11,9,3,3,3,3,0,0
+14-15,9,25,10,14,Swansea City,Leicester City,2,0,H,7,9,3,4,7,10,2,2,0,0,0,0
+14-15,9,25,10,14,West Bromwich Albion,Crystal Palace,2,2,D,17,8,4,6,14,8,6,3,3,1,0,0
+14-15,9,25,10,14,West Ham United,Manchester City,2,1,H,12,21,4,5,12,14,4,8,2,1,0,0
+14-15,9,26,10,14,Burnley FC,Everton FC,1,3,A,14,15,3,6,12,7,5,4,4,2,0,0
+14-15,9,26,10,14,Manchester United,Chelsea FC,1,1,D,19,9,7,4,13,14,4,7,3,5,0,1
+14-15,9,26,10,14,Tottenham Hotspur,Newcastle United,1,2,A,17,8,2,2,9,12,10,2,2,4,0,0
+14-15,9,27,10,14,Queen Park Rangers,Aston Villa,2,0,H,11,15,4,6,11,14,2,4,0,2,0,0
+14-15,10,1,11,14,Arsenal FC,Burnley FC,3,0,H,32,6,13,2,5,9,18,1,0,1,0,0
+14-15,10,1,11,14,Chelsea FC,Queen Park Rangers,2,1,H,18,7,8,1,8,12,13,2,0,0,0,0
+14-15,10,1,11,14,Everton FC,Swansea City,0,0,D,17,8,3,0,10,15,11,0,2,3,0,1
+14-15,10,1,11,14,Hull City,Southampton FC,0,1,A,8,10,1,3,6,9,7,4,1,0,0,0
+14-15,10,1,11,14,Leicester City,West Bromwich Albion,0,1,A,14,8,5,3,5,12,8,3,0,1,0,0
+14-15,10,1,11,14,Newcastle United,Liverpool FC,1,0,H,14,6,3,3,13,8,7,2,4,3,0,0
+14-15,10,1,11,14,Stoke City,West Ham United,2,2,D,21,10,6,2,14,13,9,2,1,1,0,0
+14-15,10,2,11,14,Aston Villa,Tottenham Hotspur,1,2,A,12,18,1,7,12,11,3,9,3,3,1,0
+14-15,10,2,11,14,Manchester City,Manchester United,1,0,H,16,9,6,2,15,9,7,4,3,1,0,1
+14-15,10,3,11,14,Crystal Palace,Sunderland AFC,1,3,A,9,8,1,7,12,19,11,2,0,3,1,0
+14-15,11,8,11,14,Burnley FC,Hull City,1,0,H,14,12,3,1,17,17,7,1,6,4,0,0
+14-15,11,8,11,14,Liverpool FC,Chelsea FC,1,2,A,12,15,4,5,9,12,5,7,2,5,0,0
+14-15,11,8,11,14,Manchester United,Crystal Palace,1,0,H,23,6,5,1,8,12,11,4,1,3,0,0
+14-15,11,8,11,14,Queen Park Rangers,Manchester City,2,2,D,17,23,4,6,9,10,7,7,4,2,0,0
+14-15,11,8,11,14,Southampton FC,Leicester City,2,0,H,18,5,6,0,10,12,13,4,2,2,0,0
+14-15,11,8,11,14,West Ham United,Aston Villa,0,0,D,21,12,5,4,9,10,13,2,0,3,0,0
+14-15,11,9,11,14,Sunderland AFC,Everton FC,1,1,D,10,16,3,7,11,13,5,4,1,2,0,0
+14-15,11,9,11,14,Swansea City,Arsenal FC,2,1,H,11,12,5,4,10,16,6,10,5,5,0,0
+14-15,11,9,11,14,Tottenham Hotspur,Stoke City,1,2,A,14,11,4,4,20,13,5,5,3,2,1,0
+14-15,11,9,11,14,West Bromwich Albion,Newcastle United,0,2,A,10,8,2,3,12,6,7,4,0,0,0,0
+14-15,12,22,11,14,Arsenal FC,Manchester United,1,2,A,23,12,9,2,12,8,11,5,2,1,0,0
+14-15,12,22,11,14,Chelsea FC,West Bromwich Albion,2,0,H,21,5,8,1,7,9,15,0,1,0,0,1
+14-15,12,22,11,14,Everton FC,West Ham United,2,1,H,14,14,4,3,10,13,1,5,2,3,0,0
+14-15,12,22,11,14,Leicester City,Sunderland AFC,0,0,D,13,10,4,5,18,12,6,9,2,3,0,0
+14-15,12,22,11,14,Manchester City,Swansea City,2,1,H,23,8,10,3,13,9,7,3,2,1,0,0
+14-15,12,22,11,14,Newcastle United,Queen Park Rangers,1,0,H,14,13,6,4,12,15,16,7,2,3,0,0
+14-15,12,22,11,14,Stoke City,Burnley FC,1,2,A,25,5,4,4,10,9,14,0,2,2,0,0
+14-15,12,23,11,14,Crystal Palace,Liverpool FC,3,1,H,15,12,5,1,21,10,4,3,1,2,0,0
+14-15,12,23,11,14,Hull City,Tottenham Hotspur,1,2,A,10,23,2,6,15,9,3,9,3,1,1,0
+14-15,12,24,11,14,Aston Villa,Southampton FC,1,1,D,7,15,1,4,15,17,2,8,1,2,0,0
+14-15,13,29,11,14,Burnley FC,Aston Villa,1,1,D,11,18,4,7,8,8,1,5,3,4,0,0
+14-15,13,29,11,14,Liverpool FC,Stoke City,1,0,H,16,13,3,4,11,9,5,5,0,3,0,0
+14-15,13,29,11,14,Manchester United,Hull City,3,0,H,12,4,6,2,12,12,7,0,2,2,0,0
+14-15,13,29,11,14,Queen Park Rangers,Leicester City,3,2,H,32,19,6,5,8,17,11,5,3,2,0,0
+14-15,13,29,11,14,Sunderland AFC,Chelsea FC,0,0,D,12,24,3,6,13,10,2,8,3,2,0,0
+14-15,13,29,11,14,Swansea City,Crystal Palace,1,1,D,18,11,4,5,6,12,4,6,0,2,0,0
+14-15,13,29,11,14,West Bromwich Albion,Arsenal FC,0,1,A,9,17,1,5,9,10,4,4,2,1,0,0
+14-15,13,29,11,14,West Ham United,Newcastle United,1,0,H,12,7,3,1,9,16,6,2,3,2,0,1
+14-15,13,30,11,14,Southampton FC,Manchester City,0,3,A,13,15,4,6,10,13,8,6,1,2,0,1
+14-15,13,30,11,14,Tottenham Hotspur,Everton FC,2,1,H,13,10,6,5,15,5,3,4,5,1,0,0
+14-15,14,2,12,14,Burnley FC,Newcastle United,1,1,D,12,11,2,4,12,12,2,5,2,2,0,0
+14-15,14,2,12,14,Crystal Palace,Aston Villa,0,1,A,17,5,5,3,16,15,8,2,2,2,0,0
+14-15,14,2,12,14,Leicester City,Liverpool FC,1,3,A,20,11,4,3,11,10,7,4,1,2,1,0
+14-15,14,2,12,14,Manchester United,Stoke City,2,1,H,10,5,3,4,8,13,2,2,2,4,0,0
+14-15,14,2,12,14,Swansea City,Queen Park Rangers,2,0,H,18,5,7,1,8,12,9,2,2,2,0,0
+14-15,14,2,12,14,West Bromwich Albion,West Ham United,1,2,A,23,11,5,6,11,17,7,3,2,1,0,0
+14-15,14,3,12,14,Arsenal FC,Southampton FC,1,0,H,19,6,8,1,7,14,9,4,0,2,0,0
+14-15,14,3,12,14,Chelsea FC,Tottenham Hotspur,3,0,H,12,10,8,2,9,9,1,6,1,1,0,0
+14-15,14,3,12,14,Everton FC,Hull City,1,1,D,13,8,5,1,8,12,6,4,1,1,0,0
+14-15,14,3,12,14,Sunderland AFC,Manchester City,1,4,A,8,15,2,4,9,8,2,0,1,1,0,0
+14-15,15,6,12,14,Hull City,West Bromwich Albion,0,0,D,12,6,2,3,10,16,3,2,1,1,0,0
+14-15,15,6,12,14,Liverpool FC,Sunderland AFC,0,0,D,15,7,2,1,12,15,5,7,1,3,0,0
+14-15,15,6,12,14,Manchester City,Everton FC,1,0,H,19,9,3,2,8,11,11,7,3,3,0,0
+14-15,15,6,12,14,Newcastle United,Chelsea FC,2,1,H,9,26,3,8,8,6,1,10,2,3,1,0
+14-15,15,6,12,14,Queen Park Rangers,Burnley FC,2,0,H,11,15,6,3,12,12,3,11,1,1,1,0
+14-15,15,6,12,14,Stoke City,Arsenal FC,3,2,H,13,15,4,6,17,14,3,9,3,2,0,1
+14-15,15,6,12,14,Tottenham Hotspur,Crystal Palace,0,0,D,14,16,3,4,11,10,2,12,1,0,0,0
+14-15,15,7,12,14,Aston Villa,Leicester City,2,1,H,16,10,7,4,9,14,5,5,4,4,0,1
+14-15,15,7,12,14,West Ham United,Swansea City,3,1,H,15,11,7,2,11,18,7,4,0,1,0,1
+14-15,15,8,12,14,Southampton FC,Manchester United,1,2,A,15,3,4,2,12,9,5,1,2,1,0,0
+14-15,16,13,12,14,Arsenal FC,Newcastle United,4,1,H,17,10,4,4,14,15,9,6,2,2,0,0
+14-15,16,13,12,14,Burnley FC,Southampton FC,1,0,H,7,15,2,4,15,11,2,5,1,3,0,0
+14-15,16,13,12,14,Chelsea FC,Hull City,2,0,H,12,8,3,0,13,13,5,4,3,3,0,1
+14-15,16,13,12,14,Crystal Palace,Stoke City,1,1,D,10,7,3,3,12,11,9,8,2,0,0,0
+14-15,16,13,12,14,Leicester City,Manchester City,0,1,A,7,9,1,4,15,13,8,2,0,2,0,0
+14-15,16,13,12,14,Sunderland AFC,West Ham United,1,1,D,13,19,4,8,11,18,6,8,2,2,0,0
+14-15,16,13,12,14,West Bromwich Albion,Aston Villa,1,0,H,13,7,5,2,17,12,4,2,4,2,0,1
+14-15,16,14,12,14,Manchester United,Liverpool FC,3,0,H,11,19,6,9,13,14,2,7,4,3,0,0
+14-15,16,14,12,14,Swansea City,Tottenham Hotspur,1,2,A,15,10,3,4,7,17,7,9,3,4,0,0
+14-15,16,15,12,14,Everton FC,Queen Park Rangers,3,1,H,13,17,5,4,11,12,1,8,1,1,0,0
+14-15,17,20,12,14,Aston Villa,Manchester United,1,1,D,10,16,4,9,9,10,3,9,1,1,1,0
+14-15,17,20,12,14,Hull City,Swansea City,0,1,A,11,13,3,3,14,16,4,5,2,2,0,0
+14-15,17,20,12,14,Manchester City,Crystal Palace,3,0,H,15,6,3,1,17,5,8,6,2,1,0,0
+14-15,17,20,12,14,Queen Park Rangers,West Bromwich Albion,3,2,H,17,16,7,6,16,8,5,11,1,0,0,0
+14-15,17,20,12,14,Southampton FC,Everton FC,3,0,H,11,13,3,4,11,10,4,6,1,1,0,0
+14-15,17,20,12,14,Tottenham Hotspur,Burnley FC,2,1,H,23,9,6,5,9,8,9,6,1,0,0,0
+14-15,17,20,12,14,West Ham United,Leicester City,2,0,H,10,10,2,4,8,17,9,4,0,3,0,0
+14-15,17,21,12,14,Liverpool FC,Arsenal FC,2,2,D,27,7,10,3,6,14,10,6,0,3,1,0
+14-15,17,21,12,14,Newcastle United,Sunderland AFC,0,1,A,15,16,7,3,15,15,7,1,4,4,0,0
+14-15,17,22,12,14,Stoke City,Chelsea FC,0,2,A,13,15,2,6,11,4,6,5,3,0,0,0
+14-15,18,26,12,14,Arsenal FC,Queen Park Rangers,2,1,H,15,16,5,2,6,15,6,2,1,4,1,0
+14-15,18,26,12,14,Burnley FC,Liverpool FC,0,1,A,16,10,0,3,7,5,8,2,0,1,0,0
+14-15,18,26,12,14,Chelsea FC,West Ham United,2,0,H,28,6,9,0,8,14,8,6,0,3,0,0
+14-15,18,26,12,14,Crystal Palace,Southampton FC,1,3,A,11,13,4,6,15,10,8,4,1,0,0,0
+14-15,18,26,12,14,Everton FC,Stoke City,0,1,A,16,12,5,2,9,15,9,3,2,3,0,0
+14-15,18,26,12,14,Leicester City,Tottenham Hotspur,1,2,A,22,8,6,3,10,14,11,1,1,2,0,0
+14-15,18,26,12,14,Manchester United,Newcastle United,3,1,H,9,8,4,4,16,9,4,5,1,2,0,0
+14-15,18,26,12,14,Sunderland AFC,Hull City,1,3,A,12,13,3,5,12,6,10,4,4,2,0,0
+14-15,18,26,12,14,Swansea City,Aston Villa,1,0,H,7,11,2,3,17,12,4,0,1,4,0,0
+14-15,18,26,12,14,West Bromwich Albion,Manchester City,1,3,A,18,9,6,5,5,9,10,6,0,1,0,0
+14-15,19,28,12,14,Aston Villa,Sunderland AFC,0,0,D,14,15,3,3,4,11,4,4,1,4,1,0
+14-15,19,28,12,14,Hull City,Leicester City,0,1,A,18,4,5,2,12,12,7,1,0,1,1,1
+14-15,19,28,12,14,Manchester City,Burnley FC,2,2,D,17,12,6,3,18,9,10,3,4,1,0,0
+14-15,19,28,12,14,Newcastle United,Everton FC,3,2,H,13,9,6,2,13,8,8,3,2,2,0,0
+14-15,19,28,12,14,Queen Park Rangers,Crystal Palace,0,0,D,11,10,3,3,11,17,9,4,2,1,0,0
+14-15,19,28,12,14,Southampton FC,Chelsea FC,1,1,D,9,7,1,1,23,14,4,6,2,2,1,0
+14-15,19,28,12,14,Stoke City,West Bromwich Albion,2,0,H,13,15,3,4,11,14,5,3,0,2,0,0
+14-15,19,28,12,14,Tottenham Hotspur,Manchester United,0,0,D,9,9,4,5,11,19,3,6,2,4,0,0
+14-15,19,28,12,14,West Ham United,Arsenal FC,1,2,A,14,21,4,7,12,13,7,8,3,3,0,0
+14-15,19,29,12,14,Liverpool FC,Swansea City,4,1,H,21,11,11,4,8,5,6,3,1,0,0,0
+14-15,20,1,1,15,Aston Villa,Crystal Palace,0,0,D,14,6,3,0,11,12,5,2,1,1,0,0
+14-15,20,1,1,15,Hull City,Everton FC,2,0,H,14,9,5,3,16,15,4,8,2,3,0,1
+14-15,20,1,1,15,Liverpool FC,Leicester City,2,2,D,18,16,6,3,13,10,4,5,2,2,0,0
+14-15,20,1,1,15,Manchester City,Sunderland AFC,3,2,H,32,4,12,4,14,7,10,4,2,3,0,0
+14-15,20,1,1,15,Newcastle United,Burnley FC,3,3,D,10,15,4,4,12,13,5,5,2,4,0,0
+14-15,20,1,1,15,Queen Park Rangers,Swansea City,1,1,D,24,25,6,6,22,5,4,9,4,0,0,1
+14-15,20,1,1,15,Southampton FC,Arsenal FC,2,0,H,13,11,6,6,14,7,2,7,2,1,0,0
+14-15,20,1,1,15,Stoke City,Manchester United,1,1,D,11,6,2,2,8,12,11,7,0,0,0,0
+14-15,20,1,1,15,Tottenham Hotspur,Chelsea FC,5,3,H,11,19,8,7,14,10,5,3,3,1,0,0
+14-15,20,1,1,15,West Ham United,West Bromwich Albion,1,1,D,8,14,3,3,6,13,0,1,1,0,0,0
+14-15,21,10,1,15,Burnley FC,Queen Park Rangers,2,1,H,18,17,7,7,14,9,10,6,2,2,0,0
+14-15,21,10,1,15,Chelsea FC,Newcastle United,2,0,H,9,11,5,5,13,13,7,4,2,3,0,0
+14-15,21,10,1,15,Crystal Palace,Tottenham Hotspur,2,1,H,21,9,7,5,9,14,4,6,5,3,0,0
+14-15,21,10,1,15,Everton FC,Manchester City,1,1,D,11,18,4,2,9,10,4,9,1,2,0,0
+14-15,21,10,1,15,Leicester City,Aston Villa,1,0,H,11,12,3,1,18,6,6,6,1,1,1,1
+14-15,21,10,1,15,Sunderland AFC,Liverpool FC,0,1,A,5,21,1,4,12,11,6,6,1,4,1,0
+14-15,21,10,1,15,Swansea City,West Ham United,1,1,D,19,11,3,5,9,7,4,5,0,1,0,0
+14-15,21,10,1,15,West Bromwich Albion,Hull City,1,0,H,9,12,3,2,5,13,5,2,1,0,0,0
+14-15,21,11,1,15,Arsenal FC,Stoke City,3,0,H,14,7,6,2,11,11,9,1,0,3,0,0
+14-15,21,11,1,15,Manchester United,Southampton FC,0,1,A,10,9,0,1,9,10,3,5,2,3,0,0
+14-15,22,17,1,15,Aston Villa,Liverpool FC,0,2,A,15,12,4,5,13,11,9,5,1,1,0,0
+14-15,22,17,1,15,Burnley FC,Crystal Palace,2,3,A,7,11,4,4,10,20,5,7,1,3,0,0
+14-15,22,17,1,15,Leicester City,Stoke City,0,1,A,7,13,3,3,9,6,6,5,1,0,0,0
+14-15,22,17,1,15,Newcastle United,Southampton FC,1,2,A,16,5,3,3,9,8,9,0,0,2,0,0
+14-15,22,17,1,15,Queen Park Rangers,Manchester United,0,2,A,18,12,4,7,12,10,3,3,3,2,0,0
+14-15,22,17,1,15,Swansea City,Chelsea FC,0,5,A,11,21,0,11,9,13,1,2,0,0,0,0
+14-15,22,17,1,15,Tottenham Hotspur,Sunderland AFC,2,1,H,25,8,8,4,14,8,6,6,1,2,0,0
+14-15,22,18,1,15,Manchester City,Arsenal FC,0,2,A,12,9,4,3,12,5,16,3,3,3,0,0
+14-15,22,18,1,15,West Ham United,Hull City,3,0,H,17,9,6,3,5,14,4,7,1,3,0,0
+14-15,22,19,1,15,Everton FC,West Bromwich Albion,0,0,D,17,5,4,0,11,12,8,1,3,2,0,0
+14-15,23,31,1,15,Chelsea FC,Manchester City,1,1,D,3,10,2,5,12,14,1,4,0,2,0,0
+14-15,23,31,1,15,Crystal Palace,Everton FC,0,1,A,13,14,3,2,12,14,6,1,0,3,0,0
+14-15,23,31,1,15,Hull City,Newcastle United,0,3,A,13,12,8,5,15,13,3,3,4,1,0,0
+14-15,23,31,1,15,Liverpool FC,West Ham United,2,0,H,21,7,7,2,12,12,5,7,1,1,0,0
+14-15,23,31,1,15,Manchester United,Leicester City,3,1,H,12,4,5,1,8,12,4,3,0,1,0,0
+14-15,23,31,1,15,Stoke City,Queen Park Rangers,3,1,H,15,14,3,4,11,12,3,5,2,2,0,0
+14-15,23,31,1,15,Sunderland AFC,Burnley FC,2,0,H,8,13,3,4,12,12,6,3,3,1,0,0
+14-15,23,31,1,15,West Bromwich Albion,Tottenham Hotspur,0,3,A,13,14,4,4,8,13,6,3,2,1,0,0
+14-15,23,1,2,15,Arsenal FC,Aston Villa,5,0,H,13,9,8,2,6,10,7,7,0,2,0,0
+14-15,23,1,2,15,Southampton FC,Swansea City,0,1,A,15,6,6,1,11,9,9,0,1,1,1,0
+14-15,24,7,2,15,Aston Villa,Chelsea FC,1,2,A,8,12,1,5,8,7,7,7,3,2,0,0
+14-15,24,7,2,15,Everton FC,Liverpool FC,0,0,D,6,17,1,6,11,7,3,6,4,1,0,0
+14-15,24,7,2,15,Leicester City,Crystal Palace,0,1,A,19,14,5,2,15,6,8,6,4,1,0,0
+14-15,24,7,2,15,Manchester City,Hull City,1,1,D,18,7,5,3,9,8,13,1,2,4,0,0
+14-15,24,7,2,15,Queen Park Rangers,Southampton FC,0,1,A,12,16,3,5,13,16,3,4,2,2,0,0
+14-15,24,7,2,15,Swansea City,Sunderland AFC,1,1,D,16,4,7,1,11,13,7,1,3,4,0,0
+14-15,24,7,2,15,Tottenham Hotspur,Arsenal FC,2,1,H,23,7,8,3,8,12,10,3,3,5,0,0
+14-15,24,8,2,15,Burnley FC,West Bromwich Albion,2,2,D,12,12,5,5,10,15,5,6,0,4,0,0
+14-15,24,8,2,15,Newcastle United,Stoke City,1,1,D,9,7,3,3,14,17,5,8,2,4,0,0
+14-15,24,8,2,15,West Ham United,Manchester United,1,1,D,13,18,6,6,7,13,9,9,2,2,0,1
+14-15,25,10,2,15,Arsenal FC,Leicester City,2,1,H,17,11,7,4,13,14,6,6,2,2,0,0
+14-15,25,10,2,15,Hull City,Aston Villa,2,0,H,10,11,4,4,16,11,3,7,1,2,0,0
+14-15,25,10,2,15,Liverpool FC,Tottenham Hotspur,3,2,H,16,14,7,5,13,17,5,7,3,6,0,0
+14-15,25,10,2,15,Sunderland AFC,Queen Park Rangers,0,2,A,16,19,5,4,8,12,8,4,2,3,0,0
+14-15,25,11,2,15,Chelsea FC,Everton FC,1,0,H,21,7,7,4,8,13,10,2,3,3,0,1
+14-15,25,11,2,15,Crystal Palace,Newcastle United,1,1,D,7,5,3,1,10,11,5,2,1,2,0,0
+14-15,25,11,2,15,Manchester United,Burnley FC,3,1,H,11,13,7,3,15,8,5,8,4,3,0,0
+14-15,25,11,2,15,Southampton FC,West Ham United,0,0,D,21,4,7,1,12,11,8,2,2,1,0,1
+14-15,25,11,2,15,Stoke City,Manchester City,1,4,A,17,14,5,8,6,11,3,2,1,2,0,0
+14-15,25,11,2,15,West Bromwich Albion,Swansea City,2,0,H,11,10,4,3,11,12,5,4,2,1,0,0
+14-15,26,21,2,15,Aston Villa,Stoke City,1,2,A,3,11,2,6,11,14,11,3,1,3,1,0
+14-15,26,21,2,15,Chelsea FC,Burnley FC,1,1,D,14,10,5,5,9,9,7,7,1,2,1,0
+14-15,26,21,2,15,Crystal Palace,Arsenal FC,1,2,A,22,12,3,4,15,14,10,1,1,3,0,0
+14-15,26,21,2,15,Hull City,Queen Park Rangers,2,1,H,16,8,6,3,18,16,5,7,0,4,0,1
+14-15,26,21,2,15,Manchester City,Newcastle United,5,0,H,16,8,9,1,9,8,7,3,3,2,0,0
+14-15,26,21,2,15,Sunderland AFC,West Bromwich Albion,0,0,D,13,5,2,1,11,12,11,2,1,2,0,0
+14-15,26,21,2,15,Swansea City,Manchester United,2,1,H,11,18,6,3,6,15,4,10,2,4,0,0
+14-15,26,22,2,15,Everton FC,Leicester City,2,2,D,18,15,3,4,7,6,4,7,0,1,0,0
+14-15,26,22,2,15,Southampton FC,Liverpool FC,0,2,A,13,6,5,4,11,14,6,1,2,3,0,0
+14-15,26,22,2,15,Tottenham Hotspur,West Ham United,2,2,D,27,12,8,5,6,12,7,9,0,2,0,0
+14-15,27,28,2,15,Burnley FC,Swansea City,0,1,A,13,8,6,2,14,8,6,4,0,0,0,0
+14-15,27,28,2,15,Manchester United,Sunderland AFC,2,0,H,30,5,10,3,6,11,13,1,1,1,0,1
+14-15,27,28,2,15,Newcastle United,Aston Villa,1,0,H,14,13,5,3,6,16,9,5,1,5,0,0
+14-15,27,28,2,15,Stoke City,Hull City,1,0,H,17,1,2,0,9,10,5,2,2,2,0,0
+14-15,27,28,2,15,West Bromwich Albion,Southampton FC,1,0,H,7,12,3,2,10,17,2,3,2,1,0,0
+14-15,27,28,2,15,West Ham United,Crystal Palace,1,3,A,22,12,5,5,12,19,11,7,2,2,0,1
+14-15,27,1,3,15,Arsenal FC,Everton FC,2,0,H,17,8,4,2,12,5,8,9,2,0,0,0
+14-15,27,1,3,15,Liverpool FC,Manchester City,2,1,H,11,8,5,1,8,16,3,0,1,3,0,0
+14-15,28,3,3,15,Aston Villa,West Bromwich Albion,2,1,H,16,3,8,1,15,13,0,3,2,4,0,0
+14-15,28,3,3,15,Hull City,Sunderland AFC,1,1,D,15,9,5,3,9,15,6,4,2,6,0,0
+14-15,28,3,3,15,Southampton FC,Crystal Palace,1,0,H,23,9,3,3,11,10,10,2,0,2,0,0
+14-15,28,4,3,15,Liverpool FC,Burnley FC,2,0,H,20,9,8,1,8,14,6,5,0,1,0,0
+14-15,28,4,3,15,Manchester City,Leicester City,2,0,H,22,6,9,2,11,3,10,3,0,1,0,0
+14-15,28,4,3,15,Newcastle United,Manchester United,0,1,A,9,11,2,5,6,14,4,1,1,2,0,0
+14-15,28,4,3,15,Queen Park Rangers,Arsenal FC,1,2,A,10,20,3,9,10,8,1,6,2,1,0,0
+14-15,28,4,3,15,Stoke City,Everton FC,2,0,H,11,10,3,5,11,14,5,6,2,2,0,0
+14-15,28,4,3,15,Tottenham Hotspur,Swansea City,3,2,H,20,10,7,5,14,7,6,4,1,0,0,0
+14-15,28,4,3,15,West Ham United,Chelsea FC,0,1,A,18,12,5,3,10,10,5,4,3,4,0,0
+14-15,27,7,3,15,Queen Park Rangers,Tottenham Hotspur,1,2,A,17,13,6,6,15,12,3,5,1,2,0,0
+14-15,29,14,3,15,Arsenal FC,West Ham United,3,0,H,19,7,9,1,10,9,7,5,1,1,0,0
+14-15,29,14,3,15,Burnley FC,Manchester City,1,0,H,10,21,4,5,6,9,2,6,2,1,0,0
+14-15,29,14,3,15,Crystal Palace,Queen Park Rangers,3,1,H,15,11,4,4,17,16,6,3,1,3,0,0
+14-15,29,14,3,15,Leicester City,Hull City,0,0,D,15,12,3,5,10,15,7,5,0,4,0,1
+14-15,29,14,3,15,Sunderland AFC,Aston Villa,0,4,A,12,14,2,8,10,9,2,5,1,1,0,0
+14-15,29,14,3,15,West Bromwich Albion,Stoke City,1,0,H,14,9,5,2,7,16,7,5,1,2,0,0
+14-15,29,15,3,15,Chelsea FC,Southampton FC,1,1,D,22,12,7,5,10,11,9,2,3,3,0,0
+14-15,29,15,3,15,Everton FC,Newcastle United,3,0,H,15,12,9,4,11,9,3,4,1,2,0,1
+14-15,29,15,3,15,Manchester United,Tottenham Hotspur,3,0,H,11,5,3,1,12,10,4,2,1,1,0,0
+14-15,29,16,3,15,Swansea City,Liverpool FC,0,1,A,10,16,3,5,13,16,4,5,0,3,0,0
+14-15,30,21,3,15,Aston Villa,Swansea City,0,1,A,12,9,3,6,13,9,4,9,0,0,0,0
+14-15,30,21,3,15,Manchester City,West Bromwich Albion,3,0,H,43,3,16,0,6,5,9,2,0,0,0,1
+14-15,30,21,3,15,Newcastle United,Arsenal FC,1,2,A,16,7,4,3,11,7,9,4,0,0,0,0
+14-15,30,21,3,15,Southampton FC,Burnley FC,2,0,H,20,15,3,3,10,7,10,5,0,0,0,0
+14-15,30,21,3,15,Stoke City,Crystal Palace,1,2,A,17,12,4,3,15,14,8,4,3,4,0,0
+14-15,30,21,3,15,Tottenham Hotspur,Leicester City,4,3,H,10,14,4,5,8,9,4,4,2,1,0,0
+14-15,30,21,3,15,West Ham United,Sunderland AFC,1,0,H,15,7,4,3,14,11,6,4,0,1,0,0
+14-15,30,22,3,15,Hull City,Chelsea FC,2,3,A,19,8,8,3,14,11,6,6,0,2,0,0
+14-15,30,22,3,15,Liverpool FC,Manchester United,1,2,A,7,6,1,4,14,17,2,3,2,2,1,0
+14-15,30,22,3,15,Queen Park Rangers,Everton FC,1,2,A,14,8,1,3,11,12,1,3,2,1,0,0
+14-15,31,4,4,15,Arsenal FC,Liverpool FC,4,1,H,16,13,10,2,7,9,6,5,1,0,0,1
+14-15,31,4,4,15,Chelsea FC,Stoke City,2,1,H,19,7,10,2,5,22,9,0,1,6,0,0
+14-15,31,4,4,15,Everton FC,Southampton FC,1,0,H,11,11,1,2,12,17,4,10,0,1,0,0
+14-15,31,4,4,15,Leicester City,West Ham United,2,1,H,20,14,7,7,12,10,7,6,0,3,0,0
+14-15,31,4,4,15,Manchester United,Aston Villa,3,1,H,19,4,7,2,15,12,10,2,0,1,0,0
+14-15,31,4,4,15,Swansea City,Hull City,3,1,H,9,10,4,1,11,14,4,7,1,5,0,1
+14-15,31,4,4,15,West Bromwich Albion,Queen Park Rangers,1,4,A,21,12,6,7,6,15,2,4,2,3,1,0
+14-15,31,5,4,15,Burnley FC,Tottenham Hotspur,0,0,D,15,12,4,2,9,5,5,3,2,0,0,0
+14-15,31,5,4,15,Sunderland AFC,Newcastle United,1,0,H,16,10,4,1,14,18,8,4,5,2,0,0
+14-15,31,6,4,15,Crystal Palace,Manchester City,2,1,H,5,22,3,4,11,11,4,13,2,1,0,0
+14-15,33,7,4,15,Aston Villa,Queen Park Rangers,3,3,D,21,11,7,5,8,12,7,3,0,4,0,0
+14-15,32,11,4,15,Burnley FC,Arsenal FC,0,1,A,8,17,4,5,15,7,1,6,2,0,0,0
+14-15,32,11,4,15,Southampton FC,Hull City,2,0,H,9,15,4,4,7,11,2,5,2,0,0,0
+14-15,32,11,4,15,Sunderland AFC,Crystal Palace,1,4,A,12,14,3,5,15,17,8,4,2,2,0,0
+14-15,32,11,4,15,Swansea City,Everton FC,1,1,D,11,12,3,8,18,12,3,6,3,3,0,0
+14-15,32,11,4,15,Tottenham Hotspur,Aston Villa,0,1,A,14,10,3,3,11,12,9,6,3,2,0,1
+14-15,32,11,4,15,West Bromwich Albion,Leicester City,2,3,A,8,12,5,4,15,15,4,6,2,2,0,0
+14-15,32,11,4,15,West Ham United,Stoke City,1,1,D,11,18,3,2,17,13,4,10,3,1,0,0
+14-15,32,12,4,15,Manchester United,Manchester City,4,2,H,11,10,7,3,9,16,1,5,0,3,0,0
+14-15,32,12,4,15,Queen Park Rangers,Chelsea FC,0,1,A,15,9,4,1,12,6,5,6,2,1,0,0
+14-15,32,13,4,15,Liverpool FC,Newcastle United,2,0,H,14,10,6,3,8,17,6,6,2,0,0,1
+14-15,33,18,4,15,Chelsea FC,Manchester United,1,0,H,7,15,2,2,13,11,3,7,7,1,0,0
+14-15,33,18,4,15,Crystal Palace,West Bromwich Albion,0,2,A,19,8,4,4,17,17,7,6,3,3,0,0
+14-15,33,18,4,15,Everton FC,Burnley FC,1,0,H,21,10,8,1,12,15,5,6,1,2,0,1
+14-15,33,18,4,15,Leicester City,Swansea City,2,0,H,18,10,6,6,6,5,6,3,0,2,0,0
+14-15,33,18,4,15,Stoke City,Southampton FC,2,1,H,15,12,2,6,17,17,2,5,0,4,0,0
+14-15,33,19,4,15,Manchester City,West Ham United,2,0,H,18,9,3,3,10,6,6,3,2,2,0,0
+14-15,33,19,4,15,Newcastle United,Tottenham Hotspur,1,3,A,11,14,5,8,11,13,4,3,2,4,0,0
+14-15,34,25,4,15,Burnley FC,Leicester City,0,1,A,12,8,4,4,16,16,6,4,3,0,0,0
+14-15,34,25,4,15,Crystal Palace,Hull City,0,2,A,7,21,3,7,15,10,0,9,0,0,0,0
+14-15,34,25,4,15,Manchester City,Aston Villa,3,2,H,11,13,4,4,13,11,7,6,1,2,0,0
+14-15,34,25,4,15,Newcastle United,Swansea City,2,3,A,12,11,4,6,14,9,9,6,1,2,0,0
+14-15,34,25,4,15,Queen Park Rangers,West Ham United,0,0,D,18,8,7,2,14,12,6,6,1,0,0,0
+14-15,34,25,4,15,Southampton FC,Tottenham Hotspur,2,2,D,13,7,4,2,9,10,8,3,1,3,0,0
+14-15,34,25,4,15,Stoke City,Sunderland AFC,1,1,D,23,15,8,5,14,15,9,8,2,3,0,0
+14-15,34,25,4,15,West Bromwich Albion,Liverpool FC,0,0,D,10,22,4,5,12,11,2,4,1,0,0,0
+14-15,34,26,4,15,Arsenal FC,Chelsea FC,0,0,D,12,7,1,3,17,11,6,2,4,3,0,0
+14-15,34,26,4,15,Everton FC,Manchester United,3,0,H,9,17,7,4,6,10,7,7,0,2,0,0
+14-15,33,28,4,15,Hull City,Liverpool FC,1,0,H,7,12,4,9,10,10,7,7,2,0,0,0
+14-15,27,29,4,15,Leicester City,Chelsea FC,1,3,A,8,11,2,4,10,1,2,6,1,0,0,0
+14-15,35,2,5,15,Aston Villa,Everton FC,3,2,H,11,9,4,5,13,12,5,3,2,1,0,0
+14-15,35,2,5,15,Leicester City,Newcastle United,3,0,H,19,12,7,3,10,13,10,7,1,2,0,2
+14-15,35,2,5,15,Liverpool FC,Queen Park Rangers,2,1,H,25,10,8,2,9,18,9,6,2,3,0,1
+14-15,35,2,5,15,Manchester United,West Bromwich Albion,0,1,A,26,6,9,3,10,11,9,3,1,0,0,0
+14-15,35,2,5,15,Sunderland AFC,Southampton FC,2,1,H,12,11,6,2,12,13,1,1,2,2,0,1
+14-15,35,2,5,15,Swansea City,Stoke City,2,0,H,16,9,4,3,9,18,6,2,1,2,0,1
+14-15,35,2,5,15,West Ham United,Burnley FC,1,0,H,29,8,7,2,11,7,13,3,3,2,0,1
+14-15,35,3,5,15,Chelsea FC,Crystal Palace,1,0,H,17,8,7,1,12,13,3,6,2,2,0,0
+14-15,35,3,5,15,Tottenham Hotspur,Manchester City,0,1,A,21,15,5,4,6,11,8,7,3,4,0,0
+14-15,35,4,5,15,Hull City,Arsenal FC,1,3,A,8,22,1,9,8,11,0,5,2,0,0,0
+14-15,36,9,5,15,Aston Villa,West Ham United,1,0,H,15,5,5,1,6,13,2,6,1,1,0,0
+14-15,36,9,5,15,Crystal Palace,Manchester United,1,2,A,13,13,4,4,13,12,7,6,0,1,0,0
+14-15,36,9,5,15,Everton FC,Sunderland AFC,0,2,A,22,10,4,3,10,9,15,1,2,3,0,0
+14-15,36,9,5,15,Hull City,Burnley FC,0,1,A,21,8,3,2,16,12,9,3,1,1,0,0
+14-15,36,9,5,15,Leicester City,Southampton FC,2,0,H,10,10,3,3,12,10,4,8,1,0,0,0
+14-15,36,9,5,15,Newcastle United,West Bromwich Albion,1,1,D,15,8,5,3,11,17,7,2,2,3,0,0
+14-15,36,9,5,15,Stoke City,Tottenham Hotspur,3,0,H,17,9,9,3,14,12,6,8,0,0,0,1
+14-15,36,10,5,15,Chelsea FC,Liverpool FC,1,1,D,8,15,3,4,13,11,6,4,4,3,0,0
+14-15,36,10,5,15,Manchester City,Queen Park Rangers,6,0,H,23,9,11,3,12,7,7,4,0,1,0,0
+14-15,36,11,5,15,Arsenal FC,Swansea City,0,1,A,23,8,9,3,7,10,6,1,0,1,0,0
+14-15,37,16,5,15,Burnley FC,Stoke City,0,0,D,11,11,4,3,14,9,7,6,1,2,0,0
+14-15,37,16,5,15,Liverpool FC,Crystal Palace,1,3,A,18,15,3,6,10,17,4,5,2,3,0,0
+14-15,37,16,5,15,Queen Park Rangers,Newcastle United,2,1,H,8,22,4,8,12,8,3,12,2,0,0,0
+14-15,37,16,5,15,Southampton FC,Aston Villa,6,1,H,18,9,11,4,19,7,6,3,1,1,0,0
+14-15,37,16,5,15,Sunderland AFC,Leicester City,0,0,D,13,11,3,0,14,15,8,9,4,1,0,0
+14-15,37,16,5,15,Tottenham Hotspur,Hull City,2,0,H,10,14,3,2,10,6,6,8,3,1,0,0
+14-15,37,16,5,15,West Ham United,Everton FC,1,2,A,13,21,3,5,12,14,7,8,1,4,0,0
+14-15,37,17,5,15,Manchester United,Arsenal FC,1,1,D,12,5,4,3,16,8,5,5,1,0,0,0
+14-15,37,17,5,15,Swansea City,Manchester City,2,4,A,13,22,9,11,8,8,11,7,0,3,0,0
+14-15,37,18,5,15,West Bromwich Albion,Chelsea FC,3,0,H,9,12,5,3,12,11,3,4,3,2,0,1
+14-15,33,20,5,15,Arsenal FC,Sunderland AFC,0,0,D,28,7,8,3,6,8,5,2,1,0,0,0
+14-15,38,24,5,15,Arsenal FC,West Bromwich Albion,4,1,H,24,14,13,5,6,7,7,3,1,0,0,0
+14-15,38,24,5,15,Aston Villa,Burnley FC,0,1,A,16,6,5,3,9,6,7,2,1,2,0,0
+14-15,38,24,5,15,Chelsea FC,Sunderland AFC,3,1,H,24,17,8,9,12,8,11,3,2,1,0,0
+14-15,38,24,5,15,Crystal Palace,Swansea City,1,0,H,13,5,7,2,22,13,7,3,3,0,0,0
+14-15,38,24,5,15,Everton FC,Tottenham Hotspur,0,1,A,9,16,1,3,12,8,3,5,1,2,0,0
+14-15,38,24,5,15,Hull City,Manchester United,0,0,D,16,7,6,1,12,15,8,1,2,2,0,1
+14-15,38,24,5,15,Leicester City,Queen Park Rangers,5,1,H,22,18,7,2,7,6,5,6,0,0,0,0
+14-15,38,24,5,15,Manchester City,Southampton FC,2,0,H,15,13,6,4,13,8,8,4,1,1,0,0
+14-15,38,24,5,15,Newcastle United,West Ham United,2,0,H,17,4,4,1,9,9,2,3,2,1,0,0
+14-15,38,24,5,15,Stoke City,Liverpool FC,6,1,H,15,13,9,4,13,4,3,9,4,2,0,0
+15-16,1,8,8,15,AFC Bournemouth,Aston Villa,0,1,A,11,7,2,3,13,13,6,3,3,4,0,0
+15-16,1,8,8,15,Chelsea FC,Swansea City,2,2,D,11,18,3,10,15,16,4,8,1,3,1,0
+15-16,1,8,8,15,Everton FC,Watford FC,2,2,D,10,11,5,5,7,13,8,2,1,2,0,0
+15-16,1,8,8,15,Leicester City,Sunderland AFC,4,2,H,19,10,8,5,13,17,6,3,2,4,0,0
+15-16,1,8,8,15,Manchester United,Tottenham Hotspur,1,0,H,9,9,1,4,12,12,1,2,2,3,0,0
+15-16,1,8,8,15,Norwich City,Crystal Palace,1,3,A,17,11,6,7,14,20,1,4,1,0,0,0
+15-16,1,9,8,15,Arsenal FC,West Ham United,0,2,A,22,8,6,4,12,9,5,4,1,3,0,0
+15-16,1,9,8,15,Newcastle United,Southampton FC,2,2,D,9,15,4,5,9,12,6,6,2,4,0,0
+15-16,1,9,8,15,Stoke City,Liverpool FC,0,1,A,7,8,1,3,9,16,3,5,2,4,0,0
+15-16,1,10,8,15,West Bromwich Albion,Manchester City,0,3,A,9,19,2,7,12,9,6,6,4,1,0,0
+15-16,2,14,8,15,Aston Villa,Manchester United,0,1,A,5,9,1,2,14,10,3,5,2,2,0,0
+15-16,2,15,8,15,Southampton FC,Everton FC,0,3,A,17,10,4,4,11,10,9,9,4,2,0,0
+15-16,2,15,8,15,Sunderland AFC,Norwich City,1,3,A,6,19,2,6,7,7,6,6,1,2,0,0
+15-16,2,15,8,15,Swansea City,Newcastle United,2,0,H,19,4,6,2,11,8,4,4,2,1,0,1
+15-16,2,15,8,15,Tottenham Hotspur,Stoke City,2,2,D,13,16,7,7,15,11,4,3,2,2,0,0
+15-16,2,15,8,15,Watford FC,West Bromwich Albion,0,0,D,16,6,5,0,13,10,2,4,1,2,0,0
+15-16,2,15,8,15,West Ham United,Leicester City,1,2,A,10,11,3,6,11,12,8,4,1,3,1,0
+15-16,2,16,8,15,Crystal Palace,Arsenal FC,1,2,A,11,20,4,7,14,12,6,6,1,1,0,0
+15-16,2,16,8,15,Manchester City,Chelsea FC,3,0,H,18,10,8,3,19,13,5,1,4,2,0,0
+15-16,2,17,8,15,Liverpool FC,AFC Bournemouth,1,0,H,18,13,2,2,11,18,6,8,1,4,0,0
+15-16,3,22,8,15,Crystal Palace,Aston Villa,2,1,H,16,11,6,2,12,15,6,4,3,3,0,0
+15-16,3,22,8,15,Leicester City,Tottenham Hotspur,1,1,D,13,19,2,6,7,14,2,7,1,4,0,0
+15-16,3,22,8,15,Manchester United,Newcastle United,0,0,D,20,7,8,0,15,11,11,5,2,2,0,0
+15-16,3,22,8,15,Norwich City,Stoke City,1,1,D,21,6,7,1,16,5,9,0,4,1,0,0
+15-16,3,22,8,15,Sunderland AFC,Swansea City,1,1,D,10,20,2,9,16,9,3,4,4,2,0,0
+15-16,3,22,8,15,West Ham United,AFC Bournemouth,3,4,A,10,15,4,7,8,11,5,4,0,0,1,0
+15-16,3,23,8,15,Everton FC,Manchester City,0,2,A,10,16,1,9,5,7,8,7,0,3,0,0
+15-16,3,23,8,15,Watford FC,Southampton FC,0,0,D,13,14,0,5,10,11,5,2,0,2,0,0
+15-16,3,23,8,15,West Bromwich Albion,Chelsea FC,2,3,A,15,15,6,5,9,12,8,7,2,1,0,1
+15-16,3,24,8,15,Arsenal FC,Liverpool FC,0,0,D,19,15,5,8,2,13,7,8,1,4,0,0
+15-16,4,29,8,15,Aston Villa,Sunderland AFC,2,2,D,21,7,6,3,10,14,5,4,2,1,0,0
+15-16,4,29,8,15,AFC Bournemouth,Leicester City,1,1,D,5,4,2,2,9,19,4,4,2,4,0,0
+15-16,4,29,8,15,Chelsea FC,Crystal Palace,1,2,A,26,13,9,6,9,15,7,7,1,1,0,0
+15-16,4,29,8,15,Liverpool FC,West Ham United,0,3,A,13,12,1,5,17,11,5,7,3,1,1,1
+15-16,4,29,8,15,Manchester City,Watford FC,2,0,H,18,7,5,0,9,12,9,3,1,2,0,0
+15-16,4,29,8,15,Newcastle United,Arsenal FC,0,1,A,1,22,0,9,15,8,0,9,6,1,1,0
+15-16,4,29,8,15,Stoke City,West Bromwich Albion,0,1,A,13,15,5,5,4,9,6,5,1,4,2,0
+15-16,4,29,8,15,Tottenham Hotspur,Everton FC,0,0,D,20,8,6,3,20,9,6,2,4,1,0,0
+15-16,4,30,8,15,Southampton FC,Norwich City,3,0,H,23,6,8,1,4,12,6,4,0,0,0,1
+15-16,4,30,8,15,Swansea City,Manchester United,2,1,H,9,11,4,4,6,15,0,1,2,2,0,0
+15-16,5,12,9,15,Arsenal FC,Stoke City,2,0,H,29,9,12,4,6,13,13,1,1,1,0,0
+15-16,5,12,9,15,Crystal Palace,Manchester City,0,1,A,10,21,2,7,13,13,4,4,2,3,0,0
+15-16,5,12,9,15,Everton FC,Chelsea FC,3,1,H,14,15,9,2,12,12,7,14,2,2,0,0
+15-16,5,12,9,15,Manchester United,Liverpool FC,3,1,H,9,8,3,4,6,11,4,4,1,2,0,0
+15-16,5,12,9,15,Norwich City,AFC Bournemouth,3,1,H,12,7,4,2,10,11,4,4,2,3,0,0
+15-16,5,12,9,15,Watford FC,Swansea City,1,0,H,17,8,6,3,11,14,1,3,1,1,1,0
+15-16,5,12,9,15,West Bromwich Albion,Southampton FC,0,0,D,8,14,1,4,5,5,4,5,1,0,0,0
+15-16,5,13,9,15,Leicester City,Aston Villa,3,2,H,21,11,6,4,8,13,4,5,2,1,0,0
+15-16,5,13,9,15,Sunderland AFC,Tottenham Hotspur,0,1,A,12,15,2,4,11,12,6,8,2,1,0,0
+15-16,5,14,9,15,West Ham United,Newcastle United,2,0,H,17,14,3,4,8,11,6,7,0,2,0,0
+15-16,6,19,9,15,Aston Villa,West Bromwich Albion,0,1,A,13,11,3,6,10,11,2,7,2,3,0,0
+15-16,6,19,9,15,AFC Bournemouth,Sunderland AFC,2,0,H,15,9,5,2,14,15,7,3,2,4,0,1
+15-16,6,19,9,15,Chelsea FC,Arsenal FC,2,0,H,22,9,7,2,12,11,5,5,3,1,0,2
+15-16,6,19,9,15,Manchester City,West Ham United,1,2,A,27,6,8,3,10,7,16,3,1,2,0,0
+15-16,6,19,9,15,Newcastle United,Watford FC,1,2,A,15,13,5,4,8,12,5,5,1,2,0,0
+15-16,6,19,9,15,Stoke City,Leicester City,2,2,D,11,12,4,5,7,12,3,4,1,4,0,0
+15-16,6,19,9,15,Swansea City,Everton FC,0,0,D,12,17,3,2,12,11,2,4,2,2,0,1
+15-16,6,20,9,15,Liverpool FC,Norwich City,1,1,D,23,7,7,2,4,13,6,2,1,2,0,0
+15-16,6,20,9,15,Southampton FC,Manchester United,2,3,A,15,10,8,3,6,13,5,5,2,0,0,0
+15-16,6,20,9,15,Tottenham Hotspur,Crystal Palace,1,0,H,22,12,6,4,9,11,6,5,1,2,0,0
+15-16,7,26,9,15,Leicester City,Arsenal FC,2,5,A,16,26,7,12,9,12,6,5,1,1,0,0
+15-16,7,26,9,15,Liverpool FC,Aston Villa,3,2,H,21,10,12,4,8,13,11,1,0,0,0,0
+15-16,7,26,9,15,Manchester United,Sunderland AFC,3,0,H,12,9,7,4,12,17,5,2,0,3,0,0
+15-16,7,26,9,15,Newcastle United,Chelsea FC,2,2,D,11,16,5,4,12,15,4,6,1,2,0,0
+15-16,7,26,9,15,Southampton FC,Swansea City,3,1,H,18,11,7,4,18,14,4,3,3,1,0,0
+15-16,7,26,9,15,Stoke City,AFC Bournemouth,2,1,H,8,11,5,6,13,11,3,7,1,0,0,0
+15-16,7,26,9,15,Tottenham Hotspur,Manchester City,4,1,H,15,22,8,8,17,6,5,9,5,1,0,0
+15-16,7,26,9,15,West Ham United,Norwich City,2,2,D,19,16,7,7,7,17,7,5,0,0,0,0
+15-16,7,27,9,15,Watford FC,Crystal Palace,0,1,A,15,16,2,3,17,22,6,4,4,4,0,0
+15-16,7,28,9,15,West Bromwich Albion,Everton FC,2,3,A,9,12,4,4,9,8,6,4,0,3,0,0
+15-16,8,3,10,15,Aston Villa,Stoke City,0,1,A,13,12,2,5,12,12,9,5,1,0,0,0
+15-16,8,3,10,15,AFC Bournemouth,Watford FC,1,1,D,12,11,6,2,8,13,5,3,1,1,0,0
+15-16,8,3,10,15,Chelsea FC,Southampton FC,1,3,A,10,13,3,5,14,14,4,6,2,5,0,0
+15-16,8,3,10,15,Crystal Palace,West Bromwich Albion,2,0,H,21,7,8,2,14,13,8,3,3,3,0,0
+15-16,8,3,10,15,Manchester City,Newcastle United,6,1,H,23,6,11,4,13,8,6,3,3,1,0,0
+15-16,8,3,10,15,Norwich City,Leicester City,1,2,A,17,16,2,5,4,4,16,8,0,1,0,0
+15-16,8,3,10,15,Sunderland AFC,West Ham United,2,2,D,12,20,3,6,14,11,1,8,2,4,1,0
+15-16,8,4,10,15,Arsenal FC,Manchester United,3,0,H,12,9,5,5,8,17,3,6,1,3,0,0
+15-16,8,4,10,15,Everton FC,Liverpool FC,1,1,D,14,13,4,4,10,19,5,11,3,3,0,0
+15-16,8,4,10,15,Swansea City,Tottenham Hotspur,2,2,D,11,19,2,11,8,19,5,6,1,4,0,0
+15-16,9,17,10,15,Chelsea FC,Aston Villa,2,0,H,9,8,3,1,22,17,4,4,1,3,0,0
+15-16,9,17,10,15,Crystal Palace,West Ham United,1,3,A,6,24,1,4,9,11,1,9,1,3,1,0
+15-16,9,17,10,15,Everton FC,Manchester United,0,3,A,12,10,3,7,12,14,5,3,2,2,0,0
+15-16,9,17,10,15,Manchester City,AFC Bournemouth,5,1,H,15,5,11,1,11,5,1,7,2,1,0,0
+15-16,9,17,10,15,Southampton FC,Leicester City,2,2,D,14,26,6,7,16,10,6,7,2,0,0,0
+15-16,9,17,10,15,Tottenham Hotspur,Liverpool FC,0,0,D,13,12,4,3,15,11,8,6,1,2,0,0
+15-16,9,17,10,15,Watford FC,Arsenal FC,0,3,A,8,17,1,6,11,12,3,9,2,1,0,0
+15-16,9,17,10,15,West Bromwich Albion,Sunderland AFC,1,0,H,8,9,1,2,12,13,1,5,2,2,0,0
+15-16,9,18,10,15,Newcastle United,Norwich City,6,2,H,11,18,6,6,10,10,3,7,1,1,0,0
+15-16,9,19,10,15,Swansea City,Stoke City,0,1,A,14,9,2,2,6,14,1,2,2,2,0,0
+15-16,10,24,10,15,Arsenal FC,Everton FC,2,1,H,20,10,5,5,11,14,7,5,2,0,0,1
+15-16,10,24,10,15,Aston Villa,Swansea City,1,2,A,9,11,3,4,10,8,4,6,2,3,0,0
+15-16,10,24,10,15,Leicester City,Crystal Palace,1,0,H,12,9,3,4,7,11,3,2,3,1,0,0
+15-16,10,24,10,15,Norwich City,West Bromwich Albion,0,1,A,16,7,3,4,11,6,13,3,1,2,0,0
+15-16,10,24,10,15,Stoke City,Watford FC,0,2,A,12,13,1,3,10,18,11,5,3,1,0,0
+15-16,10,24,10,15,West Ham United,Chelsea FC,2,1,H,12,8,5,4,10,12,7,4,1,5,0,1
+15-16,10,25,10,15,AFC Bournemouth,Tottenham Hotspur,1,5,A,11,14,3,9,8,15,4,5,0,1,0,0
+15-16,10,25,10,15,Liverpool FC,Southampton FC,1,1,D,15,8,2,3,8,11,10,7,1,0,0,1
+15-16,10,25,10,15,Manchester United,Manchester City,0,0,D,6,6,1,1,17,13,6,4,2,2,0,0
+15-16,10,25,10,15,Sunderland AFC,Newcastle United,3,0,H,9,21,3,8,12,10,1,10,0,2,0,1
+15-16,11,31,10,15,Chelsea FC,Liverpool FC,1,3,A,8,16,2,7,9,21,1,7,1,4,0,0
+15-16,11,31,10,15,Crystal Palace,Manchester United,0,0,D,10,5,5,1,12,15,7,3,3,3,0,0
+15-16,11,31,10,15,Manchester City,Norwich City,2,1,H,21,5,5,3,4,13,12,4,2,2,0,1
+15-16,11,31,10,15,Newcastle United,Stoke City,0,0,D,15,9,6,2,6,16,11,4,1,3,0,0
+15-16,11,31,10,15,Swansea City,Arsenal FC,0,3,A,8,15,3,5,12,7,4,4,2,0,0,0
+15-16,11,31,10,15,Watford FC,West Ham United,2,0,H,20,8,5,3,16,12,7,2,3,0,0,1
+15-16,11,31,10,15,West Bromwich Albion,Leicester City,2,3,A,14,13,6,5,3,11,6,4,0,2,0,0
+15-16,11,1,11,15,Everton FC,Sunderland AFC,6,2,H,15,17,8,9,6,5,6,1,3,2,0,0
+15-16,11,1,11,15,Southampton FC,AFC Bournemouth,2,0,H,11,16,2,2,5,5,4,6,0,2,1,0
+15-16,11,2,11,15,Tottenham Hotspur,Aston Villa,3,1,H,17,13,6,2,6,15,4,3,0,3,0,0
+15-16,12,7,11,15,AFC Bournemouth,Newcastle United,0,1,A,20,2,5,1,9,11,16,0,2,2,0,0
+15-16,12,7,11,15,Leicester City,Watford FC,2,1,H,12,8,6,4,10,10,4,2,0,1,0,0
+15-16,12,7,11,15,Manchester United,West Bromwich Albion,2,0,H,13,4,3,0,11,10,5,1,1,3,0,1
+15-16,12,7,11,15,Norwich City,Swansea City,1,0,H,9,8,5,0,12,7,5,2,1,0,0,0
+15-16,12,7,11,15,Stoke City,Chelsea FC,1,0,H,8,19,2,4,13,10,1,9,3,1,0,0
+15-16,12,7,11,15,Sunderland AFC,Southampton FC,0,1,A,9,11,3,4,3,7,10,11,1,3,0,0
+15-16,12,7,11,15,West Ham United,Everton FC,1,1,D,16,13,5,4,11,12,3,5,1,2,0,0
+15-16,12,8,11,15,Arsenal FC,Tottenham Hotspur,1,1,D,10,14,4,4,12,17,7,6,0,1,0,0
+15-16,12,8,11,15,Aston Villa,Manchester City,0,0,D,3,13,0,3,7,7,3,8,1,1,0,0
+15-16,12,8,11,15,Liverpool FC,Crystal Palace,1,2,A,22,9,4,4,7,6,14,6,1,2,0,0
+15-16,13,21,11,15,Chelsea FC,Norwich City,1,0,H,21,4,7,2,4,12,6,5,1,4,0,0
+15-16,13,21,11,15,Everton FC,Aston Villa,4,0,H,16,10,9,3,6,9,2,3,0,0,0,0
+15-16,13,21,11,15,Manchester City,Liverpool FC,1,4,A,11,14,3,9,5,13,11,5,0,3,0,0
+15-16,13,21,11,15,Newcastle United,Leicester City,0,3,A,9,18,1,7,9,12,4,9,4,1,0,0
+15-16,13,21,11,15,Southampton FC,Stoke City,0,1,A,16,16,1,4,8,8,7,3,2,0,0,0
+15-16,13,21,11,15,Swansea City,AFC Bournemouth,2,2,D,11,16,4,4,7,9,4,5,3,2,0,0
+15-16,13,21,11,15,Watford FC,Manchester United,1,2,A,10,13,5,6,6,12,4,10,1,2,0,0
+15-16,13,21,11,15,West Bromwich Albion,Arsenal FC,2,1,H,4,11,1,3,14,10,3,5,3,2,0,0
+15-16,13,22,11,15,Tottenham Hotspur,West Ham United,4,1,H,22,10,12,4,13,9,7,6,2,2,0,0
+15-16,13,23,11,15,Crystal Palace,Sunderland AFC,0,1,A,19,12,7,4,18,11,11,2,1,3,0,0
+15-16,14,28,11,15,Aston Villa,Watford FC,2,3,A,12,14,6,6,6,13,10,10,2,3,0,0
+15-16,14,28,11,15,AFC Bournemouth,Everton FC,3,3,D,19,11,10,6,6,6,10,5,2,0,0,0
+15-16,14,28,11,15,Crystal Palace,Newcastle United,5,1,H,19,7,8,2,7,13,7,5,1,1,0,0
+15-16,14,28,11,15,Leicester City,Manchester United,1,1,D,7,10,3,2,5,7,1,8,0,1,0,0
+15-16,14,28,11,15,Manchester City,Southampton FC,3,1,H,16,12,9,8,14,11,6,4,2,1,0,0
+15-16,14,28,11,15,Sunderland AFC,Stoke City,2,0,H,18,7,5,3,4,10,9,5,0,2,0,1
+15-16,14,29,11,15,Liverpool FC,Swansea City,1,0,H,10,8,2,0,12,6,8,7,3,1,0,0
+15-16,14,29,11,15,Norwich City,Arsenal FC,1,1,D,7,12,2,3,8,6,3,6,1,1,0,0
+15-16,14,29,11,15,Tottenham Hotspur,Chelsea FC,0,0,D,9,5,4,1,14,9,4,4,4,2,0,0
+15-16,14,29,11,15,West Ham United,West Bromwich Albion,1,1,D,17,7,6,3,15,16,5,2,0,2,0,0
+15-16,15,5,12,15,Arsenal FC,Sunderland AFC,3,1,H,16,11,7,4,7,11,3,2,1,1,0,0
+15-16,15,5,12,15,Chelsea FC,AFC Bournemouth,0,1,A,19,15,6,5,10,13,11,4,2,1,0,0
+15-16,15,5,12,15,Manchester United,West Ham United,0,0,D,21,9,1,2,9,13,6,2,1,0,0,0
+15-16,15,5,12,15,Southampton FC,Aston Villa,1,1,D,23,9,5,2,4,9,10,4,1,2,0,0
+15-16,15,5,12,15,Stoke City,Manchester City,2,0,H,7,11,4,4,9,10,1,6,0,1,0,0
+15-16,15,5,12,15,Swansea City,Leicester City,0,3,A,10,16,2,5,3,19,3,8,2,3,0,0
+15-16,15,5,12,15,Watford FC,Norwich City,2,0,H,14,6,7,1,11,10,4,1,3,3,0,0
+15-16,15,5,12,15,West Bromwich Albion,Tottenham Hotspur,1,1,D,11,9,4,3,13,10,3,6,3,2,0,0
+15-16,15,6,12,15,Newcastle United,Liverpool FC,2,0,H,6,10,1,1,6,10,2,7,3,1,0,0
+15-16,15,7,12,15,Everton FC,Crystal Palace,1,1,D,19,14,4,5,4,11,13,6,1,2,0,0
+15-16,16,12,12,15,AFC Bournemouth,Manchester United,2,1,H,11,11,5,5,12,12,5,7,2,1,0,0
+15-16,16,12,12,15,Crystal Palace,Southampton FC,1,0,H,12,15,5,3,11,13,8,5,0,0,0,0
+15-16,16,12,12,15,Manchester City,Swansea City,2,1,H,13,13,5,7,13,15,5,5,3,1,0,0
+15-16,16,12,12,15,Norwich City,Everton FC,1,1,D,9,15,2,3,9,6,5,4,1,0,0,0
+15-16,16,12,12,15,Sunderland AFC,Watford FC,0,1,A,14,13,2,6,6,9,8,3,1,0,0,0
+15-16,16,12,12,15,West Ham United,Stoke City,0,0,D,22,12,9,3,7,9,11,7,1,2,0,0
+15-16,16,13,12,15,Aston Villa,Arsenal FC,0,2,A,18,8,2,4,8,7,5,5,0,0,0,0
+15-16,16,13,12,15,Liverpool FC,West Bromwich Albion,2,2,D,28,4,8,2,7,10,4,4,0,0,0,0
+15-16,16,13,12,15,Tottenham Hotspur,Newcastle United,1,2,A,20,8,8,4,13,14,6,2,2,2,0,0
+15-16,16,14,12,15,Leicester City,Chelsea FC,2,1,H,9,11,5,5,16,8,1,8,2,0,0,0
+15-16,17,19,12,15,Chelsea FC,Sunderland AFC,3,1,H,17,11,7,3,12,12,2,2,1,3,0,0
+15-16,17,19,12,15,Everton FC,Leicester City,2,3,A,13,10,5,5,6,14,10,2,2,1,0,0
+15-16,17,19,12,15,Manchester United,Norwich City,1,2,A,11,6,2,4,4,10,11,0,0,2,0,0
+15-16,17,19,12,15,Newcastle United,Aston Villa,1,1,D,8,10,4,7,9,14,3,7,1,3,0,0
+15-16,17,19,12,15,Southampton FC,Tottenham Hotspur,0,2,A,11,13,4,6,18,9,4,7,1,1,0,0
+15-16,17,19,12,15,Stoke City,Crystal Palace,1,2,A,26,12,5,3,6,12,7,3,2,0,0,0
+15-16,17,19,12,15,West Bromwich Albion,AFC Bournemouth,1,2,A,6,16,2,7,12,9,4,8,2,1,2,0
+15-16,17,20,12,15,Swansea City,West Ham United,0,0,D,21,11,2,2,6,9,8,9,0,1,0,0
+15-16,17,20,12,15,Watford FC,Liverpool FC,3,0,H,6,12,5,4,6,9,7,9,1,0,0,0
+15-16,17,21,12,15,Arsenal FC,Manchester City,2,1,H,8,20,5,6,5,16,4,8,0,2,0,0
+15-16,18,26,12,15,Aston Villa,West Ham United,1,1,D,5,10,8,4,14,13,9,6,3,3,0,0
+15-16,18,26,12,15,AFC Bournemouth,Crystal Palace,0,0,D,10,8,4,0,10,13,8,9,1,0,0,0
+15-16,18,26,12,15,Chelsea FC,Watford FC,2,2,D,17,12,2,3,7,15,9,4,1,4,0,0
+15-16,18,26,12,15,Liverpool FC,Leicester City,1,0,H,25,7,4,3,11,8,7,6,2,1,0,0
+15-16,18,26,12,15,Manchester City,Sunderland AFC,4,1,H,19,11,9,3,10,11,5,1,1,1,0,0
+15-16,18,26,12,15,Newcastle United,Everton FC,0,1,A,10,20,1,7,16,12,1,7,2,2,0,0
+15-16,18,26,12,15,Southampton FC,Arsenal FC,4,0,H,15,7,5,4,10,9,3,4,1,0,0,0
+15-16,18,26,12,15,Stoke City,Manchester United,2,0,H,13,11,3,6,13,16,1,12,1,2,0,0
+15-16,18,26,12,15,Swansea City,West Bromwich Albion,1,0,H,7,9,2,3,10,13,0,7,1,3,0,0
+15-16,18,26,12,15,Tottenham Hotspur,Norwich City,3,0,H,15,11,10,3,4,13,9,4,1,2,0,0
+15-16,19,28,12,15,Arsenal FC,AFC Bournemouth,2,0,H,13,10,6,3,7,8,9,3,2,0,0,0
+15-16,19,28,12,15,Crystal Palace,Swansea City,0,0,D,10,5,2,3,11,16,7,4,3,2,0,0
+15-16,19,28,12,15,Everton FC,Stoke City,3,4,A,15,8,3,5,10,12,6,2,2,1,0,0
+15-16,19,28,12,15,Manchester United,Chelsea FC,0,0,D,12,8,2,3,16,6,5,3,4,2,0,0
+15-16,19,28,12,15,Norwich City,Aston Villa,2,0,H,9,6,4,3,10,21,3,7,2,5,0,0
+15-16,19,28,12,15,Watford FC,Tottenham Hotspur,1,2,A,9,10,1,3,11,13,5,3,4,2,1,0
+15-16,19,28,12,15,West Bromwich Albion,Newcastle United,1,0,H,22,7,5,2,7,13,18,6,0,0,0,0
+15-16,19,28,12,15,West Ham United,Southampton FC,2,1,H,13,15,5,4,6,12,4,7,1,3,0,0
+15-16,19,29,12,15,Leicester City,Manchester City,0,0,D,11,21,4,5,11,8,1,13,1,3,0,0
+15-16,19,30,12,15,Sunderland AFC,Liverpool FC,0,1,A,8,17,3,6,8,16,6,4,1,3,0,0
+15-16,20,2,1,16,Arsenal FC,Newcastle United,1,0,H,16,15,3,6,10,9,7,4,2,2,0,0
+15-16,20,2,1,16,Leicester City,AFC Bournemouth,0,0,D,16,9,2,0,9,5,7,1,1,1,0,1
+15-16,20,2,1,16,Manchester United,Swansea City,2,1,H,19,9,6,4,14,10,4,2,2,1,0,0
+15-16,20,2,1,16,Norwich City,Southampton FC,1,0,H,10,10,1,4,9,7,4,9,1,0,0,1
+15-16,20,2,1,16,Sunderland AFC,Aston Villa,3,1,H,13,8,6,3,8,13,3,3,3,4,0,0
+15-16,20,2,1,16,Watford FC,Manchester City,1,2,A,11,16,3,5,6,10,4,5,1,0,0,0
+15-16,20,2,1,16,West Bromwich Albion,Stoke City,2,1,H,16,10,5,3,7,15,4,6,1,1,0,1
+15-16,20,2,1,16,West Ham United,Liverpool FC,2,0,H,18,23,10,2,11,8,3,9,1,1,0,0
+15-16,20,3,1,16,Crystal Palace,Chelsea FC,0,3,A,8,10,4,4,12,15,5,7,3,0,0,0
+15-16,20,3,1,16,Everton FC,Tottenham Hotspur,1,1,D,12,19,3,4,8,11,4,4,1,2,0,0
+15-16,21,12,1,16,Aston Villa,Crystal Palace,1,0,H,13,9,3,1,15,9,9,0,2,1,0,0
+15-16,21,12,1,16,AFC Bournemouth,West Ham United,1,3,A,11,10,4,5,8,5,4,7,1,1,0,0
+15-16,21,12,1,16,Newcastle United,Manchester United,3,3,D,14,12,6,4,10,12,5,3,1,3,0,0
+15-16,21,13,1,16,Chelsea FC,West Bromwich Albion,2,2,D,14,13,2,6,13,8,7,7,3,3,0,0
+15-16,21,13,1,16,Liverpool FC,Arsenal FC,3,3,D,22,14,6,5,9,7,9,3,2,0,0,0
+15-16,21,13,1,16,Manchester City,Everton FC,0,0,D,22,7,5,2,5,6,12,5,0,1,0,0
+15-16,21,13,1,16,Southampton FC,Watford FC,2,0,H,15,4,7,1,9,11,8,1,1,2,0,0
+15-16,21,13,1,16,Stoke City,Norwich City,3,1,H,14,5,4,2,5,8,7,3,0,1,0,1
+15-16,21,13,1,16,Swansea City,Sunderland AFC,2,4,A,10,7,5,5,9,12,8,6,2,0,1,0
+15-16,21,13,1,16,Tottenham Hotspur,Leicester City,0,1,A,21,10,5,2,13,10,16,8,1,0,0,0
+15-16,22,16,1,16,Aston Villa,Leicester City,1,1,D,14,12,5,5,13,15,3,4,3,2,0,0
+15-16,22,16,1,16,AFC Bournemouth,Norwich City,3,0,H,15,10,8,3,8,13,5,3,1,1,0,0
+15-16,22,16,1,16,Chelsea FC,Everton FC,3,3,D,14,9,7,4,12,5,6,4,1,1,0,0
+15-16,22,16,1,16,Manchester City,Crystal Palace,4,0,H,17,9,4,3,10,11,5,6,0,2,0,0
+15-16,22,16,1,16,Newcastle United,West Ham United,2,1,H,23,10,10,3,9,4,3,3,1,0,0,0
+15-16,22,16,1,16,Southampton FC,West Bromwich Albion,3,0,H,9,9,5,0,10,11,1,3,0,0,0,0
+15-16,22,16,1,16,Tottenham Hotspur,Sunderland AFC,4,1,H,26,5,11,2,8,13,11,3,0,2,0,0
+15-16,22,17,1,16,Liverpool FC,Manchester United,0,1,A,19,7,4,1,6,18,5,4,0,2,0,0
+15-16,22,17,1,16,Stoke City,Arsenal FC,0,0,D,14,8,6,3,16,10,6,6,0,0,0,0
+15-16,22,18,1,16,Swansea City,Watford FC,1,0,H,10,13,2,2,8,11,6,3,2,2,0,0
+15-16,23,23,1,16,Crystal Palace,Tottenham Hotspur,1,3,A,11,24,3,11,11,12,3,10,2,2,0,0
+15-16,23,23,1,16,Leicester City,Stoke City,3,0,H,15,3,5,2,10,13,8,4,0,1,0,0
+15-16,23,23,1,16,Manchester United,Southampton FC,0,1,A,8,7,1,2,11,8,4,4,0,0,0,0
+15-16,23,23,1,16,Norwich City,Liverpool FC,4,5,A,6,13,5,7,10,14,3,3,0,1,0,0
+15-16,23,23,1,16,Sunderland AFC,AFC Bournemouth,1,1,D,10,15,5,5,5,9,3,4,1,1,0,0
+15-16,23,23,1,16,Watford FC,Newcastle United,2,1,H,13,11,5,2,10,12,2,7,2,1,0,0
+15-16,23,23,1,16,West Bromwich Albion,Aston Villa,0,0,D,4,15,0,4,7,13,2,6,0,1,0,0
+15-16,23,23,1,16,West Ham United,Manchester City,2,2,D,10,16,3,3,11,15,5,2,2,3,0,0
+15-16,23,24,1,16,Arsenal FC,Chelsea FC,0,1,A,9,12,1,6,14,13,6,7,1,3,1,0
+15-16,23,24,1,16,Everton FC,Swansea City,1,2,A,20,7,2,5,5,12,7,1,0,3,0,0
+15-16,24,2,2,16,Arsenal FC,Southampton FC,0,0,D,21,14,11,3,11,19,13,3,2,1,0,0
+15-16,24,2,2,16,Crystal Palace,AFC Bournemouth,1,2,A,14,8,3,4,11,15,5,3,3,4,0,0
+15-16,24,2,2,16,Leicester City,Liverpool FC,2,0,H,13,14,6,2,6,7,3,12,0,1,0,0
+15-16,24,2,2,16,Manchester United,Stoke City,3,0,H,15,10,5,0,13,13,2,5,2,1,0,0
+15-16,24,2,2,16,Norwich City,Tottenham Hotspur,0,3,A,10,17,2,6,8,9,6,8,2,2,0,0
+15-16,24,2,2,16,Sunderland AFC,Manchester City,0,1,A,11,6,2,2,6,15,8,4,1,4,0,0
+15-16,24,2,2,16,West Bromwich Albion,Swansea City,1,1,D,17,18,7,4,12,13,7,7,0,0,0,0
+15-16,24,2,2,16,West Ham United,Aston Villa,2,0,H,25,6,6,2,9,11,5,5,3,0,0,1
+15-16,24,3,2,16,Everton FC,Newcastle United,3,0,H,18,7,7,3,8,15,3,3,1,2,0,1
+15-16,24,3,2,16,Watford FC,Chelsea FC,0,0,D,12,12,3,4,10,13,7,7,2,1,0,0
+15-16,25,6,2,16,Aston Villa,Norwich City,2,0,H,10,12,3,4,10,11,2,11,0,2,0,0
+15-16,25,6,2,16,Liverpool FC,Sunderland AFC,2,2,D,16,7,5,2,4,12,7,2,1,1,0,0
+15-16,25,6,2,16,Manchester City,Leicester City,1,3,A,22,14,4,7,9,15,11,4,2,2,0,0
+15-16,25,6,2,16,Newcastle United,West Bromwich Albion,1,0,H,19,7,7,0,12,12,8,4,0,3,0,0
+15-16,25,6,2,16,Southampton FC,West Ham United,1,0,H,8,18,2,2,17,10,4,5,1,2,1,0
+15-16,25,6,2,16,Stoke City,Everton FC,0,3,A,11,14,3,6,11,8,6,4,1,0,0,0
+15-16,25,6,2,16,Swansea City,Crystal Palace,1,1,D,19,12,3,2,11,14,9,5,1,2,0,0
+15-16,25,6,2,16,Tottenham Hotspur,Watford FC,1,0,H,26,3,9,0,12,9,15,1,0,1,0,0
+15-16,25,7,2,16,AFC Bournemouth,Arsenal FC,0,2,A,17,10,4,5,6,8,7,3,0,1,0,0
+15-16,25,7,2,16,Chelsea FC,Manchester United,1,1,D,16,17,5,7,6,9,10,11,0,3,0,0
+15-16,26,13,2,16,AFC Bournemouth,Stoke City,1,3,A,11,11,2,6,7,18,9,2,4,2,0,0
+15-16,26,13,2,16,Chelsea FC,Newcastle United,5,1,H,15,10,5,4,16,14,8,3,0,1,1,0
+15-16,26,13,2,16,Crystal Palace,Watford FC,1,2,A,14,10,7,3,11,16,8,5,0,2,0,0
+15-16,26,13,2,16,Everton FC,West Bromwich Albion,0,1,A,34,5,6,1,9,12,14,1,1,3,0,0
+15-16,26,13,2,16,Norwich City,West Ham United,2,2,D,13,11,3,6,16,11,3,3,2,2,0,0
+15-16,26,13,2,16,Sunderland AFC,Manchester United,2,1,H,21,12,5,6,7,15,6,8,2,3,0,0
+15-16,26,13,2,16,Swansea City,Southampton FC,0,1,A,13,13,2,5,10,12,5,4,0,3,0,0
+15-16,26,14,2,16,Arsenal FC,Leicester City,2,1,H,24,7,6,3,9,10,11,1,4,3,0,1
+15-16,26,14,2,16,Aston Villa,Liverpool FC,0,6,A,6,11,1,9,10,9,0,6,3,1,0,0
+15-16,26,14,2,16,Manchester City,Tottenham Hotspur,1,2,A,19,6,4,3,12,17,7,1,1,3,0,0
+15-16,27,27,2,16,Leicester City,Norwich City,1,0,H,13,9,3,1,9,11,3,4,0,2,0,0
+15-16,27,27,2,16,Southampton FC,Chelsea FC,1,2,A,7,16,2,4,10,11,7,8,3,1,0,0
+15-16,27,27,2,16,Stoke City,Aston Villa,2,1,H,11,5,3,1,7,15,11,0,0,3,0,0
+15-16,27,27,2,16,Watford FC,AFC Bournemouth,0,0,D,14,11,1,3,14,17,4,5,3,1,0,0
+15-16,27,27,2,16,West Bromwich Albion,Crystal Palace,3,2,H,11,15,5,2,14,16,3,6,2,2,0,0
+15-16,27,27,2,16,West Ham United,Sunderland AFC,1,0,H,9,13,3,4,11,9,5,6,1,0,0,0
+15-16,27,28,2,16,Tottenham Hotspur,Swansea City,2,1,H,34,10,14,4,11,14,7,7,2,3,0,0
+15-16,27,28,2,16,Manchester United,Arsenal FC,3,2,H,7,13,5,5,21,15,2,3,4,3,0,0
+15-16,28,1,3,16,Aston Villa,Everton FC,1,3,A,14,10,5,7,8,7,9,8,3,1,0,0
+15-16,28,1,3,16,AFC Bournemouth,Southampton FC,2,0,H,9,6,4,1,11,18,10,2,0,0,0,0
+15-16,28,1,3,16,Leicester City,West Bromwich Albion,2,2,D,22,11,5,3,10,8,11,3,0,2,0,0
+15-16,28,1,3,16,Norwich City,Chelsea FC,1,2,A,13,10,2,2,17,5,4,4,3,2,0,0
+15-16,28,1,3,16,Sunderland AFC,Crystal Palace,2,2,D,17,13,6,5,11,14,4,5,1,1,0,0
+15-16,28,2,3,16,Arsenal FC,Swansea City,1,2,A,18,11,4,2,8,11,7,3,0,2,0,0
+15-16,28,2,3,16,Liverpool FC,Manchester City,3,0,H,11,4,7,2,14,14,3,2,0,1,0,0
+15-16,28,2,3,16,Manchester United,Watford FC,1,0,H,14,13,3,3,7,17,9,7,1,2,0,0
+15-16,28,2,3,16,Stoke City,Newcastle United,1,0,H,9,5,2,3,11,6,5,2,1,0,0,0
+15-16,28,2,3,16,West Ham United,Tottenham Hotspur,1,0,H,14,9,3,2,10,11,6,3,0,3,0,0
+15-16,29,5,3,16,Chelsea FC,Stoke City,1,1,D,20,16,7,5,9,10,8,4,1,2,0,0
+15-16,29,5,3,16,Everton FC,West Ham United,2,3,A,15,17,8,5,12,13,9,6,2,3,1,0
+15-16,29,5,3,16,Manchester City,Aston Villa,4,0,H,22,2,9,1,10,10,9,1,0,1,0,0
+15-16,29,5,3,16,Newcastle United,AFC Bournemouth,1,3,A,14,16,3,5,13,8,5,4,1,3,0,0
+15-16,29,5,3,16,Southampton FC,Sunderland AFC,1,1,D,16,11,5,3,9,9,12,2,2,1,1,0
+15-16,29,5,3,16,Swansea City,Norwich City,1,0,H,10,8,3,3,14,15,5,0,2,5,0,0
+15-16,29,5,3,16,Tottenham Hotspur,Arsenal FC,2,2,D,26,10,11,4,9,10,9,2,2,2,0,1
+15-16,29,5,3,16,Watford FC,Leicester City,0,1,A,11,14,4,7,10,11,3,8,2,2,0,0
+15-16,29,6,3,16,Crystal Palace,Liverpool FC,1,2,A,14,19,4,5,12,16,6,6,1,2,0,1
+15-16,29,6,3,16,West Bromwich Albion,Manchester United,1,0,H,9,7,2,1,8,7,4,5,1,0,0,1
+15-16,30,12,3,16,AFC Bournemouth,Swansea City,3,2,H,12,12,4,4,12,11,5,3,1,0,0,0
+15-16,30,12,3,16,Norwich City,Manchester City,0,0,D,5,15,0,3,15,10,3,8,3,1,0,0
+15-16,30,12,3,16,Stoke City,Southampton FC,1,2,A,13,11,2,4,13,12,1,4,1,2,0,1
+15-16,30,13,3,16,Aston Villa,Tottenham Hotspur,0,2,A,11,19,2,8,6,6,5,8,0,0,0,0
+15-16,30,14,3,16,Leicester City,Newcastle United,1,0,H,10,13,1,2,4,9,8,4,0,0,0,0
+15-16,31,19,3,16,Chelsea FC,West Ham United,2,2,D,22,13,5,6,13,14,10,9,3,5,0,0
+15-16,31,19,3,16,Crystal Palace,Leicester City,0,1,A,12,8,4,3,9,13,10,7,1,1,0,0
+15-16,31,19,3,16,Everton FC,Arsenal FC,0,2,A,8,11,2,3,7,10,7,5,0,0,0,0
+15-16,31,19,3,16,Swansea City,Aston Villa,1,0,H,10,12,1,2,9,10,4,6,3,2,0,0
+15-16,31,19,3,16,Watford FC,Stoke City,1,2,A,9,9,4,6,10,14,9,2,3,1,0,0
+15-16,31,19,3,16,West Bromwich Albion,Norwich City,0,1,A,10,7,0,1,8,13,4,3,1,2,0,0
+15-16,31,20,3,16,Manchester City,Manchester United,0,1,A,26,5,2,3,9,12,11,5,1,1,0,0
+15-16,31,20,3,16,Newcastle United,Sunderland AFC,1,1,D,17,14,8,4,14,7,2,5,4,1,0,0
+15-16,31,20,3,16,Southampton FC,Liverpool FC,3,2,H,16,18,5,9,10,13,3,5,1,3,0,0
+15-16,31,20,3,16,Tottenham Hotspur,AFC Bournemouth,3,0,H,17,2,8,0,11,6,4,5,0,1,0,0
+15-16,32,2,4,16,Arsenal FC,Watford FC,4,0,H,19,6,12,2,7,10,8,3,1,1,0,0
+15-16,32,2,4,16,Aston Villa,Chelsea FC,0,4,A,15,11,4,8,12,8,7,2,4,1,1,0
+15-16,32,2,4,16,AFC Bournemouth,Manchester City,0,4,A,11,15,2,7,9,8,4,4,0,1,0,0
+15-16,32,2,4,16,Liverpool FC,Tottenham Hotspur,1,1,D,15,18,7,5,11,11,12,9,2,0,0,0
+15-16,32,2,4,16,Norwich City,Newcastle United,3,2,H,13,13,6,5,6,11,6,5,0,0,0,0
+15-16,32,2,4,16,Stoke City,Swansea City,2,2,D,12,12,5,3,6,16,5,5,0,1,0,0
+15-16,32,2,4,16,Sunderland AFC,West Bromwich Albion,0,0,D,22,3,7,0,11,13,9,3,1,1,0,0
+15-16,32,2,4,16,West Ham United,Crystal Palace,2,2,D,18,12,6,5,12,19,4,5,2,2,1,0
+15-16,32,3,4,16,Leicester City,Southampton FC,1,0,H,11,10,4,2,12,13,7,8,2,2,0,0
+15-16,32,3,4,16,Manchester United,Everton FC,1,0,H,10,7,2,1,15,6,5,5,2,0,0,0
+15-16,33,9,4,16,Aston Villa,AFC Bournemouth,1,2,A,6,12,1,3,13,11,3,8,2,2,0,0
+15-16,33,9,4,16,Crystal Palace,Norwich City,1,0,H,13,13,6,4,13,10,10,4,2,1,0,0
+15-16,33,9,4,16,Manchester City,West Bromwich Albion,2,1,H,13,13,4,2,10,7,8,8,0,1,0,0
+15-16,33,9,4,16,Southampton FC,Newcastle United,3,1,H,20,5,6,3,8,7,11,2,0,0,0,0
+15-16,33,9,4,16,Swansea City,Chelsea FC,1,0,H,12,8,6,2,15,13,1,9,5,4,0,0
+15-16,33,9,4,16,Watford FC,Everton FC,1,1,D,13,12,5,7,13,10,7,6,2,1,0,0
+15-16,33,9,4,16,West Ham United,Arsenal FC,3,3,D,19,11,7,6,11,8,7,4,2,0,0,0
+15-16,33,10,4,16,Liverpool FC,Stoke City,4,1,H,14,10,6,3,14,14,6,3,0,2,0,0
+15-16,33,10,4,16,Sunderland AFC,Leicester City,0,2,A,15,17,1,7,9,9,1,7,1,1,0,0
+15-16,33,10,4,16,Tottenham Hotspur,Manchester United,3,0,H,16,5,8,1,10,10,2,7,3,3,0,0
+15-16,35,13,4,16,Crystal Palace,Everton FC,0,0,D,18,9,6,5,7,9,10,7,0,1,0,1
+15-16,34,16,4,16,Chelsea FC,Manchester City,0,3,A,11,11,4,8,12,15,11,3,2,3,1,0
+15-16,34,16,4,16,Everton FC,Southampton FC,1,1,D,7,18,2,4,8,14,3,10,1,1,0,0
+15-16,34,16,4,16,Manchester United,Aston Villa,1,0,H,13,7,4,1,9,10,14,3,0,1,0,0
+15-16,34,16,4,16,Newcastle United,Swansea City,3,0,H,12,11,7,1,13,9,3,7,2,1,0,0
+15-16,34,16,4,16,Norwich City,Sunderland AFC,0,3,A,19,8,6,3,7,11,14,0,2,2,0,0
+15-16,34,16,4,16,West Bromwich Albion,Watford FC,0,1,A,16,11,4,4,11,17,9,3,0,3,0,0
+15-16,34,17,4,16,Arsenal FC,Crystal Palace,1,1,D,21,7,6,2,7,13,10,5,0,2,0,0
+15-16,34,17,4,16,AFC Bournemouth,Liverpool FC,1,2,A,18,19,5,6,9,9,5,4,0,0,0,0
+15-16,34,17,4,16,Leicester City,West Ham United,2,2,D,6,19,2,4,14,14,0,5,1,3,1,0
+15-16,34,18,4,16,Stoke City,Tottenham Hotspur,0,4,A,12,23,2,6,12,12,5,3,2,0,0,0
+15-16,27,19,4,16,Newcastle United,Manchester City,1,1,D,5,9,3,5,13,8,5,3,3,2,0,0
+15-16,27,20,4,16,Liverpool FC,Everton FC,4,0,H,37,3,13,0,8,11,9,1,1,1,0,1
+15-16,30,20,4,16,Manchester United,Crystal Palace,2,0,H,16,5,10,0,13,7,10,2,1,2,0,0
+15-16,30,20,4,16,West Ham United,Watford FC,3,1,H,18,7,7,4,11,17,4,2,0,2,0,1
+15-16,30,21,4,16,Arsenal FC,West Bromwich Albion,2,0,H,16,8,7,1,14,14,2,6,0,1,0,0
+15-16,35,23,4,16,Aston Villa,Southampton FC,2,4,A,16,17,7,7,8,9,6,11,2,0,0,0
+15-16,35,23,4,16,AFC Bournemouth,Chelsea FC,1,4,A,13,16,4,4,11,4,10,7,1,0,0,0
+15-16,35,23,4,16,Liverpool FC,Newcastle United,2,2,D,13,6,4,3,8,17,5,4,1,1,0,0
+15-16,35,23,4,16,Manchester City,Stoke City,4,0,H,11,14,6,2,8,8,9,4,0,0,0,0
+15-16,35,24,4,16,Leicester City,Swansea City,4,0,H,18,9,9,1,15,10,4,6,1,2,0,0
+15-16,35,24,4,16,Sunderland AFC,Arsenal FC,0,0,D,12,20,3,7,10,8,7,7,2,4,0,0
+15-16,35,25,4,16,Tottenham Hotspur,West Bromwich Albion,1,1,D,19,16,2,3,8,13,9,7,0,1,0,0
+15-16,36,30,4,16,Arsenal FC,Norwich City,1,0,H,14,12,3,3,8,7,7,3,1,0,0,0
+15-16,36,30,4,16,Everton FC,AFC Bournemouth,2,1,H,12,16,5,2,4,8,3,5,1,0,0,0
+15-16,36,30,4,16,Newcastle United,Crystal Palace,1,0,H,10,9,4,3,11,12,4,8,2,0,0,0
+15-16,36,30,4,16,Stoke City,Sunderland AFC,1,1,D,11,14,3,5,13,13,2,8,2,2,0,0
+15-16,36,30,4,16,Watford FC,Aston Villa,3,2,H,18,7,6,2,14,10,8,4,2,3,0,1
+15-16,36,30,4,16,West Bromwich Albion,West Ham United,0,3,A,15,8,5,4,14,7,8,6,0,0,0,0
+15-16,36,1,5,16,Manchester United,Leicester City,1,1,D,21,14,6,3,16,10,6,5,3,0,0,1
+15-16,36,1,5,16,Southampton FC,Manchester City,4,2,H,14,6,7,5,12,9,8,2,2,1,0,0
+15-16,36,1,5,16,Swansea City,Liverpool FC,3,1,H,18,11,9,3,12,13,4,7,2,2,0,1
+15-16,36,2,5,16,Chelsea FC,Tottenham Hotspur,2,2,D,13,16,5,5,9,20,7,8,3,9,0,0
+15-16,37,7,5,16,Aston Villa,Newcastle United,0,0,D,2,9,0,3,8,13,0,5,1,1,0,0
+15-16,37,7,5,16,AFC Bournemouth,West Bromwich Albion,1,1,D,12,12,4,4,5,8,5,3,2,1,0,0
+15-16,37,7,5,16,Crystal Palace,Stoke City,2,1,H,17,12,4,3,8,18,4,3,2,3,0,0
+15-16,37,7,5,16,Leicester City,Everton FC,3,1,H,32,9,8,5,4,12,12,4,0,3,0,0
+15-16,37,7,5,16,Norwich City,Manchester United,0,1,A,8,15,2,2,11,10,1,6,1,0,0,0
+15-16,37,7,5,16,Sunderland AFC,Chelsea FC,3,2,H,15,9,4,8,11,9,3,3,4,1,0,1
+15-16,37,7,5,16,West Ham United,Swansea City,1,4,A,25,13,7,6,11,8,13,3,3,0,0,0
+15-16,37,8,5,16,Liverpool FC,Watford FC,2,0,H,19,14,5,3,10,15,8,8,1,2,0,0
+15-16,37,8,5,16,Manchester City,Arsenal FC,2,2,D,14,5,3,2,16,10,7,2,2,1,0,0
+15-16,37,8,5,16,Tottenham Hotspur,Southampton FC,1,2,A,20,10,6,2,8,16,10,2,0,3,0,0
+15-16,35,10,5,16,West Ham United,Manchester United,3,2,H,20,3,6,2,6,18,6,2,1,3,0,0
+15-16,30,11,5,16,Liverpool FC,Chelsea FC,1,1,D,28,13,9,7,11,12,7,3,3,1,0,0
+15-16,35,11,5,16,Norwich City,Watford FC,4,2,H,18,12,6,7,8,12,5,1,2,3,0,0
+15-16,30,11,5,16,Sunderland AFC,Everton FC,3,0,H,14,17,8,6,15,7,5,5,1,0,0,0
+15-16,38,15,5,16,Arsenal FC,Aston Villa,4,0,H,16,5,7,2,12,6,5,4,0,1,0,0
+15-16,38,15,5,16,Chelsea FC,Leicester City,1,1,D,17,18,4,5,4,12,7,6,0,0,0,0
+15-16,38,15,5,16,Everton FC,Norwich City,3,0,H,15,10,8,2,7,11,4,11,0,0,0,0
+15-16,38,15,5,16,Newcastle United,Tottenham Hotspur,5,1,H,19,17,10,5,7,6,3,8,1,2,1,0
+15-16,38,15,5,16,Southampton FC,Crystal Palace,4,1,H,18,16,5,4,7,14,2,5,1,2,0,0
+15-16,38,15,5,16,Stoke City,West Ham United,2,1,H,7,20,4,7,8,12,4,10,3,1,0,0
+15-16,38,15,5,16,Swansea City,Manchester City,1,1,D,4,18,1,5,4,19,4,4,1,3,0,0
+15-16,38,15,5,16,Watford FC,Sunderland AFC,2,2,D,21,6,6,4,11,10,7,4,1,0,0,0
+15-16,38,15,5,16,West Bromwich Albion,Liverpool FC,1,1,D,13,7,1,3,11,14,7,5,3,1,0,0
+15-16,38,17,5,16,Manchester United,AFC Bournemouth,3,1,H,12,7,5,0,9,8,7,1,1,0,0,0
+16-17,1,13,8,16,Burnley FC,Swansea City,0,1,A,10,17,3,9,10,14,7,4,3,2,0,0
+16-17,1,13,8,16,Crystal Palace,West Bromwich Albion,0,1,A,14,13,4,3,12,15,3,6,2,2,0,0
+16-17,1,13,8,16,Everton FC,Tottenham Hotspur,1,1,D,12,13,6,4,10,14,5,6,0,0,0,0
+16-17,1,13,8,16,Hull City,Leicester City,2,1,H,14,18,5,5,8,17,5,3,2,2,0,0
+16-17,1,13,8,16,Manchester City,Sunderland AFC,2,1,H,16,7,4,3,11,14,9,6,1,2,0,0
+16-17,1,13,8,16,Middlesbrough FC,Stoke City,1,1,D,12,12,2,1,18,14,9,6,3,5,0,0
+16-17,1,13,8,16,Southampton FC,Watford FC,1,1,D,24,5,6,1,8,12,6,2,1,2,0,1
+16-17,1,14,8,16,Arsenal FC,Liverpool FC,3,4,A,9,16,5,7,13,17,5,4,3,3,0,0
+16-17,1,14,8,16,AFC Bournemouth,Manchester United,1,3,A,9,11,3,7,7,10,4,2,0,1,0,0
+16-17,1,15,8,16,Chelsea FC,West Ham United,2,1,H,16,7,6,3,16,16,7,1,5,2,0,0
+16-17,2,19,8,16,Manchester United,Southampton FC,2,0,H,12,13,5,1,11,8,4,0,0,0,0,0
+16-17,2,20,8,16,Burnley FC,Liverpool FC,2,0,H,3,26,2,5,14,5,1,12,0,1,0,0
+16-17,2,20,8,16,Leicester City,Arsenal FC,0,0,D,8,13,1,4,11,7,2,7,1,2,0,0
+16-17,2,20,8,16,Stoke City,Manchester City,1,4,A,8,12,3,6,12,13,7,7,3,4,0,0
+16-17,2,20,8,16,Swansea City,Hull City,0,2,A,13,12,3,4,7,10,8,3,0,0,0,0
+16-17,2,20,8,16,Tottenham Hotspur,Crystal Palace,1,0,H,20,10,5,2,19,9,10,4,3,3,0,0
+16-17,2,20,8,16,Watford FC,Chelsea FC,1,2,A,6,13,2,4,20,10,0,5,4,3,0,0
+16-17,2,20,8,16,West Bromwich Albion,Everton FC,1,2,A,11,13,4,7,16,10,7,4,3,1,0,0
+16-17,2,21,8,16,Sunderland AFC,Middlesbrough FC,1,2,A,18,8,5,3,11,14,8,1,1,1,0,0
+16-17,2,21,8,16,West Ham United,AFC Bournemouth,1,0,H,15,8,2,5,15,15,1,6,3,1,0,1
+16-17,3,27,8,16,Chelsea FC,Burnley FC,3,0,H,22,6,10,0,6,9,9,5,2,2,0,0
+16-17,3,27,8,16,Crystal Palace,AFC Bournemouth,1,1,D,24,10,5,3,15,10,10,4,2,1,0,0
+16-17,3,27,8,16,Everton FC,Stoke City,1,0,H,21,8,9,1,14,11,9,2,2,1,0,0
+16-17,3,27,8,16,Hull City,Manchester United,0,1,A,8,29,2,9,9,6,1,6,2,3,0,0
+16-17,3,27,8,16,Leicester City,Swansea City,2,1,H,13,9,6,3,14,10,4,6,2,2,0,0
+16-17,3,27,8,16,Southampton FC,Sunderland AFC,1,1,D,16,5,7,2,15,8,5,5,2,2,0,0
+16-17,3,27,8,16,Tottenham Hotspur,Liverpool FC,1,1,D,11,13,4,3,11,17,5,5,3,5,0,0
+16-17,3,27,8,16,Watford FC,Arsenal FC,1,3,A,14,10,6,7,18,15,3,2,6,1,0,0
+16-17,3,28,8,16,Manchester City,West Ham United,3,1,H,22,9,5,2,5,10,5,4,1,3,0,0
+16-17,3,28,8,16,West Bromwich Albion,Middlesbrough FC,0,0,D,13,7,2,2,12,11,5,4,1,3,0,0
+16-17,4,10,9,16,Arsenal FC,Southampton FC,2,1,H,17,11,2,5,10,8,6,1,2,5,0,0
+16-17,4,10,9,16,AFC Bournemouth,West Bromwich Albion,1,0,H,12,12,5,2,9,11,10,5,1,3,0,0
+16-17,4,10,9,16,Burnley FC,Hull City,1,1,D,13,11,2,3,13,3,5,9,2,0,0,0
+16-17,4,10,9,16,Liverpool FC,Leicester City,4,1,H,17,12,11,3,4,8,1,7,1,2,0,0
+16-17,4,10,9,16,Manchester United,Manchester City,1,2,A,14,18,3,6,15,10,4,4,4,2,0,0
+16-17,4,10,9,16,Middlesbrough FC,Crystal Palace,1,2,A,12,12,4,4,5,9,6,6,1,2,0,0
+16-17,4,10,9,16,Stoke City,Tottenham Hotspur,0,4,A,15,20,2,8,13,18,10,8,3,2,0,0
+16-17,4,10,9,16,West Ham United,Watford FC,2,4,A,19,13,4,8,10,15,4,4,2,2,0,0
+16-17,4,11,9,16,Swansea City,Chelsea FC,2,2,D,6,28,2,7,17,8,1,11,3,4,0,0
+16-17,4,12,9,16,Sunderland AFC,Everton FC,0,3,A,11,20,2,9,11,8,5,4,1,1,0,0
+16-17,5,16,9,16,Chelsea FC,Liverpool FC,1,2,A,12,13,4,5,6,13,6,4,1,1,0,0
+16-17,5,17,9,16,Everton FC,Middlesbrough FC,3,1,H,11,7,6,0,5,15,6,3,2,1,0,0
+16-17,5,17,9,16,Hull City,Arsenal FC,1,4,A,6,24,2,9,9,12,2,4,0,2,1,0
+16-17,5,17,9,16,Leicester City,Burnley FC,3,0,H,14,7,6,2,10,9,7,1,0,1,0,0
+16-17,5,17,9,16,Manchester City,AFC Bournemouth,4,0,H,20,6,12,2,8,11,5,5,1,1,1,0
+16-17,5,17,9,16,West Bromwich Albion,West Ham United,4,2,H,8,23,6,5,14,6,2,6,2,1,0,0
+16-17,5,18,9,16,Crystal Palace,Stoke City,4,1,H,14,11,8,4,15,9,10,5,2,1,0,0
+16-17,5,18,9,16,Southampton FC,Swansea City,1,0,H,19,9,6,3,14,9,7,1,1,1,0,0
+16-17,5,18,9,16,Tottenham Hotspur,Sunderland AFC,1,0,H,31,6,9,2,7,16,14,1,1,5,0,1
+16-17,5,18,9,16,Watford FC,Manchester United,3,1,H,10,15,5,2,14,19,5,7,3,4,0,0
+16-17,6,24,9,16,Arsenal FC,Chelsea FC,3,0,H,14,9,5,2,9,11,9,1,0,2,0,0
+16-17,6,24,9,16,AFC Bournemouth,Everton FC,1,0,H,12,13,1,2,10,14,5,3,2,2,0,0
+16-17,6,24,9,16,Liverpool FC,Hull City,5,1,H,32,2,12,1,8,8,13,2,1,2,0,1
+16-17,6,24,9,16,Manchester United,Leicester City,4,1,H,16,10,7,3,9,12,8,6,0,2,0,0
+16-17,6,24,9,16,Middlesbrough FC,Tottenham Hotspur,1,2,A,6,19,2,5,14,9,2,10,2,1,0,0
+16-17,6,24,9,16,Stoke City,West Bromwich Albion,1,1,D,12,9,2,3,9,13,6,6,3,4,0,0
+16-17,6,24,9,16,Sunderland AFC,Crystal Palace,2,3,A,11,20,4,4,15,12,3,5,0,2,0,0
+16-17,6,24,9,16,Swansea City,Manchester City,1,3,A,13,18,5,4,15,9,2,7,2,4,0,0
+16-17,6,25,9,16,West Ham United,Southampton FC,0,3,A,13,18,1,9,9,14,6,2,5,2,0,0
+16-17,6,26,9,16,Burnley FC,Watford FC,2,0,H,13,12,4,3,11,15,7,6,1,3,0,0
+16-17,7,30,9,16,Everton FC,Crystal Palace,1,1,D,13,10,3,2,16,11,10,9,5,4,0,0
+16-17,7,1,10,16,Hull City,Chelsea FC,0,2,A,8,22,3,9,13,15,5,7,2,2,0,0
+16-17,7,1,10,16,Sunderland AFC,West Bromwich Albion,1,1,D,7,17,2,7,7,13,6,5,1,3,0,0
+16-17,7,1,10,16,Swansea City,Liverpool FC,1,2,A,8,18,3,6,11,9,3,10,2,2,0,0
+16-17,7,1,10,16,Watford FC,AFC Bournemouth,2,2,D,17,11,7,2,17,12,4,5,3,4,0,0
+16-17,7,1,10,16,West Ham United,Middlesbrough FC,1,1,D,19,9,2,3,13,12,4,5,2,3,0,0
+16-17,7,2,10,16,Burnley FC,Arsenal FC,0,1,A,10,18,1,3,2,3,2,6,0,0,0,0
+16-17,7,2,10,16,Leicester City,Southampton FC,0,0,D,9,11,1,5,9,9,3,6,1,0,0,0
+16-17,7,2,10,16,Manchester United,Stoke City,1,1,D,24,7,9,6,14,9,13,2,3,0,0,0
+16-17,7,2,10,16,Tottenham Hotspur,Manchester City,2,0,H,13,12,7,6,20,10,4,3,2,2,0,0
+16-17,8,15,10,16,Arsenal FC,Swansea City,3,2,H,16,13,6,6,7,10,5,6,0,1,1,0
+16-17,8,15,10,16,AFC Bournemouth,Hull City,6,1,H,22,11,10,4,8,14,5,4,0,3,0,0
+16-17,8,15,10,16,Chelsea FC,Leicester City,3,0,H,16,5,6,0,6,12,8,5,1,1,0,0
+16-17,8,15,10,16,Crystal Palace,West Ham United,0,1,A,12,12,3,4,12,13,7,6,1,3,0,1
+16-17,8,15,10,16,Manchester City,Everton FC,1,1,D,19,3,8,2,7,9,13,1,0,2,0,0
+16-17,8,15,10,16,Stoke City,Sunderland AFC,2,0,H,18,11,6,1,10,13,6,4,1,1,0,0
+16-17,8,15,10,16,West Bromwich Albion,Tottenham Hotspur,1,1,D,8,20,4,8,14,10,5,8,2,2,0,0
+16-17,8,16,10,16,Middlesbrough FC,Watford FC,0,1,A,10,4,3,2,15,10,4,6,4,1,0,0
+16-17,8,16,10,16,Southampton FC,Burnley FC,3,1,H,34,6,14,1,11,10,8,4,1,2,0,0
+16-17,8,17,10,16,Liverpool FC,Manchester United,0,0,D,9,7,3,1,14,20,3,1,0,4,0,0
+16-17,9,22,10,16,Arsenal FC,Middlesbrough FC,0,0,D,9,11,5,4,6,13,8,3,1,0,0,0
+16-17,9,22,10,16,AFC Bournemouth,Tottenham Hotspur,0,0,D,8,16,1,4,10,15,7,4,2,4,0,0
+16-17,9,22,10,16,Burnley FC,Everton FC,2,1,H,9,20,3,8,16,15,2,8,2,3,0,0
+16-17,9,22,10,16,Hull City,Stoke City,0,2,A,9,12,2,6,16,8,5,7,2,3,0,0
+16-17,9,22,10,16,Leicester City,Crystal Palace,3,1,H,17,23,4,7,10,8,8,8,0,0,0,0
+16-17,9,22,10,16,Liverpool FC,West Bromwich Albion,2,1,H,21,6,7,1,9,13,3,2,1,3,0,0
+16-17,9,22,10,16,Swansea City,Watford FC,0,0,D,11,10,5,2,15,16,7,2,2,1,0,0
+16-17,9,22,10,16,West Ham United,Sunderland AFC,1,0,H,20,10,3,2,10,13,6,2,2,5,0,0
+16-17,9,23,10,16,Chelsea FC,Manchester United,4,0,H,14,16,6,5,7,17,5,7,3,2,0,0
+16-17,9,23,10,16,Manchester City,Southampton FC,1,1,D,14,6,3,2,11,10,10,3,3,3,0,0
+16-17,10,29,10,16,Crystal Palace,Liverpool FC,2,4,A,7,17,6,10,15,5,3,3,1,2,0,0
+16-17,10,29,10,16,Manchester United,Burnley FC,0,0,D,37,7,11,1,12,9,19,1,1,3,1,0
+16-17,10,29,10,16,Middlesbrough FC,AFC Bournemouth,2,0,H,10,15,3,3,3,5,4,7,1,1,0,0
+16-17,10,29,10,16,Sunderland AFC,Arsenal FC,1,4,A,3,21,1,7,9,13,0,8,4,3,0,0
+16-17,10,29,10,16,Tottenham Hotspur,Leicester City,1,1,D,22,6,5,1,11,20,8,1,3,4,0,0
+16-17,10,29,10,16,Watford FC,Hull City,1,0,H,22,8,0,2,13,8,7,2,1,2,0,0
+16-17,10,29,10,16,West Bromwich Albion,Manchester City,0,4,A,9,21,1,8,17,10,1,7,4,3,0,0
+16-17,10,30,10,16,Everton FC,West Ham United,2,0,H,17,13,6,3,15,12,8,8,2,3,0,0
+16-17,10,30,10,16,Southampton FC,Chelsea FC,0,2,A,9,13,1,7,13,16,7,3,0,0,0,0
+16-17,10,31,10,16,Stoke City,Swansea City,3,1,H,17,14,4,6,7,14,6,4,2,0,0,0
+16-17,11,5,11,16,AFC Bournemouth,Sunderland AFC,1,2,A,22,9,7,4,14,17,12,2,3,2,0,1
+16-17,11,5,11,16,Burnley FC,Crystal Palace,3,2,H,14,16,7,5,11,12,4,7,1,2,0,0
+16-17,11,5,11,16,Chelsea FC,Everton FC,5,0,H,21,1,9,0,5,16,4,2,0,3,0,0
+16-17,11,5,11,16,Manchester City,Middlesbrough FC,1,1,D,25,5,7,3,7,15,8,2,1,3,0,0
+16-17,11,5,11,16,West Ham United,Stoke City,1,1,D,9,12,2,4,11,10,6,4,4,1,0,0
+16-17,11,6,11,16,Arsenal FC,Tottenham Hotspur,1,1,D,15,10,2,3,11,17,7,2,1,2,0,0
+16-17,11,6,11,16,Hull City,Southampton FC,2,1,H,6,19,2,7,13,15,1,10,0,5,0,0
+16-17,11,6,11,16,Leicester City,West Bromwich Albion,1,2,A,5,11,2,5,8,8,5,6,0,2,0,0
+16-17,11,6,11,16,Liverpool FC,Watford FC,6,1,H,28,11,17,8,14,10,6,3,1,2,0,0
+16-17,11,6,11,16,Swansea City,Manchester United,1,3,A,6,9,1,3,9,16,2,0,0,2,0,0
+16-17,12,19,11,16,Crystal Palace,Manchester City,1,2,A,9,10,2,4,12,15,2,7,1,2,0,0
+16-17,12,19,11,16,Everton FC,Swansea City,1,1,D,14,5,6,3,13,12,10,3,4,2,0,0
+16-17,12,19,11,16,Manchester United,Arsenal FC,1,1,D,12,5,5,1,14,11,10,4,3,3,0,0
+16-17,12,19,11,16,Southampton FC,Liverpool FC,0,0,D,3,15,0,2,8,11,1,8,1,1,0,0
+16-17,12,19,11,16,Stoke City,AFC Bournemouth,0,1,A,14,9,6,2,17,10,3,4,3,2,0,0
+16-17,12,19,11,16,Sunderland AFC,Hull City,3,0,H,11,17,4,7,9,8,2,8,1,0,1,0
+16-17,12,19,11,16,Tottenham Hotspur,West Ham United,3,2,H,14,11,6,3,13,16,4,5,3,2,0,1
+16-17,12,19,11,16,Watford FC,Leicester City,2,1,H,10,10,3,2,12,18,4,6,2,3,0,0
+16-17,12,20,11,16,Middlesbrough FC,Chelsea FC,0,1,A,12,13,1,3,13,10,2,3,2,3,0,0
+16-17,12,21,11,16,West Bromwich Albion,Burnley FC,4,0,H,16,5,6,2,12,12,4,3,0,0,0,0
+16-17,13,26,11,16,Burnley FC,Manchester City,1,2,A,10,21,5,5,5,15,5,8,2,3,0,0
+16-17,13,26,11,16,Chelsea FC,Tottenham Hotspur,2,1,H,9,12,5,6,13,16,3,8,2,1,0,0
+16-17,13,26,11,16,Hull City,West Bromwich Albion,1,1,D,10,11,4,2,7,10,2,6,3,2,0,0
+16-17,13,26,11,16,Leicester City,Middlesbrough FC,2,2,D,11,6,3,2,15,12,2,3,4,4,0,0
+16-17,13,26,11,16,Liverpool FC,Sunderland AFC,2,0,H,27,6,7,1,5,9,9,4,1,3,0,0
+16-17,13,26,11,16,Swansea City,Crystal Palace,5,4,H,18,12,9,4,12,24,10,6,4,5,0,0
+16-17,13,27,11,16,Arsenal FC,AFC Bournemouth,3,1,H,16,9,3,3,12,13,3,10,3,5,0,0
+16-17,13,27,11,16,Manchester United,West Ham United,1,1,D,17,6,8,2,16,16,8,4,3,1,0,0
+16-17,13,27,11,16,Southampton FC,Everton FC,1,0,H,17,13,7,1,11,15,5,2,0,2,0,0
+16-17,13,27,11,16,Watford FC,Stoke City,0,1,A,11,14,2,1,24,14,3,3,3,0,1,0
+16-17,14,3,12,16,Crystal Palace,Southampton FC,3,0,H,9,17,4,3,11,13,4,9,3,1,0,0
+16-17,14,3,12,16,Manchester City,Chelsea FC,1,3,A,14,10,5,4,14,9,9,2,2,3,2,0
+16-17,14,3,12,16,Stoke City,Burnley FC,2,0,H,10,14,4,4,7,13,4,9,3,2,0,0
+16-17,14,3,12,16,Sunderland AFC,Leicester City,2,1,H,22,17,6,5,8,12,3,4,3,1,0,0
+16-17,14,3,12,16,Tottenham Hotspur,Swansea City,5,0,H,28,1,15,0,11,17,5,0,0,4,0,0
+16-17,14,3,12,16,West Bromwich Albion,Watford FC,3,1,H,11,17,3,5,12,8,3,4,2,1,0,1
+16-17,14,3,12,16,West Ham United,Arsenal FC,1,5,A,10,19,3,10,10,11,3,2,3,3,0,0
+16-17,14,4,12,16,AFC Bournemouth,Liverpool FC,4,3,H,12,10,8,3,9,17,4,9,2,2,0,0
+16-17,14,4,12,16,Everton FC,Manchester United,1,1,D,13,10,6,2,13,11,6,3,2,3,0,0
+16-17,14,5,12,16,Middlesbrough FC,Hull City,1,0,H,16,6,4,2,6,11,13,7,1,1,0,0
+16-17,15,10,12,16,Arsenal FC,Stoke City,3,1,H,21,12,6,5,9,6,7,7,0,0,0,0
+16-17,15,10,12,16,Burnley FC,AFC Bournemouth,3,2,H,16,17,7,4,14,18,4,11,2,2,0,0
+16-17,15,10,12,16,Hull City,Crystal Palace,3,3,D,15,14,6,6,16,14,4,7,2,4,0,0
+16-17,15,10,12,16,Leicester City,Manchester City,4,2,H,10,19,6,4,10,7,3,11,2,1,0,0
+16-17,15,10,12,16,Swansea City,Sunderland AFC,3,0,H,14,11,5,2,10,8,7,4,1,2,0,0
+16-17,15,10,12,16,Watford FC,Everton FC,3,2,H,11,11,6,4,11,16,2,4,2,2,0,0
+16-17,15,11,12,16,Chelsea FC,West Bromwich Albion,1,0,H,12,6,2,1,6,10,3,1,2,4,0,0
+16-17,15,11,12,16,Liverpool FC,West Ham United,2,2,D,18,7,3,3,7,8,11,4,2,0,0,0
+16-17,15,11,12,16,Manchester United,Tottenham Hotspur,1,0,H,15,12,5,4,19,17,3,8,3,3,0,0
+16-17,15,11,12,16,Southampton FC,Middlesbrough FC,1,0,H,14,6,3,2,14,12,4,2,4,3,0,0
+16-17,16,13,12,16,AFC Bournemouth,Leicester City,1,0,H,9,12,3,4,5,15,4,11,0,3,0,0
+16-17,16,13,12,16,Everton FC,Arsenal FC,2,1,H,14,9,4,3,10,10,8,3,1,1,1,0
+16-17,16,14,12,16,Crystal Palace,Manchester United,1,2,A,6,16,3,6,16,10,1,8,2,2,0,0
+16-17,16,14,12,16,Manchester City,Watford FC,2,0,H,13,5,7,2,16,20,5,2,1,2,0,0
+16-17,16,14,12,16,Middlesbrough FC,Liverpool FC,0,3,A,8,15,3,4,11,14,5,2,1,0,0,0
+16-17,16,14,12,16,Stoke City,Southampton FC,0,0,D,5,15,3,4,9,10,3,11,1,2,1,0
+16-17,16,14,12,16,Sunderland AFC,Chelsea FC,0,1,A,8,19,3,6,15,10,5,5,3,2,0,0
+16-17,16,14,12,16,Tottenham Hotspur,Hull City,3,0,H,27,10,9,5,6,14,5,5,0,2,0,0
+16-17,16,14,12,16,West Bromwich Albion,Swansea City,3,1,H,13,8,4,4,8,8,0,11,0,0,0,0
+16-17,16,14,12,16,West Ham United,Burnley FC,1,0,H,20,8,7,2,12,15,6,1,0,2,0,0
+16-17,17,17,12,16,Crystal Palace,Chelsea FC,0,1,A,6,13,2,6,12,15,5,3,2,3,0,0
+16-17,17,17,12,16,Middlesbrough FC,Swansea City,3,0,H,10,14,4,2,10,11,3,8,1,0,0,0
+16-17,17,17,12,16,Stoke City,Leicester City,2,2,D,16,14,7,8,9,12,9,9,2,6,0,1
+16-17,17,17,12,16,Sunderland AFC,Watford FC,1,0,H,12,9,4,4,10,9,4,11,1,2,0,0
+16-17,17,17,12,16,West Bromwich Albion,Manchester United,0,2,A,10,10,1,5,9,13,2,3,3,3,0,0
+16-17,17,17,12,16,West Ham United,Hull City,1,0,H,18,16,6,5,13,9,10,6,2,4,0,0
+16-17,17,18,12,16,AFC Bournemouth,Southampton FC,1,3,A,10,14,5,8,6,12,7,4,0,2,0,0
+16-17,17,18,12,16,Manchester City,Arsenal FC,2,1,H,14,6,5,1,9,13,8,1,4,2,0,0
+16-17,17,18,12,16,Tottenham Hotspur,Burnley FC,2,1,H,30,5,9,2,10,11,11,2,1,2,0,0
+16-17,17,19,12,16,Everton FC,Liverpool FC,0,1,A,6,11,1,4,13,9,1,6,3,1,0,0
+16-17,18,26,12,16,Arsenal FC,West Bromwich Albion,1,0,H,26,3,11,1,11,7,6,5,2,1,0,0
+16-17,18,26,12,16,Burnley FC,Middlesbrough FC,1,0,H,6,8,4,2,17,18,7,3,6,5,0,0
+16-17,18,26,12,16,Chelsea FC,AFC Bournemouth,3,0,H,14,7,4,3,13,14,5,5,1,1,0,0
+16-17,18,26,12,16,Hull City,Manchester City,0,3,A,10,16,3,6,11,14,4,7,1,0,0,0
+16-17,18,26,12,16,Leicester City,Everton FC,0,2,A,7,8,2,3,14,7,3,4,3,0,0,0
+16-17,18,26,12,16,Manchester United,Sunderland AFC,3,1,H,26,7,9,4,6,9,5,5,1,1,0,0
+16-17,18,26,12,16,Swansea City,West Ham United,1,4,A,14,14,7,7,10,12,8,4,0,0,0,0
+16-17,18,26,12,16,Watford FC,Crystal Palace,1,1,D,9,10,3,4,18,17,7,3,2,4,0,0
+16-17,18,27,12,16,Liverpool FC,Stoke City,4,1,H,20,6,6,2,9,6,8,2,0,1,0,0
+16-17,18,28,12,16,Southampton FC,Tottenham Hotspur,1,4,A,9,17,2,5,7,16,2,10,1,4,1,0
+16-17,19,30,12,16,Hull City,Everton FC,2,2,D,13,20,4,7,10,13,5,5,2,2,0,0
+16-17,19,31,12,16,Burnley FC,Sunderland AFC,4,1,H,16,11,6,3,10,8,6,2,1,1,0,0
+16-17,19,31,12,16,Chelsea FC,Stoke City,4,2,H,18,5,7,2,12,10,8,3,3,2,0,0
+16-17,19,31,12,16,Leicester City,West Ham United,1,0,H,12,25,4,5,11,8,7,7,5,3,0,0
+16-17,19,31,12,16,Liverpool FC,Manchester City,1,0,H,5,9,1,2,12,12,4,6,2,1,0,0
+16-17,19,31,12,16,Manchester United,Middlesbrough FC,2,1,H,32,9,12,2,9,14,12,2,1,1,0,0
+16-17,19,31,12,16,Southampton FC,West Bromwich Albion,1,2,A,10,7,1,3,13,17,8,3,1,3,1,0
+16-17,19,31,12,16,Swansea City,AFC Bournemouth,0,3,A,14,11,5,6,14,9,4,3,2,0,0,0
+16-17,19,1,1,17,Arsenal FC,Crystal Palace,2,0,H,22,7,7,4,9,7,8,4,1,1,0,0
+16-17,19,1,1,17,Watford FC,Tottenham Hotspur,1,4,A,6,19,2,6,11,6,0,3,3,0,0,0
+16-17,20,2,1,17,Everton FC,Southampton FC,3,0,H,17,12,6,3,5,14,10,8,0,1,0,0
+16-17,20,2,1,17,Manchester City,Burnley FC,2,1,H,14,11,3,3,11,11,8,8,4,3,1,0
+16-17,20,2,1,17,Middlesbrough FC,Leicester City,0,0,D,9,10,1,4,10,9,2,2,3,0,0,0
+16-17,20,2,1,17,Sunderland AFC,Liverpool FC,2,2,D,10,21,5,15,10,10,2,5,2,3,0,0
+16-17,20,2,1,17,West Bromwich Albion,Hull City,3,1,H,8,17,5,6,5,4,7,9,0,0,0,0
+16-17,20,2,1,17,West Ham United,Manchester United,0,2,A,8,13,2,6,9,13,2,1,1,2,1,0
+16-17,20,3,1,17,AFC Bournemouth,Arsenal FC,3,3,D,12,14,6,4,10,12,4,7,3,3,1,0
+16-17,20,3,1,17,Crystal Palace,Swansea City,1,2,A,7,11,3,4,13,14,4,5,2,1,0,0
+16-17,20,3,1,17,Stoke City,Watford FC,2,0,H,17,9,5,2,10,15,7,6,1,2,0,0
+16-17,20,4,1,17,Tottenham Hotspur,Chelsea FC,2,0,H,9,11,2,2,9,8,1,6,3,2,0,0
+16-17,21,14,1,17,Burnley FC,Southampton FC,1,0,H,9,20,3,5,14,14,2,7,1,2,0,0
+16-17,21,14,1,17,Hull City,AFC Bournemouth,3,1,H,14,8,3,6,13,11,4,5,0,1,0,0
+16-17,21,14,1,17,Leicester City,Chelsea FC,0,3,A,7,8,2,3,8,9,3,5,1,0,0,0
+16-17,21,14,1,17,Sunderland AFC,Stoke City,1,3,A,14,14,3,6,16,11,5,2,3,1,0,0
+16-17,21,14,1,17,Swansea City,Arsenal FC,0,4,A,12,14,3,6,12,8,3,2,2,0,0,0
+16-17,21,14,1,17,Tottenham Hotspur,West Bromwich Albion,4,0,H,21,3,11,0,11,12,8,0,0,2,0,0
+16-17,21,14,1,17,Watford FC,Middlesbrough FC,0,0,D,12,5,5,1,15,15,3,1,3,1,0,0
+16-17,21,14,1,17,West Ham United,Crystal Palace,3,0,H,14,10,3,1,10,14,2,2,4,2,0,0
+16-17,21,15,1,17,Everton FC,Manchester City,4,0,H,6,13,4,5,17,7,3,6,2,2,0,0
+16-17,21,15,1,17,Manchester United,Liverpool FC,1,1,D,9,13,3,4,17,13,5,7,1,3,0,0
+16-17,22,21,1,17,AFC Bournemouth,Watford FC,2,2,D,15,10,5,3,6,16,9,4,1,1,0,0
+16-17,22,21,1,17,Crystal Palace,Everton FC,0,1,A,8,16,2,8,10,15,8,7,0,1,0,0
+16-17,22,21,1,17,Liverpool FC,Swansea City,2,3,A,16,6,5,3,7,7,6,3,1,1,0,0
+16-17,22,21,1,17,Manchester City,Tottenham Hotspur,2,2,D,17,6,7,2,10,7,5,4,2,4,0,0
+16-17,22,21,1,17,Middlesbrough FC,West Ham United,1,3,A,11,13,2,5,7,14,7,5,2,1,0,0
+16-17,22,21,1,17,Stoke City,Manchester United,1,1,D,6,25,1,8,12,13,1,7,4,0,0,0
+16-17,22,21,1,17,West Bromwich Albion,Sunderland AFC,2,0,H,14,9,5,3,15,12,1,4,1,1,0,0
+16-17,22,22,1,17,Arsenal FC,Burnley FC,2,1,H,24,13,8,7,12,11,10,4,1,3,1,0
+16-17,22,22,1,17,Chelsea FC,Hull City,2,0,H,9,9,5,4,12,10,9,7,1,3,0,0
+16-17,22,22,1,17,Southampton FC,Leicester City,3,0,H,20,11,7,2,8,10,7,2,0,1,0,0
+16-17,23,31,1,17,Arsenal FC,Watford FC,1,2,A,20,10,5,6,12,15,9,5,3,3,0,0
+16-17,23,31,1,17,AFC Bournemouth,Crystal Palace,0,2,A,10,11,2,4,14,23,2,3,0,4,0,0
+16-17,23,31,1,17,Burnley FC,Leicester City,1,0,H,24,13,3,5,4,8,10,2,1,0,0,0
+16-17,23,31,1,17,Liverpool FC,Chelsea FC,1,1,D,7,8,3,2,13,8,3,3,2,1,0,0
+16-17,23,31,1,17,Middlesbrough FC,West Bromwich Albion,1,1,D,11,16,3,5,12,13,4,2,2,1,0,0
+16-17,23,31,1,17,Sunderland AFC,Tottenham Hotspur,0,0,D,3,14,1,3,9,13,2,12,2,1,0,0
+16-17,23,31,1,17,Swansea City,Southampton FC,2,1,H,11,10,5,2,10,19,5,4,2,0,0,0
+16-17,23,1,2,17,Manchester United,Hull City,0,0,D,15,6,6,2,20,16,7,1,1,4,0,0
+16-17,23,1,2,17,Stoke City,Everton FC,1,1,D,14,14,7,5,21,12,5,5,1,0,0,0
+16-17,23,1,2,17,West Ham United,Manchester City,0,4,A,6,11,1,4,11,14,2,4,3,3,0,0
+16-17,24,4,2,17,Chelsea FC,Arsenal FC,3,1,H,13,9,6,5,14,8,10,13,1,1,0,0
+16-17,24,4,2,17,Crystal Palace,Sunderland AFC,0,4,A,21,10,9,7,8,8,6,1,3,3,0,0
+16-17,24,4,2,17,Everton FC,AFC Bournemouth,6,3,H,15,18,10,8,14,4,4,8,3,1,0,0
+16-17,24,4,2,17,Hull City,Liverpool FC,2,0,H,7,22,4,5,9,12,1,15,2,1,0,0
+16-17,24,4,2,17,Southampton FC,West Ham United,1,3,A,21,6,7,4,12,15,3,2,0,2,0,0
+16-17,24,4,2,17,Tottenham Hotspur,Middlesbrough FC,1,0,H,17,8,5,0,8,11,11,2,0,1,0,0
+16-17,24,4,2,17,Watford FC,Burnley FC,2,1,H,16,11,7,7,12,10,3,6,5,0,0,1
+16-17,24,4,2,17,West Bromwich Albion,Stoke City,1,0,H,16,12,4,2,6,13,5,6,2,2,0,0
+16-17,24,5,2,17,Leicester City,Manchester United,0,3,A,11,15,1,9,12,13,10,3,2,4,0,0
+16-17,24,5,2,17,Manchester City,Swansea City,2,1,H,17,4,5,2,9,13,10,3,2,3,0,0
+16-17,25,11,2,17,Arsenal FC,Hull City,2,0,H,17,9,7,4,12,9,3,8,3,1,0,1
+16-17,25,11,2,17,Liverpool FC,Tottenham Hotspur,2,0,H,17,7,9,2,14,14,10,3,3,4,0,0
+16-17,25,11,2,17,Manchester United,Watford FC,2,0,H,22,9,11,3,10,12,5,1,1,0,0,0
+16-17,25,11,2,17,Middlesbrough FC,Everton FC,0,0,D,9,7,3,3,14,9,5,2,2,0,0,0
+16-17,25,11,2,17,Stoke City,Crystal Palace,1,0,H,7,6,4,1,10,14,5,5,1,3,0,0
+16-17,25,11,2,17,Sunderland AFC,Southampton FC,0,4,A,6,15,1,8,12,14,6,2,1,0,0,0
+16-17,25,11,2,17,West Ham United,West Bromwich Albion,2,2,D,16,8,4,3,7,14,7,5,3,2,0,0
+16-17,25,12,2,17,Burnley FC,Chelsea FC,1,1,D,6,13,4,2,12,11,1,1,3,2,0,0
+16-17,25,12,2,17,Swansea City,Leicester City,2,0,H,10,9,4,1,7,14,7,3,2,2,0,0
+16-17,25,13,2,17,AFC Bournemouth,Manchester City,0,2,A,5,17,1,5,8,11,3,7,2,3,0,0
+16-17,26,25,2,17,Chelsea FC,Swansea City,3,1,H,16,3,5,2,11,14,8,1,1,3,0,0
+16-17,26,25,2,17,Crystal Palace,Middlesbrough FC,1,0,H,15,11,3,4,13,15,4,2,3,1,0,0
+16-17,26,25,2,17,Everton FC,Sunderland AFC,2,0,H,20,10,8,1,10,16,10,6,0,2,0,0
+16-17,26,25,2,17,Hull City,Burnley FC,1,1,D,15,10,1,3,8,13,6,3,1,1,0,1
+16-17,26,25,2,17,Watford FC,West Ham United,1,1,D,9,13,1,2,18,14,4,6,4,1,0,1
+16-17,26,25,2,17,West Bromwich Albion,AFC Bournemouth,2,1,H,13,12,4,4,12,5,8,6,2,0,0,0
+16-17,26,26,2,17,Tottenham Hotspur,Stoke City,4,0,H,21,5,9,3,11,14,8,5,2,3,0,0
+16-17,26,27,2,17,Leicester City,Liverpool FC,3,1,H,13,17,7,7,8,5,5,12,0,0,0,0
+16-17,27,4,3,17,Leicester City,Hull City,3,1,H,17,10,5,4,12,13,10,4,1,1,0,0
+16-17,27,4,3,17,Liverpool FC,Arsenal FC,3,1,H,18,7,7,3,8,15,9,3,1,2,0,0
+16-17,27,4,3,17,Manchester United,AFC Bournemouth,1,1,D,20,3,7,1,9,11,15,2,3,2,0,1
+16-17,27,4,3,17,Stoke City,Middlesbrough FC,2,0,H,13,8,8,2,16,20,6,1,1,2,0,0
+16-17,27,4,3,17,Swansea City,Burnley FC,3,2,H,23,6,10,4,7,13,9,2,2,2,0,0
+16-17,27,4,3,17,Watford FC,Southampton FC,3,4,A,16,20,4,11,16,9,6,5,3,2,0,0
+16-17,27,4,3,17,West Bromwich Albion,Crystal Palace,0,2,A,11,10,1,4,8,12,5,5,0,1,0,0
+16-17,27,5,3,17,Sunderland AFC,Manchester City,0,2,A,11,14,3,7,11,4,6,4,1,0,0,0
+16-17,27,5,3,17,Tottenham Hotspur,Everton FC,3,2,H,20,8,7,4,9,14,7,2,1,2,0,0
+16-17,27,6,3,17,West Ham United,Chelsea FC,1,2,A,11,9,2,4,8,8,6,4,0,1,0,0
+16-17,28,8,3,17,Manchester City,Stoke City,0,0,D,12,5,1,2,8,11,8,1,1,3,0,0
+16-17,28,11,3,17,AFC Bournemouth,West Ham United,3,2,H,21,15,9,7,20,15,5,6,4,2,0,0
+16-17,28,11,3,17,Everton FC,West Bromwich Albion,3,0,H,16,5,5,2,8,12,4,6,1,2,0,0
+16-17,28,11,3,17,Hull City,Swansea City,2,1,H,15,11,7,3,14,5,2,7,3,1,0,0
+16-17,28,12,3,17,Liverpool FC,Burnley FC,2,1,H,10,11,3,1,12,16,11,1,2,2,0,0
+16-17,29,18,3,17,AFC Bournemouth,Swansea City,2,0,H,12,10,6,1,10,9,2,4,0,2,0,0
+16-17,29,18,3,17,Crystal Palace,Watford FC,1,0,H,7,6,0,2,8,15,3,2,0,2,0,0
+16-17,29,18,3,17,Everton FC,Hull City,4,0,H,14,6,8,0,9,7,5,8,2,0,0,1
+16-17,29,18,3,17,Stoke City,Chelsea FC,1,2,A,5,20,1,7,16,11,5,11,4,2,1,0
+16-17,29,18,3,17,Sunderland AFC,Burnley FC,0,0,D,14,17,5,3,14,7,3,5,2,1,0,0
+16-17,29,18,3,17,West Bromwich Albion,Arsenal FC,3,1,H,12,11,8,2,5,6,4,5,1,0,0,0
+16-17,29,18,3,17,West Ham United,Leicester City,2,3,A,20,11,7,5,10,14,6,5,0,1,0,0
+16-17,29,19,3,17,Manchester City,Liverpool FC,1,1,D,13,13,3,4,14,7,9,8,3,3,0,0
+16-17,29,19,3,17,Middlesbrough FC,Manchester United,1,3,A,10,14,3,6,9,8,8,3,1,1,0,0
+16-17,29,19,3,17,Tottenham Hotspur,Southampton FC,2,1,H,12,8,6,3,12,13,5,1,3,3,0,0
+16-17,30,1,4,17,Burnley FC,Tottenham Hotspur,0,2,A,13,19,2,7,9,6,3,7,2,0,0,0
+16-17,30,1,4,17,Chelsea FC,Crystal Palace,1,2,A,24,8,11,3,12,14,9,3,3,2,0,0
+16-17,30,1,4,17,Hull City,West Ham United,2,1,H,7,12,3,4,16,9,5,5,2,2,0,0
+16-17,30,1,4,17,Leicester City,Stoke City,2,0,H,23,10,10,2,7,11,10,4,1,4,0,0
+16-17,30,1,4,17,Liverpool FC,Everton FC,3,1,H,10,9,6,4,17,10,2,3,1,3,0,0
+16-17,30,1,4,17,Manchester United,West Bromwich Albion,0,0,D,18,3,3,1,15,13,6,1,3,3,0,0
+16-17,30,1,4,17,Southampton FC,AFC Bournemouth,0,0,D,14,12,4,3,14,8,6,3,1,0,0,0
+16-17,30,1,4,17,Watford FC,Sunderland AFC,1,0,H,23,11,10,3,12,8,13,9,1,3,0,0
+16-17,30,2,4,17,Arsenal FC,Manchester City,2,2,D,8,14,3,5,8,15,3,8,3,2,0,0
+16-17,30,2,4,17,Swansea City,Middlesbrough FC,0,0,D,15,8,3,1,9,16,11,3,2,3,0,0
+16-17,31,4,4,17,Burnley FC,Stoke City,1,0,H,7,15,3,2,9,16,3,5,3,2,0,0
+16-17,31,4,4,17,Leicester City,Sunderland AFC,2,0,H,19,15,8,3,12,13,5,6,0,1,0,0
+16-17,31,4,4,17,Manchester United,Everton FC,1,1,D,18,11,3,4,10,18,6,5,1,4,0,1
+16-17,31,4,4,17,Watford FC,West Bromwich Albion,2,0,H,9,18,2,2,11,14,5,6,1,4,1,0
+16-17,31,5,4,17,Arsenal FC,West Ham United,3,0,H,21,7,8,2,11,5,5,0,2,2,0,0
+16-17,31,5,4,17,Chelsea FC,Manchester City,2,1,H,10,17,4,7,10,14,2,9,1,3,0,0
+16-17,31,5,4,17,Hull City,Middlesbrough FC,4,2,H,17,12,5,4,13,12,8,4,2,1,0,0
+16-17,31,5,4,17,Liverpool FC,AFC Bournemouth,2,2,D,20,7,8,2,11,8,7,2,1,1,0,0
+16-17,31,5,4,17,Southampton FC,Crystal Palace,3,1,H,25,17,9,3,16,11,11,11,2,1,0,0
+16-17,31,5,4,17,Swansea City,Tottenham Hotspur,1,3,A,4,18,1,8,7,8,5,7,1,1,0,0
+16-17,32,8,4,17,AFC Bournemouth,Chelsea FC,1,3,A,12,15,1,5,7,11,4,4,2,3,0,0
+16-17,32,8,4,17,Manchester City,Hull City,3,1,H,23,6,7,1,6,8,7,3,0,2,0,0
+16-17,32,8,4,17,Middlesbrough FC,Burnley FC,0,0,D,12,7,5,2,9,12,4,3,0,3,0,0
+16-17,32,8,4,17,Stoke City,Liverpool FC,1,2,A,9,14,4,4,7,11,5,8,0,2,0,0
+16-17,32,8,4,17,Tottenham Hotspur,Watford FC,4,0,H,19,8,6,2,12,12,7,5,0,1,0,0
+16-17,32,8,4,17,West Bromwich Albion,Southampton FC,0,1,A,17,10,6,3,12,12,7,3,2,2,0,0
+16-17,32,8,4,17,West Ham United,Swansea City,1,0,H,14,4,6,1,12,12,4,3,5,1,0,0
+16-17,32,9,4,17,Everton FC,Leicester City,4,2,H,12,6,7,4,8,15,4,6,2,2,0,0
+16-17,32,9,4,17,Sunderland AFC,Manchester United,0,3,A,9,18,4,9,14,20,4,5,1,5,1,0
+16-17,32,10,4,17,Crystal Palace,Arsenal FC,3,0,H,17,11,6,3,11,10,5,8,0,1,0,0
+16-17,33,15,4,17,Crystal Palace,Leicester City,2,2,D,15,6,4,2,10,16,8,5,0,2,0,0
+16-17,33,15,4,17,Everton FC,Burnley FC,3,1,H,29,13,7,6,15,14,6,7,2,0,0,0
+16-17,33,15,4,17,Southampton FC,Manchester City,0,3,A,8,18,1,5,9,8,3,8,3,0,0,0
+16-17,33,15,4,17,Stoke City,Hull City,3,1,H,14,14,4,3,12,5,3,7,0,2,0,0
+16-17,33,15,4,17,Sunderland AFC,West Ham United,2,2,D,14,7,4,3,14,10,8,1,1,0,0,1
+16-17,33,15,4,17,Tottenham Hotspur,AFC Bournemouth,4,0,H,24,5,14,1,8,10,13,1,0,1,0,0
+16-17,33,15,4,17,Watford FC,Swansea City,1,0,H,15,13,7,4,8,13,6,2,0,0,0,0
+16-17,33,16,4,17,Manchester United,Chelsea FC,2,0,H,9,5,3,0,16,20,1,3,3,3,0,0
+16-17,33,16,4,17,West Bromwich Albion,Liverpool FC,0,1,A,7,15,2,2,15,9,4,4,3,1,0,0
+16-17,33,17,4,17,Middlesbrough FC,Arsenal FC,1,2,A,13,12,5,4,11,16,2,4,2,2,0,0
+16-17,34,22,4,17,AFC Bournemouth,Middlesbrough FC,4,0,H,20,5,10,2,4,14,4,3,0,2,0,1
+16-17,34,22,4,17,Hull City,Watford FC,2,0,H,8,13,3,2,10,11,4,7,3,1,1,0
+16-17,34,22,4,17,Swansea City,Stoke City,2,0,H,10,9,6,3,5,14,11,4,2,2,0,0
+16-17,34,22,4,17,West Ham United,Everton FC,0,0,D,15,4,3,0,9,15,8,4,2,3,0,0
+16-17,34,23,4,17,Burnley FC,Manchester United,0,2,A,8,12,0,6,17,16,3,3,2,1,0,0
+16-17,34,23,4,17,Liverpool FC,Crystal Palace,1,2,A,14,7,1,3,8,10,4,3,1,2,0,0
+16-17,34,25,4,17,Chelsea FC,Southampton FC,4,2,H,17,12,7,4,13,9,6,7,2,2,0,0
+16-17,28,26,4,17,Arsenal FC,Leicester City,1,0,H,12,7,5,3,9,13,12,1,2,4,0,0
+16-17,28,26,4,17,Crystal Palace,Tottenham Hotspur,0,1,A,6,18,1,4,13,15,2,11,3,3,0,0
+16-17,28,26,4,17,Middlesbrough FC,Sunderland AFC,1,0,H,6,10,2,4,15,11,3,5,3,3,0,0
+16-17,26,27,4,17,Manchester City,Manchester United,0,0,D,19,3,6,1,10,8,7,4,1,0,0,1
+16-17,35,29,4,17,Crystal Palace,Burnley FC,0,2,A,15,9,5,3,11,12,14,4,2,0,0,0
+16-17,35,29,4,17,Southampton FC,Hull City,0,0,D,11,9,2,1,9,13,6,6,0,3,0,0
+16-17,35,29,4,17,Stoke City,West Ham United,0,0,D,19,12,4,4,12,3,5,3,1,0,0,0
+16-17,35,29,4,17,Sunderland AFC,AFC Bournemouth,0,1,A,17,15,5,7,13,9,6,5,3,2,0,0
+16-17,35,29,4,17,West Bromwich Albion,Leicester City,0,1,A,16,6,4,1,14,9,5,6,2,2,0,0
+16-17,35,30,4,17,Everton FC,Chelsea FC,0,3,A,12,11,4,5,13,11,2,4,3,4,0,0
+16-17,35,30,4,17,Manchester United,Swansea City,1,1,D,12,12,6,4,11,13,5,2,2,2,0,0
+16-17,35,30,4,17,Middlesbrough FC,Manchester City,2,2,D,14,22,6,4,9,9,4,11,4,4,0,0
+16-17,35,30,4,17,Tottenham Hotspur,Arsenal FC,2,0,H,20,12,11,4,7,15,14,5,1,3,0,0
+16-17,35,1,5,17,Watford FC,Liverpool FC,0,1,A,9,12,2,8,11,9,3,5,3,1,0,0
+16-17,36,5,5,17,West Ham United,Tottenham Hotspur,1,0,H,13,11,5,5,8,9,3,7,4,2,0,0
+16-17,36,6,5,17,AFC Bournemouth,Stoke City,2,2,D,12,14,2,3,10,15,0,7,2,0,0,0
+16-17,36,6,5,17,Burnley FC,West Bromwich Albion,2,2,D,14,11,4,3,9,14,5,8,1,3,0,0
+16-17,36,6,5,17,Hull City,Sunderland AFC,0,2,A,16,12,6,5,10,8,7,4,3,1,0,0
+16-17,36,6,5,17,Leicester City,Watford FC,3,0,H,11,14,5,7,8,10,10,1,0,0,0,0
+16-17,36,6,5,17,Manchester City,Crystal Palace,5,0,H,26,5,12,2,12,8,9,3,1,3,0,0
+16-17,36,6,5,17,Swansea City,Everton FC,1,0,H,9,8,4,2,5,13,9,5,0,0,0,0
+16-17,36,7,5,17,Arsenal FC,Manchester United,2,0,H,9,10,4,4,14,10,5,9,1,0,0,0
+16-17,36,7,5,17,Liverpool FC,Southampton FC,0,0,D,17,4,8,0,9,4,3,6,1,3,0,0
+16-17,36,8,5,17,Chelsea FC,Middlesbrough FC,3,0,H,21,2,7,1,8,21,8,1,0,2,0,0
+16-17,26,10,5,17,Southampton FC,Arsenal FC,0,2,A,14,11,3,4,5,5,8,5,1,2,0,0
+16-17,37,12,5,17,Everton FC,Watford FC,1,0,H,15,14,6,2,7,11,9,8,0,3,0,0
+16-17,37,12,5,17,West Bromwich Albion,Chelsea FC,0,1,A,7,24,2,5,13,8,5,8,3,0,0,0
+16-17,37,13,5,17,AFC Bournemouth,Burnley FC,2,1,H,18,14,6,3,6,11,7,1,0,1,0,0
+16-17,37,13,5,17,Manchester City,Leicester City,2,1,H,17,9,5,4,12,16,9,3,3,3,0,0
+16-17,37,13,5,17,Middlesbrough FC,Southampton FC,1,2,A,14,14,3,4,19,11,6,3,3,0,0,0
+16-17,37,13,5,17,Stoke City,Arsenal FC,1,4,A,10,10,4,6,13,7,7,6,1,2,0,0
+16-17,37,13,5,17,Sunderland AFC,Swansea City,0,2,A,13,3,4,3,13,6,8,4,4,0,0,0
+16-17,37,14,5,17,Crystal Palace,Hull City,4,0,H,12,9,4,0,13,14,3,7,3,5,0,0
+16-17,37,14,5,17,Tottenham Hotspur,Manchester United,2,1,H,14,8,7,2,14,15,8,3,1,2,0,0
+16-17,37,14,5,17,West Ham United,Liverpool FC,0,4,A,10,26,3,11,5,10,4,6,2,0,0,0
+16-17,28,15,5,17,Chelsea FC,Watford FC,4,3,H,24,9,9,3,7,12,8,3,2,4,0,1
+16-17,34,16,5,17,Arsenal FC,Sunderland AFC,2,0,H,36,6,13,2,15,10,17,3,4,2,0,0
+16-17,34,16,5,17,Manchester City,West Bromwich Albion,3,1,H,21,5,10,2,8,11,7,1,1,2,0,0
+16-17,28,17,5,17,Southampton FC,Manchester United,0,0,D,17,11,6,1,7,10,7,3,2,1,0,0
+16-17,34,18,5,17,Leicester City,Tottenham Hotspur,1,6,A,12,26,5,12,11,8,4,4,3,1,0,0
+16-17,38,21,5,17,Arsenal FC,Everton FC,3,1,H,17,22,9,7,10,15,4,6,2,4,1,0
+16-17,38,21,5,17,Burnley FC,West Ham United,1,2,A,9,14,1,4,11,14,2,5,2,2,0,0
+16-17,38,21,5,17,Chelsea FC,Sunderland AFC,5,1,H,28,7,8,3,8,15,11,1,1,1,0,0
+16-17,38,21,5,17,Hull City,Tottenham Hotspur,1,7,A,10,19,4,14,14,5,2,3,0,0,0,0
+16-17,38,21,5,17,Leicester City,AFC Bournemouth,1,1,D,21,10,5,4,11,10,9,1,4,1,0,0
+16-17,38,21,5,17,Liverpool FC,Middlesbrough FC,3,0,H,25,9,10,3,13,8,3,3,0,1,0,0
+16-17,38,21,5,17,Manchester United,Crystal Palace,2,0,H,9,6,2,1,16,10,3,6,2,0,0,0
+16-17,38,21,5,17,Southampton FC,Stoke City,0,1,A,14,14,6,3,12,10,4,10,2,4,0,0
+16-17,38,21,5,17,Swansea City,West Bromwich Albion,2,1,H,12,16,2,5,8,10,7,4,1,1,0,0
+16-17,38,21,5,17,Watford FC,Manchester City,0,5,A,6,15,3,9,12,10,4,5,1,0,0,0
+17-18,1,11,8,17,Arsenal FC,Leicester City,4,3,H,27,6,10,3,9,12,9,4,0,1,0,0
+17-18,1,12,8,17,Brighton & Hove Albion,Manchester City,0,2,A,6,14,2,4,6,9,3,10,0,2,0,0
+17-18,1,12,8,17,Chelsea FC,Burnley FC,2,3,A,19,10,6,5,16,11,8,5,3,3,2,0
+17-18,1,12,8,17,Crystal Palace,Huddersfield Town,0,3,A,14,8,4,6,7,19,12,9,1,3,0,0
+17-18,1,12,8,17,Everton FC,Stoke City,1,0,H,9,9,4,1,13,10,6,7,1,1,0,0
+17-18,1,12,8,17,Southampton FC,Swansea City,0,0,D,29,4,2,0,10,13,13,0,2,1,0,0
+17-18,1,12,8,17,Watford FC,Liverpool FC,3,3,D,9,14,4,5,14,8,3,3,0,3,0,0
+17-18,1,12,8,17,West Bromwich Albion,AFC Bournemouth,1,0,H,16,9,6,2,15,3,8,2,3,1,0,0
+17-18,1,13,8,17,Manchester United,West Ham United,4,0,H,22,9,6,1,19,7,11,1,2,2,0,0
+17-18,1,13,8,17,Newcastle United,Tottenham Hotspur,0,2,A,6,18,3,6,6,10,5,7,1,2,1,0
+17-18,2,19,8,17,AFC Bournemouth,Watford FC,0,2,A,6,19,2,7,6,14,8,5,1,3,0,0
+17-18,2,19,8,17,Burnley FC,West Bromwich Albion,0,1,A,20,8,0,1,11,11,5,5,1,0,0,1
+17-18,2,19,8,17,Leicester City,Brighton & Hove Albion,2,0,H,14,5,4,2,8,10,6,2,1,0,0,0
+17-18,2,19,8,17,Liverpool FC,Crystal Palace,1,0,H,23,4,13,1,12,13,4,2,1,3,0,0
+17-18,2,19,8,17,Southampton FC,West Ham United,3,2,H,14,16,5,8,18,10,7,2,1,1,0,1
+17-18,2,19,8,17,Stoke City,Arsenal FC,1,0,H,11,18,4,6,6,11,2,9,0,0,0,0
+17-18,2,19,8,17,Swansea City,Manchester United,0,4,A,6,17,1,8,12,11,3,5,1,1,0,0
+17-18,2,20,8,17,Huddersfield Town,Newcastle United,1,0,H,7,13,3,5,13,10,7,3,3,4,0,0
+17-18,2,20,8,17,Tottenham Hotspur,Chelsea FC,1,2,A,18,9,6,2,14,21,14,3,3,3,0,0
+17-18,2,21,8,17,Manchester City,Everton FC,1,1,D,19,7,6,2,7,9,7,1,1,2,1,1
+17-18,3,26,8,17,AFC Bournemouth,Manchester City,1,2,A,9,19,3,8,13,14,2,5,5,4,0,1
+17-18,3,26,8,17,Crystal Palace,Swansea City,0,2,A,16,7,3,3,9,6,1,1,4,1,0,0
+17-18,3,26,8,17,Huddersfield Town,Southampton FC,0,0,D,16,6,6,3,10,10,5,4,0,1,0,0
+17-18,3,26,8,17,Manchester United,Leicester City,2,0,H,22,11,7,4,8,7,9,3,1,2,0,0
+17-18,3,26,8,17,Newcastle United,West Ham United,3,0,H,16,8,8,3,17,11,7,5,1,3,0,0
+17-18,3,26,8,17,Watford FC,Brighton & Hove Albion,0,0,D,8,16,0,2,7,18,3,11,0,1,1,0
+17-18,3,27,8,17,Chelsea FC,Everton FC,2,0,H,18,7,7,0,12,7,6,3,2,2,0,0
+17-18,3,27,8,17,Liverpool FC,Arsenal FC,4,0,H,18,8,10,0,6,9,4,3,2,4,0,0
+17-18,3,27,8,17,Tottenham Hotspur,Burnley FC,1,1,D,28,13,5,3,9,9,10,7,0,0,0,0
+17-18,3,27,8,17,West Bromwich Albion,Stoke City,1,1,D,10,16,2,2,10,9,10,4,2,2,0,0
+17-18,4,9,9,17,Arsenal FC,AFC Bournemouth,3,0,H,15,6,8,1,14,8,8,2,0,1,0,0
+17-18,4,9,9,17,Brighton & Hove Albion,West Bromwich Albion,3,1,H,12,12,6,3,9,4,2,6,2,0,0,0
+17-18,4,9,9,17,Everton FC,Tottenham Hotspur,0,3,A,12,15,1,6,14,14,7,3,3,1,0,0
+17-18,4,9,9,17,Leicester City,Chelsea FC,1,2,A,8,16,2,6,11,8,2,9,1,0,0,0
+17-18,4,9,9,17,Manchester City,Liverpool FC,5,0,H,13,10,7,3,10,9,8,3,2,2,0,1
+17-18,4,9,9,17,Southampton FC,Watford FC,0,2,A,9,12,1,3,8,11,7,4,0,0,0,0
+17-18,4,9,9,17,Stoke City,Manchester United,2,2,D,10,18,5,8,10,10,5,11,0,0,0,0
+17-18,4,10,9,17,Burnley FC,Crystal Palace,1,0,H,4,23,2,5,7,14,3,13,1,1,0,0
+17-18,4,10,9,17,Swansea City,Newcastle United,0,1,A,10,16,4,8,11,15,7,5,2,3,0,0
+17-18,4,11,9,17,West Ham United,Huddersfield Town,2,0,H,19,10,3,2,11,14,10,3,1,2,0,0
+17-18,5,15,9,17,AFC Bournemouth,Brighton & Hove Albion,2,1,H,15,9,3,2,5,12,6,4,0,0,0,0
+17-18,5,16,9,17,Crystal Palace,Southampton FC,0,1,A,14,13,3,4,14,13,5,5,5,1,0,0
+17-18,5,16,9,17,Huddersfield Town,Leicester City,1,1,D,15,10,3,1,6,6,8,4,1,1,0,0
+17-18,5,16,9,17,Liverpool FC,Burnley FC,1,1,D,35,5,9,4,7,9,12,2,1,2,0,0
+17-18,5,16,9,17,Newcastle United,Stoke City,2,1,H,14,13,3,4,13,11,7,5,3,1,0,0
+17-18,5,16,9,17,Tottenham Hotspur,Swansea City,0,0,D,26,4,8,0,11,9,11,1,1,3,0,0
+17-18,5,16,9,17,Watford FC,Manchester City,0,6,A,7,28,1,10,8,6,3,11,2,0,0,0
+17-18,5,16,9,17,West Bromwich Albion,West Ham United,0,0,D,6,9,1,1,15,7,2,3,2,2,0,0
+17-18,5,17,9,17,Chelsea FC,Arsenal FC,0,0,D,13,11,4,2,11,15,5,1,1,3,1,0
+17-18,5,17,9,17,Manchester United,Everton FC,4,0,H,16,7,7,3,15,14,4,1,1,1,0,0
+17-18,6,23,9,17,Burnley FC,Huddersfield Town,0,0,D,5,9,3,2,9,13,3,4,3,2,0,0
+17-18,6,23,9,17,Everton FC,AFC Bournemouth,2,1,H,12,8,4,4,12,11,4,6,3,1,0,0
+17-18,6,23,9,17,Leicester City,Liverpool FC,2,3,A,12,23,7,6,13,14,3,6,3,3,0,0
+17-18,6,23,9,17,Manchester City,Crystal Palace,5,0,H,25,5,9,0,6,7,8,2,3,1,0,0
+17-18,6,23,9,17,Southampton FC,Manchester United,0,1,A,14,9,4,4,12,9,8,4,1,4,0,0
+17-18,6,23,9,17,Stoke City,Chelsea FC,0,4,A,13,7,2,4,5,14,5,0,2,2,0,0
+17-18,6,23,9,17,Swansea City,Watford FC,1,2,A,10,8,3,4,9,16,5,4,1,3,0,0
+17-18,6,23,9,17,West Ham United,Tottenham Hotspur,2,3,A,10,15,4,5,10,20,4,3,4,2,0,1
+17-18,6,24,9,17,Brighton & Hove Albion,Newcastle United,1,0,H,7,17,3,5,6,8,2,8,2,1,0,0
+17-18,6,25,9,17,Arsenal FC,West Bromwich Albion,2,0,H,16,7,6,3,8,17,7,4,1,4,0,0
+17-18,7,30,9,17,AFC Bournemouth,Leicester City,0,0,D,19,8,4,1,6,10,7,5,1,0,0,0
+17-18,7,30,9,17,Chelsea FC,Manchester City,0,1,A,4,17,2,6,8,13,4,8,0,2,0,0
+17-18,7,30,9,17,Huddersfield Town,Tottenham Hotspur,0,4,A,6,14,1,7,7,4,4,7,1,1,0,0
+17-18,7,30,9,17,Manchester United,Crystal Palace,4,0,H,18,6,7,1,6,9,6,5,0,0,0,0
+17-18,7,30,9,17,Stoke City,Southampton FC,2,1,H,17,21,6,3,11,10,5,6,1,2,0,0
+17-18,7,30,9,17,West Bromwich Albion,Watford FC,2,2,D,9,15,4,3,12,11,7,6,3,0,0,0
+17-18,7,30,9,17,West Ham United,Swansea City,1,0,H,9,6,4,1,15,13,2,1,3,2,0,0
+17-18,7,1,10,17,Arsenal FC,Brighton & Hove Albion,2,0,H,25,9,12,1,7,8,6,5,0,2,0,0
+17-18,7,1,10,17,Everton FC,Burnley FC,0,1,A,23,5,4,2,14,7,9,3,2,2,0,0
+17-18,7,1,10,17,Newcastle United,Liverpool FC,1,1,D,8,17,5,2,11,6,1,5,1,1,0,0
+17-18,8,14,10,17,Burnley FC,West Ham United,1,1,D,20,8,5,6,11,14,7,4,2,2,0,1
+17-18,8,14,10,17,Crystal Palace,Chelsea FC,2,1,H,14,15,5,5,7,6,5,8,2,1,0,0
+17-18,8,14,10,17,Liverpool FC,Manchester United,0,0,D,19,6,5,1,7,13,7,3,0,2,0,0
+17-18,8,14,10,17,Manchester City,Stoke City,7,2,H,20,5,11,1,5,8,5,0,0,1,0,0
+17-18,8,14,10,17,Swansea City,Huddersfield Town,2,0,H,7,7,3,2,12,16,5,3,1,5,0,0
+17-18,8,14,10,17,Tottenham Hotspur,AFC Bournemouth,1,0,H,18,5,6,1,9,7,9,5,1,3,0,0
+17-18,8,14,10,17,Watford FC,Arsenal FC,2,1,H,11,9,2,6,8,10,2,5,1,0,0,0
+17-18,8,15,10,17,Brighton & Hove Albion,Everton FC,1,1,D,12,13,3,6,12,10,7,1,4,1,0,0
+17-18,8,15,10,17,Southampton FC,Newcastle United,2,2,D,12,19,2,5,11,12,3,8,1,2,0,0
+17-18,8,16,10,17,Leicester City,West Bromwich Albion,1,1,D,11,5,3,1,13,6,4,1,2,2,0,0
+17-18,9,20,10,17,West Ham United,Brighton & Hove Albion,0,3,A,16,7,2,5,5,13,10,3,1,0,0,0
+17-18,9,21,10,17,Chelsea FC,Watford FC,4,2,H,14,16,8,5,13,16,6,6,2,3,0,0
+17-18,9,21,10,17,Huddersfield Town,Manchester United,2,1,H,5,9,3,3,10,12,4,7,4,2,0,0
+17-18,9,21,10,17,Manchester City,Burnley FC,3,0,H,15,6,10,0,10,6,4,5,2,3,0,0
+17-18,9,21,10,17,Newcastle United,Crystal Palace,1,0,H,7,10,3,0,12,14,3,5,4,2,0,0
+17-18,9,21,10,17,Southampton FC,West Bromwich Albion,1,0,H,20,7,6,2,10,8,8,3,0,1,0,0
+17-18,9,21,10,17,Stoke City,AFC Bournemouth,1,2,A,10,7,2,3,17,10,8,3,0,1,0,0
+17-18,9,21,10,17,Swansea City,Leicester City,1,2,A,19,11,4,6,6,9,7,6,0,1,0,0
+17-18,9,22,10,17,Everton FC,Arsenal FC,2,5,A,8,30,3,14,14,14,0,7,1,1,1,0
+17-18,9,22,10,17,Tottenham Hotspur,Liverpool FC,4,1,H,14,12,6,7,2,8,3,5,0,1,0,0
+17-18,10,28,10,17,Arsenal FC,Swansea City,2,1,H,17,4,5,2,9,9,5,2,0,0,0,0
+17-18,10,28,10,17,AFC Bournemouth,Chelsea FC,0,1,A,7,18,1,5,5,5,5,5,2,0,0,0
+17-18,10,28,10,17,Crystal Palace,West Ham United,2,2,D,19,6,9,2,18,15,11,2,1,2,0,0
+17-18,10,28,10,17,Liverpool FC,Huddersfield Town,3,0,H,16,1,8,0,10,8,9,2,0,1,0,0
+17-18,10,28,10,17,Manchester United,Tottenham Hotspur,1,0,H,11,13,3,4,12,14,6,3,1,0,0,0
+17-18,10,28,10,17,Watford FC,Stoke City,0,1,A,13,6,0,2,10,9,8,1,4,4,0,0
+17-18,10,28,10,17,West Bromwich Albion,Manchester City,2,3,A,6,15,4,5,10,7,1,2,2,3,0,0
+17-18,10,29,10,17,Brighton & Hove Albion,Southampton FC,1,1,D,7,6,2,1,9,10,2,7,3,1,0,0
+17-18,10,29,10,17,Leicester City,Everton FC,2,0,H,9,16,3,2,6,10,3,10,0,2,0,0
+17-18,10,30,10,17,Burnley FC,Newcastle United,1,0,H,12,12,5,5,9,10,5,3,3,0,0,0
+17-18,11,4,11,17,Huddersfield Town,West Bromwich Albion,1,0,H,7,9,3,3,8,15,3,5,1,4,1,0
+17-18,11,4,11,17,Newcastle United,AFC Bournemouth,0,1,A,16,16,4,6,11,12,11,9,2,2,0,0
+17-18,11,4,11,17,Southampton FC,Burnley FC,0,1,A,13,5,3,1,4,4,9,1,0,0,0,0
+17-18,11,4,11,17,Stoke City,Leicester City,2,2,D,11,14,7,4,12,8,4,10,0,0,0,0
+17-18,11,4,11,17,Swansea City,Brighton & Hove Albion,0,1,A,12,5,2,2,13,12,8,7,2,1,0,0
+17-18,11,4,11,17,West Ham United,Liverpool FC,1,4,A,6,15,1,7,9,13,2,3,3,0,0,0
+17-18,11,5,11,17,Chelsea FC,Manchester United,1,0,H,18,10,8,2,16,20,4,7,1,3,0,0
+17-18,11,5,11,17,Everton FC,Watford FC,3,2,H,10,11,5,3,14,12,2,5,0,2,0,0
+17-18,11,5,11,17,Manchester City,Arsenal FC,3,1,H,9,6,5,3,15,15,5,5,1,6,0,0
+17-18,11,5,11,17,Tottenham Hotspur,Crystal Palace,1,0,H,12,11,2,3,6,7,10,9,0,2,0,0
+17-18,12,18,11,17,Arsenal FC,Tottenham Hotspur,2,0,H,14,14,5,4,11,16,7,4,4,1,0,0
+17-18,12,18,11,17,AFC Bournemouth,Huddersfield Town,4,0,H,11,20,5,3,13,10,8,11,3,2,1,0
+17-18,12,18,11,17,Burnley FC,Swansea City,2,0,H,16,13,7,1,12,12,8,6,1,1,0,0
+17-18,12,18,11,17,Crystal Palace,Everton FC,2,2,D,16,8,7,5,9,26,9,4,2,3,0,0
+17-18,12,18,11,17,Leicester City,Manchester City,0,2,A,2,12,0,4,8,10,1,7,1,1,0,0
+17-18,12,18,11,17,Liverpool FC,Southampton FC,3,0,H,21,5,8,0,15,9,10,2,1,1,0,0
+17-18,12,18,11,17,Manchester United,Newcastle United,4,1,H,16,12,7,5,10,9,11,4,1,1,0,0
+17-18,12,18,11,17,West Bromwich Albion,Chelsea FC,0,4,A,7,11,2,7,13,12,3,4,2,3,0,0
+17-18,12,19,11,17,Watford FC,West Ham United,2,0,H,17,10,7,6,13,10,3,1,1,4,0,0
+17-18,12,20,11,17,Brighton & Hove Albion,Stoke City,2,2,D,9,13,3,6,13,5,6,7,1,0,0,0
+17-18,13,24,11,17,West Ham United,Leicester City,1,1,D,8,7,4,2,9,12,5,5,1,1,0,0
+17-18,13,25,11,17,Crystal Palace,Stoke City,2,1,H,10,9,5,3,9,5,5,2,1,1,0,0
+17-18,13,25,11,17,Liverpool FC,Chelsea FC,1,1,D,16,11,4,3,10,7,7,8,0,0,0,0
+17-18,13,25,11,17,Manchester United,Brighton & Hove Albion,1,0,H,15,8,4,2,9,9,5,0,0,2,0,0
+17-18,13,25,11,17,Newcastle United,Watford FC,0,3,A,12,12,2,4,8,13,6,3,1,2,0,0
+17-18,13,25,11,17,Swansea City,AFC Bournemouth,0,0,D,10,9,1,5,18,6,4,5,4,2,0,0
+17-18,13,25,11,17,Tottenham Hotspur,West Bromwich Albion,1,1,D,24,5,5,2,10,13,8,0,1,4,0,0
+17-18,13,26,11,17,Burnley FC,Arsenal FC,0,1,A,8,17,2,2,8,14,5,5,2,0,0,0
+17-18,13,26,11,17,Huddersfield Town,Manchester City,1,2,A,4,14,0,5,10,10,3,7,2,3,1,0
+17-18,13,26,11,17,Southampton FC,Everton FC,4,1,H,17,5,5,2,6,13,7,2,0,0,0,0
+17-18,14,28,11,17,Brighton & Hove Albion,Crystal Palace,0,0,D,10,10,4,4,13,8,10,5,2,0,0,0
+17-18,14,28,11,17,Leicester City,Tottenham Hotspur,2,1,H,7,18,4,6,7,10,4,9,1,2,0,0
+17-18,14,28,11,17,Watford FC,Manchester United,2,4,A,12,15,3,7,12,10,5,5,2,1,0,0
+17-18,14,28,11,17,West Bromwich Albion,Newcastle United,2,2,D,8,14,4,4,13,12,1,6,0,0,0,0
+17-18,14,29,11,17,Arsenal FC,Huddersfield Town,5,0,H,21,7,7,2,10,12,7,2,0,1,0,0
+17-18,14,29,11,17,AFC Bournemouth,Burnley FC,1,2,A,10,10,2,4,9,11,4,6,0,1,0,0
+17-18,14,29,11,17,Chelsea FC,Swansea City,1,0,H,21,2,10,0,10,7,15,1,1,0,0,0
+17-18,14,29,11,17,Everton FC,West Ham United,4,0,H,8,7,5,3,16,6,2,6,2,1,0,0
+17-18,14,29,11,17,Manchester City,Southampton FC,2,1,H,26,7,12,2,12,11,6,5,1,1,0,0
+17-18,14,29,11,17,Stoke City,Liverpool FC,0,3,A,10,14,1,7,8,10,5,9,1,5,0,0
+17-18,15,2,12,17,Arsenal FC,Manchester United,1,3,A,33,8,15,4,11,10,12,1,3,2,0,1
+17-18,15,2,12,17,Brighton & Hove Albion,Liverpool FC,1,5,A,6,12,2,6,8,7,2,2,1,0,0,0
+17-18,15,2,12,17,Chelsea FC,Newcastle United,3,1,H,23,8,9,2,8,13,11,4,0,1,0,0
+17-18,15,2,12,17,Everton FC,Huddersfield Town,2,0,H,6,5,4,3,12,9,2,5,2,1,0,0
+17-18,15,2,12,17,Leicester City,Burnley FC,1,0,H,16,14,3,4,3,11,10,7,0,2,0,0
+17-18,15,2,12,17,Stoke City,Swansea City,2,1,H,10,10,3,3,12,10,2,6,2,0,0,0
+17-18,15,2,12,17,Watford FC,Tottenham Hotspur,1,1,D,6,8,2,2,16,8,7,2,4,1,0,1
+17-18,15,2,12,17,West Bromwich Albion,Crystal Palace,0,0,D,20,10,6,2,11,10,3,7,3,1,0,0
+17-18,15,3,12,17,AFC Bournemouth,Southampton FC,1,1,D,16,15,5,4,6,12,5,4,2,1,0,0
+17-18,15,3,12,17,Manchester City,West Ham United,2,1,H,24,7,8,4,5,7,10,4,2,2,0,0
+17-18,16,9,12,17,Burnley FC,Watford FC,1,0,H,8,11,5,2,10,12,3,5,1,0,0,1
+17-18,16,9,12,17,Crystal Palace,AFC Bournemouth,2,2,D,24,11,8,5,14,14,6,3,5,2,0,0
+17-18,16,9,12,17,Huddersfield Town,Brighton & Hove Albion,2,0,H,19,7,6,2,6,10,8,1,0,0,0,0
+17-18,16,9,12,17,Newcastle United,Leicester City,2,3,A,10,13,4,5,10,9,6,5,2,1,0,0
+17-18,16,9,12,17,Swansea City,West Bromwich Albion,1,0,H,18,7,3,1,8,18,6,3,2,5,0,0
+17-18,16,9,12,17,Tottenham Hotspur,Stoke City,5,1,H,20,4,11,3,12,9,12,6,1,0,0,0
+17-18,16,9,12,17,West Ham United,Chelsea FC,1,0,H,5,19,2,2,10,10,4,3,6,1,0,0
+17-18,16,10,12,17,Liverpool FC,Everton FC,1,1,D,23,3,3,2,8,11,12,1,1,3,0,0
+17-18,16,10,12,17,Manchester United,Manchester City,1,2,A,8,14,5,7,16,10,2,8,4,2,0,0
+17-18,16,10,12,17,Southampton FC,Arsenal FC,1,1,D,6,11,3,6,12,10,4,5,2,2,0,0
+17-18,17,12,12,17,Burnley FC,Stoke City,1,0,H,10,14,2,7,6,14,6,4,0,0,0,0
+17-18,17,12,12,17,Crystal Palace,Watford FC,2,1,H,14,7,4,2,14,18,4,6,2,1,0,1
+17-18,17,12,12,17,Huddersfield Town,Chelsea FC,1,3,A,7,12,2,5,11,4,1,3,0,0,0,0
+17-18,17,13,12,17,Liverpool FC,West Bromwich Albion,0,0,D,14,6,5,1,16,6,5,7,1,0,0,0
+17-18,17,13,12,17,Manchester United,AFC Bournemouth,1,0,H,9,14,2,7,14,12,4,9,1,2,0,0
+17-18,17,13,12,17,Newcastle United,Everton FC,0,1,A,16,7,4,4,10,11,4,1,1,2,1,0
+17-18,17,13,12,17,Southampton FC,Leicester City,1,4,A,12,16,4,11,13,9,9,9,1,0,0,0
+17-18,17,13,12,17,Swansea City,Manchester City,0,4,A,7,23,3,10,12,6,2,5,0,0,0,0
+17-18,17,13,12,17,Tottenham Hotspur,Brighton & Hove Albion,2,0,H,25,7,8,4,5,10,10,2,1,1,0,0
+17-18,17,13,12,17,West Ham United,Arsenal FC,0,0,D,6,22,0,3,9,9,1,7,1,0,0,0
+17-18,18,16,12,17,Arsenal FC,Newcastle United,1,0,H,23,10,5,2,13,9,7,5,2,1,0,0
+17-18,18,16,12,17,Brighton & Hove Albion,Burnley FC,0,0,D,12,11,2,6,13,13,8,2,4,2,0,0
+17-18,18,16,12,17,Chelsea FC,Southampton FC,1,0,H,24,6,8,2,8,16,8,4,1,3,0,0
+17-18,18,16,12,17,Leicester City,Crystal Palace,0,3,A,11,13,2,6,12,13,6,4,2,2,1,0
+17-18,18,16,12,17,Manchester City,Tottenham Hotspur,4,1,H,20,7,11,2,13,20,5,1,2,4,0,0
+17-18,18,16,12,17,Stoke City,West Ham United,0,3,A,17,14,0,7,12,13,7,9,2,1,0,0
+17-18,18,16,12,17,Watford FC,Huddersfield Town,1,4,A,13,15,3,9,12,17,8,7,2,1,1,1
+17-18,18,17,12,17,AFC Bournemouth,Liverpool FC,0,4,A,6,21,2,7,5,10,2,3,1,1,0,0
+17-18,18,17,12,17,West Bromwich Albion,Manchester United,1,2,A,12,8,5,3,14,7,6,3,1,3,0,0
+17-18,18,18,12,17,Everton FC,Swansea City,3,1,H,12,8,7,3,12,12,6,3,2,3,0,0
+17-18,19,22,12,17,Arsenal FC,Liverpool FC,3,3,D,11,14,4,9,9,11,7,8,1,0,0,0
+17-18,19,23,12,17,Brighton & Hove Albion,Watford FC,1,0,H,14,13,3,1,8,11,6,4,0,0,0,0
+17-18,19,23,12,17,Burnley FC,Tottenham Hotspur,0,3,A,5,18,2,8,10,10,4,4,1,2,0,0
+17-18,19,23,12,17,Everton FC,Chelsea FC,0,0,D,5,25,0,8,8,4,2,7,3,0,0,0
+17-18,19,23,12,17,Leicester City,Manchester United,2,2,D,11,19,3,6,19,8,4,6,2,2,1,0
+17-18,19,23,12,17,Manchester City,AFC Bournemouth,4,0,H,14,5,5,1,8,7,4,6,0,1,0,0
+17-18,19,23,12,17,Southampton FC,Huddersfield Town,1,1,D,12,10,6,3,16,9,9,1,2,1,0,0
+17-18,19,23,12,17,Stoke City,West Bromwich Albion,3,1,H,9,17,5,7,9,11,1,11,1,0,0,0
+17-18,19,23,12,17,Swansea City,Crystal Palace,1,1,D,7,13,2,5,13,11,6,3,2,3,0,0
+17-18,19,23,12,17,West Ham United,Newcastle United,2,3,A,19,11,6,4,9,12,6,3,1,1,0,0
+17-18,20,26,12,17,AFC Bournemouth,West Ham United,3,3,D,26,10,10,5,12,14,7,4,3,4,0,0
+17-18,20,26,12,17,Chelsea FC,Brighton & Hove Albion,2,0,H,25,8,8,1,8,8,13,1,0,1,0,0
+17-18,20,26,12,17,Huddersfield Town,Stoke City,1,1,D,18,15,8,7,9,12,8,5,2,4,0,0
+17-18,20,26,12,17,Liverpool FC,Swansea City,5,0,H,22,7,9,4,5,8,4,2,0,1,0,0
+17-18,20,26,12,17,Manchester United,Burnley FC,2,2,D,23,3,6,2,10,14,12,2,3,7,0,0
+17-18,20,26,12,17,Tottenham Hotspur,Southampton FC,5,2,H,16,16,7,6,8,15,3,8,0,2,0,0
+17-18,20,26,12,17,Watford FC,Leicester City,2,1,H,11,11,1,5,7,13,8,8,3,3,0,0
+17-18,20,26,12,17,West Bromwich Albion,Everton FC,0,0,D,17,7,3,3,14,13,10,2,2,0,0,0
+17-18,20,27,12,17,Newcastle United,Manchester City,0,1,A,6,22,2,6,11,6,3,8,1,0,0,0
+17-18,20,28,12,17,Crystal Palace,Arsenal FC,2,3,A,16,16,2,9,12,7,5,4,0,1,0,0
+17-18,21,30,12,17,AFC Bournemouth,Everton FC,2,1,H,19,6,7,1,8,13,4,4,0,0,0,0
+17-18,21,30,12,17,Chelsea FC,Stoke City,5,0,H,21,1,12,1,5,10,7,0,1,1,0,0
+17-18,21,30,12,17,Huddersfield Town,Burnley FC,0,0,D,3,11,1,4,14,14,5,4,2,1,0,0
+17-18,21,30,12,17,Liverpool FC,Leicester City,2,1,H,17,7,6,1,7,3,7,1,3,2,0,0
+17-18,21,30,12,17,Manchester United,Southampton FC,0,0,D,15,8,3,3,12,13,10,7,2,4,0,0
+17-18,21,30,12,17,Newcastle United,Brighton & Hove Albion,0,0,D,11,10,2,3,11,10,3,6,2,2,0,0
+17-18,21,30,12,17,Watford FC,Swansea City,1,2,A,9,9,4,4,14,13,1,8,4,2,0,0
+17-18,21,31,12,17,Crystal Palace,Manchester City,0,0,D,10,15,1,4,14,11,7,8,5,4,0,0
+17-18,21,31,12,17,West Bromwich Albion,Arsenal FC,1,1,D,14,14,3,4,14,9,5,6,3,3,0,0
+17-18,22,1,1,18,Brighton & Hove Albion,AFC Bournemouth,2,2,D,15,26,6,8,13,9,5,12,2,1,0,0
+17-18,22,1,1,18,Burnley FC,Liverpool FC,1,2,A,13,19,4,5,4,12,3,9,0,0,0,0
+17-18,22,1,1,18,Everton FC,Manchester United,0,2,A,12,21,0,6,11,10,6,6,2,0,0,0
+17-18,22,1,1,18,Leicester City,Huddersfield Town,3,0,H,11,6,5,1,7,9,4,1,1,1,0,0
+17-18,22,1,1,18,Stoke City,Newcastle United,0,1,A,11,14,4,6,10,11,10,5,3,1,0,0
+17-18,22,2,1,18,Manchester City,Watford FC,3,1,H,17,7,7,4,8,12,9,1,1,1,0,0
+17-18,22,2,1,18,Southampton FC,Crystal Palace,1,2,A,10,11,3,4,8,11,4,7,0,1,0,0
+17-18,22,2,1,18,Swansea City,Tottenham Hotspur,0,2,A,8,12,1,5,12,9,6,5,2,2,0,0
+17-18,22,2,1,18,West Ham United,West Bromwich Albion,2,1,H,13,10,5,3,12,12,3,4,3,2,0,0
+17-18,22,3,1,18,Arsenal FC,Chelsea FC,2,2,D,14,19,6,6,11,11,10,8,3,2,0,0
+17-18,21,4,1,18,Tottenham Hotspur,West Ham United,1,1,D,31,3,8,1,10,6,7,1,0,2,0,0
+17-18,23,13,1,18,Chelsea FC,Leicester City,0,0,D,17,14,7,1,14,13,6,3,2,2,0,1
+17-18,23,13,1,18,Crystal Palace,Burnley FC,1,0,H,17,8,2,2,16,10,3,2,0,3,0,0
+17-18,23,13,1,18,Huddersfield Town,West Ham United,1,4,A,8,8,2,6,7,9,7,3,1,1,0,0
+17-18,23,13,1,18,Newcastle United,Swansea City,1,1,D,12,8,4,5,11,10,4,5,0,3,0,0
+17-18,23,13,1,18,Tottenham Hotspur,Everton FC,4,0,H,20,7,10,0,11,15,3,3,0,2,0,0
+17-18,23,13,1,18,Watford FC,Southampton FC,2,2,D,16,10,4,4,11,13,5,4,0,5,0,0
+17-18,23,13,1,18,West Bromwich Albion,Brighton & Hove Albion,2,0,H,15,13,4,1,8,15,9,6,0,0,0,0
+17-18,23,14,1,18,AFC Bournemouth,Arsenal FC,2,1,H,13,12,5,3,8,10,4,5,2,2,0,0
+17-18,23,14,1,18,Liverpool FC,Manchester City,4,3,H,16,11,7,4,10,7,5,6,2,3,0,0
+17-18,23,15,1,18,Manchester United,Stoke City,3,0,H,20,11,9,5,14,10,6,1,2,1,0,0
+17-18,24,20,1,18,Arsenal FC,Crystal Palace,4,1,H,16,9,10,5,6,8,5,10,0,0,0,0
+17-18,24,20,1,18,Brighton & Hove Albion,Chelsea FC,0,4,A,10,14,3,10,12,5,5,3,3,0,0,0
+17-18,24,20,1,18,Burnley FC,Manchester United,0,1,A,13,12,2,2,7,12,5,4,3,3,0,0
+17-18,24,20,1,18,Everton FC,West Bromwich Albion,1,1,D,9,15,4,5,15,10,0,3,2,1,0,0
+17-18,24,20,1,18,Leicester City,Watford FC,2,0,H,9,11,5,3,11,10,4,5,0,0,0,0
+17-18,24,20,1,18,Manchester City,Newcastle United,3,1,H,21,6,9,4,5,10,18,0,0,1,0,0
+17-18,24,20,1,18,Stoke City,Huddersfield Town,2,0,H,11,6,6,3,18,13,3,2,1,1,0,0
+17-18,24,20,1,18,West Ham United,AFC Bournemouth,1,1,D,12,8,4,3,8,7,6,3,3,1,0,0
+17-18,24,21,1,18,Southampton FC,Tottenham Hotspur,1,1,D,10,17,4,2,8,15,2,9,2,3,0,0
+17-18,24,22,1,18,Swansea City,Liverpool FC,1,0,H,3,21,2,4,5,9,3,9,0,2,0,0
+17-18,25,30,1,18,Huddersfield Town,Liverpool FC,0,3,A,5,14,1,7,8,8,1,4,0,0,0,0
+17-18,25,30,1,18,Swansea City,Arsenal FC,3,1,H,12,9,4,4,4,8,4,3,0,3,0,0
+17-18,25,30,1,18,West Ham United,Crystal Palace,1,1,D,8,9,3,3,11,15,5,3,1,3,0,0
+17-18,25,31,1,18,Chelsea FC,AFC Bournemouth,0,3,A,21,11,5,5,5,12,8,5,1,0,0,0
+17-18,25,31,1,18,Everton FC,Leicester City,2,1,H,9,8,4,1,9,10,5,5,0,2,0,0
+17-18,25,31,1,18,Manchester City,West Bromwich Albion,3,0,H,19,3,10,1,10,10,9,1,1,3,0,0
+17-18,25,31,1,18,Newcastle United,Burnley FC,1,1,D,14,11,4,2,15,15,7,4,1,2,0,0
+17-18,25,31,1,18,Southampton FC,Brighton & Hove Albion,1,1,D,18,9,3,2,8,10,7,2,3,1,0,0
+17-18,25,31,1,18,Stoke City,Watford FC,0,0,D,11,12,4,2,12,12,2,6,4,3,0,0
+17-18,25,31,1,18,Tottenham Hotspur,Manchester United,2,0,H,22,6,6,3,10,13,6,3,2,2,0,0
+17-18,26,3,2,18,Arsenal FC,Everton FC,5,1,H,15,11,7,2,8,8,4,6,2,0,0,0
+17-18,26,3,2,18,AFC Bournemouth,Stoke City,2,1,H,15,13,8,4,14,19,8,1,2,3,0,0
+17-18,26,3,2,18,Brighton & Hove Albion,West Ham United,3,1,H,21,4,5,1,11,7,4,1,3,1,0,0
+17-18,26,3,2,18,Burnley FC,Manchester City,1,1,D,8,20,3,7,9,6,3,13,4,1,0,0
+17-18,26,3,2,18,Leicester City,Swansea City,1,1,D,13,3,5,1,9,8,3,3,1,0,0,0
+17-18,26,3,2,18,Manchester United,Huddersfield Town,2,0,H,16,4,7,0,5,19,5,2,2,4,0,0
+17-18,26,3,2,18,West Bromwich Albion,Southampton FC,2,3,A,9,13,3,5,12,10,5,7,2,1,0,0
+17-18,26,4,2,18,Crystal Palace,Newcastle United,1,1,D,21,11,6,8,11,8,5,6,1,1,0,0
+17-18,26,4,2,18,Liverpool FC,Tottenham Hotspur,2,2,D,9,13,3,6,15,9,3,7,3,1,0,0
+17-18,26,5,2,18,Watford FC,Chelsea FC,4,1,H,21,7,8,3,11,8,6,2,2,2,0,1
+17-18,27,10,2,18,Everton FC,Crystal Palace,3,1,H,11,16,5,4,14,15,8,7,1,1,0,0
+17-18,27,10,2,18,Manchester City,Leicester City,5,1,H,19,2,11,2,10,12,8,2,2,3,0,0
+17-18,27,10,2,18,Stoke City,Brighton & Hove Albion,1,1,D,15,14,3,6,6,10,7,4,0,0,0,0
+17-18,27,10,2,18,Swansea City,Burnley FC,1,0,H,12,13,4,1,10,9,5,2,2,1,0,0
+17-18,27,10,2,18,Tottenham Hotspur,Arsenal FC,1,0,H,18,6,6,1,13,9,10,2,2,1,0,0
+17-18,27,10,2,18,West Ham United,Watford FC,2,0,H,8,11,4,4,11,7,8,7,1,1,0,0
+17-18,27,11,2,18,Huddersfield Town,AFC Bournemouth,4,1,H,15,7,4,2,12,12,2,6,0,3,0,0
+17-18,27,11,2,18,Newcastle United,Manchester United,1,0,H,10,13,3,6,12,15,0,10,0,2,0,0
+17-18,27,11,2,18,Southampton FC,Liverpool FC,0,2,A,6,16,4,4,5,8,3,1,1,2,0,0
+17-18,27,12,2,18,Chelsea FC,West Bromwich Albion,3,0,H,20,8,8,1,11,11,8,7,0,2,0,0
+17-18,28,24,2,18,AFC Bournemouth,Newcastle United,2,2,D,18,15,5,4,12,10,8,1,1,4,0,0
+17-18,28,24,2,18,Brighton & Hove Albion,Swansea City,4,1,H,16,11,5,1,17,6,3,5,1,0,0,0
+17-18,28,24,2,18,Burnley FC,Southampton FC,1,1,D,9,13,3,6,8,14,7,5,1,0,0,0
+17-18,28,24,2,18,Leicester City,Stoke City,1,1,D,19,6,9,2,10,16,13,1,1,3,0,0
+17-18,28,24,2,18,Liverpool FC,West Ham United,4,1,H,21,7,12,4,7,7,8,2,0,2,0,0
+17-18,28,24,2,18,Watford FC,Everton FC,1,0,H,13,7,5,2,10,9,6,5,3,1,0,0
+17-18,28,24,2,18,West Bromwich Albion,Huddersfield Town,1,2,A,10,16,3,7,11,9,6,3,1,1,0,0
+17-18,28,25,2,18,Crystal Palace,Tottenham Hotspur,0,1,A,5,14,3,4,12,5,2,13,0,1,0,0
+17-18,28,25,2,18,Manchester United,Chelsea FC,2,1,H,10,14,5,7,13,12,3,4,2,2,0,0
+17-18,28,1,3,18,Arsenal FC,Manchester City,0,3,A,10,9,5,5,11,11,6,1,1,1,0,0
+17-18,29,3,3,18,Burnley FC,Everton FC,2,1,H,21,10,8,4,9,12,10,4,1,1,0,1
+17-18,29,3,3,18,Leicester City,AFC Bournemouth,1,1,D,23,8,4,3,11,7,13,1,2,1,0,0
+17-18,29,3,3,18,Liverpool FC,Newcastle United,2,0,H,14,7,3,2,7,9,8,3,0,0,0,0
+17-18,29,3,3,18,Southampton FC,Stoke City,0,0,D,18,12,6,3,8,13,15,4,0,1,0,0
+17-18,29,3,3,18,Swansea City,West Ham United,4,1,H,9,7,8,2,9,14,4,5,0,3,0,0
+17-18,29,3,3,18,Tottenham Hotspur,Huddersfield Town,2,0,H,15,3,7,3,6,8,8,1,1,1,0,0
+17-18,29,3,3,18,Watford FC,West Bromwich Albion,1,0,H,15,9,4,2,11,12,4,6,2,0,0,0
+17-18,29,4,3,18,Brighton & Hove Albion,Arsenal FC,2,1,H,13,15,6,7,13,12,6,11,3,3,0,0
+17-18,29,4,3,18,Manchester City,Chelsea FC,1,0,H,13,3,3,0,8,9,5,2,2,1,0,0
+17-18,29,5,3,18,Crystal Palace,Manchester United,2,3,A,10,17,4,8,10,8,3,7,1,3,0,0
+17-18,30,10,3,18,Chelsea FC,Crystal Palace,2,1,H,27,9,11,2,8,9,12,3,1,2,0,0
+17-18,30,10,3,18,Everton FC,Brighton & Hove Albion,2,0,H,13,10,3,4,10,14,10,3,0,1,0,1
+17-18,30,10,3,18,Huddersfield Town,Swansea City,0,0,D,30,0,4,0,9,9,12,0,2,3,0,1
+17-18,30,10,3,18,Manchester United,Liverpool FC,2,1,H,5,14,2,2,10,16,1,13,2,1,0,0
+17-18,30,10,3,18,Newcastle United,Southampton FC,3,0,H,7,6,5,2,10,10,2,6,0,2,0,0
+17-18,30,10,3,18,West Bromwich Albion,Leicester City,1,4,A,6,14,2,6,6,7,7,6,1,3,0,0
+17-18,30,10,3,18,West Ham United,Burnley FC,0,3,A,13,7,4,4,13,7,5,1,2,2,0,0
+17-18,30,11,3,18,Arsenal FC,Watford FC,3,0,H,11,11,7,4,12,9,4,9,2,1,0,0
+17-18,30,11,3,18,AFC Bournemouth,Tottenham Hotspur,1,4,A,14,12,3,8,10,7,4,5,1,1,0,0
+17-18,30,12,3,18,Stoke City,Manchester City,0,2,A,3,17,0,6,6,8,3,10,1,0,0,0
+17-18,31,17,3,18,AFC Bournemouth,West Bromwich Albion,2,1,H,17,11,5,6,6,9,3,2,1,2,0,0
+17-18,31,17,3,18,Huddersfield Town,Crystal Palace,0,2,A,6,17,2,6,11,12,4,7,3,2,0,0
+17-18,31,17,3,18,Liverpool FC,Watford FC,5,0,H,13,4,10,1,5,4,6,1,1,0,0,0
+17-18,31,17,3,18,Stoke City,Everton FC,1,2,A,9,17,4,9,13,12,1,9,1,1,1,0
+17-18,32,31,3,18,Brighton & Hove Albion,Leicester City,0,2,A,15,6,3,4,11,13,6,1,2,4,0,1
+17-18,32,31,3,18,Crystal Palace,Liverpool FC,1,2,A,6,16,3,6,6,8,4,6,2,2,0,0
+17-18,32,31,3,18,Everton FC,Manchester City,1,3,A,6,18,2,4,10,8,2,11,0,0,0,0
+17-18,32,31,3,18,Manchester United,Swansea City,2,0,H,11,3,5,2,5,13,3,3,0,0,0,0
+17-18,32,31,3,18,Newcastle United,Huddersfield Town,1,0,H,18,4,3,0,9,10,3,3,1,4,0,0
+17-18,32,31,3,18,Watford FC,AFC Bournemouth,2,2,D,16,13,5,6,16,6,7,4,4,0,0,0
+17-18,32,31,3,18,West Bromwich Albion,Burnley FC,1,2,A,8,11,3,4,12,9,1,6,1,3,0,0
+17-18,32,31,3,18,West Ham United,Southampton FC,3,0,H,13,9,5,0,9,16,5,9,0,3,0,0
+17-18,32,1,4,18,Arsenal FC,Stoke City,3,0,H,24,8,11,2,9,13,6,5,1,2,0,0
+17-18,32,1,4,18,Chelsea FC,Tottenham Hotspur,1,3,A,14,12,4,7,4,11,5,5,0,1,0,0
+17-18,33,7,4,18,AFC Bournemouth,Crystal Palace,2,2,D,20,13,5,6,8,9,11,3,2,2,0,0
+17-18,33,7,4,18,Brighton & Hove Albion,Huddersfield Town,1,1,D,13,14,4,5,13,7,5,3,1,0,1,0
+17-18,33,7,4,18,Everton FC,Liverpool FC,0,0,D,6,10,1,3,12,7,3,2,0,0,0,0
+17-18,33,7,4,18,Leicester City,Newcastle United,1,2,A,8,8,1,4,7,14,7,5,1,3,0,0
+17-18,33,7,4,18,Manchester City,Manchester United,2,3,A,20,5,6,4,17,9,8,4,6,3,0,0
+17-18,33,7,4,18,Stoke City,Tottenham Hotspur,1,2,A,10,15,4,4,19,8,6,3,4,3,0,0
+17-18,33,7,4,18,Watford FC,Burnley FC,1,2,A,14,7,5,4,18,12,11,1,2,2,0,0
+17-18,33,7,4,18,West Bromwich Albion,Swansea City,1,1,D,15,7,3,1,15,5,5,1,3,2,0,0
+17-18,33,8,4,18,Arsenal FC,Southampton FC,3,2,H,13,15,7,8,11,7,8,6,2,1,1,1
+17-18,33,8,4,18,Chelsea FC,West Ham United,1,1,D,23,5,6,2,7,11,10,6,0,1,0,0
+17-18,34,14,4,18,Burnley FC,Leicester City,2,1,H,8,15,3,6,9,10,4,8,2,1,0,0
+17-18,34,14,4,18,Crystal Palace,Brighton & Hove Albion,3,2,H,15,12,8,3,12,16,5,6,3,2,0,0
+17-18,34,14,4,18,Huddersfield Town,Watford FC,1,0,H,9,4,1,2,9,8,9,6,2,2,0,0
+17-18,34,14,4,18,Liverpool FC,AFC Bournemouth,3,0,H,20,6,7,1,9,9,7,5,1,1,0,0
+17-18,34,14,4,18,Southampton FC,Chelsea FC,2,3,A,10,17,7,5,13,14,4,7,5,3,0,0
+17-18,34,14,4,18,Swansea City,Everton FC,1,1,D,17,12,7,3,10,11,6,3,1,1,0,0
+17-18,34,14,4,18,Tottenham Hotspur,Manchester City,1,3,A,8,17,3,6,11,12,5,7,3,4,0,0
+17-18,34,15,4,18,Manchester United,West Bromwich Albion,0,1,A,14,10,4,4,8,13,4,4,1,1,0,0
+17-18,34,15,4,18,Newcastle United,Arsenal FC,2,1,H,8,15,4,3,11,9,2,5,1,0,0,0
+17-18,34,16,4,18,West Ham United,Stoke City,1,1,D,18,11,6,7,15,21,10,1,2,3,0,0
+17-18,35,17,4,18,Brighton & Hove Albion,Tottenham Hotspur,1,1,D,8,16,5,6,6,5,3,4,1,0,0,0
+17-18,35,18,4,18,AFC Bournemouth,Manchester United,0,2,A,13,13,2,4,9,8,8,5,3,1,0,0
+17-18,31,19,4,18,Burnley FC,Chelsea FC,1,2,A,5,16,2,5,9,11,3,2,1,0,0,0
+17-18,35,19,4,18,Leicester City,Southampton FC,0,0,D,11,6,3,2,10,10,11,3,0,0,0,0
+17-18,35,21,4,18,Watford FC,Crystal Palace,0,0,D,14,6,4,1,17,13,4,3,3,5,0,0
+17-18,35,21,4,18,West Bromwich Albion,Liverpool FC,2,2,D,13,9,6,3,12,5,7,4,0,1,0,0
+17-18,35,22,4,18,Arsenal FC,West Ham United,4,1,H,20,11,8,4,11,9,8,6,3,2,0,0
+17-18,35,22,4,18,Manchester City,Swansea City,5,0,H,19,4,12,1,6,8,5,1,0,1,0,0
+17-18,35,22,4,18,Stoke City,Burnley FC,1,1,D,8,16,3,7,15,5,3,8,2,1,0,0
+17-18,35,23,4,18,Everton FC,Newcastle United,1,0,H,9,9,1,2,10,11,4,6,2,1,0,0
+17-18,36,28,4,18,Burnley FC,Brighton & Hove Albion,0,0,D,10,9,4,1,5,17,3,4,0,2,0,0
+17-18,36,28,4,18,Crystal Palace,Leicester City,5,0,H,15,6,9,1,11,9,8,2,1,1,0,1
+17-18,36,28,4,18,Huddersfield Town,Everton FC,0,2,A,9,7,2,5,9,8,4,3,1,0,0,0
+17-18,36,28,4,18,Liverpool FC,Stoke City,0,0,D,20,5,2,1,7,14,9,2,1,2,0,0
+17-18,36,28,4,18,Newcastle United,West Bromwich Albion,0,1,A,17,9,2,2,8,13,5,1,1,3,0,0
+17-18,36,28,4,18,Southampton FC,AFC Bournemouth,2,1,H,14,14,6,7,12,11,5,8,5,1,0,0
+17-18,36,28,4,18,Swansea City,Chelsea FC,0,1,A,10,11,3,3,13,9,1,2,1,1,0,0
+17-18,36,29,4,18,Manchester United,Arsenal FC,2,1,H,17,8,3,3,12,7,9,0,0,1,0,0
+17-18,36,29,4,18,West Ham United,Manchester City,1,4,A,4,19,1,7,5,11,0,7,0,1,0,0
+17-18,36,30,4,18,Tottenham Hotspur,Watford FC,2,0,H,13,13,3,5,11,10,4,0,1,0,0,0
+17-18,37,4,5,18,Brighton & Hove Albion,Manchester United,1,0,H,11,16,4,3,5,3,5,6,2,0,0,0
+17-18,37,5,5,18,AFC Bournemouth,Swansea City,1,0,H,13,12,5,3,10,10,11,6,1,4,0,0
+17-18,37,5,5,18,Everton FC,Southampton FC,1,1,D,9,11,3,5,14,12,3,4,2,4,0,1
+17-18,37,5,5,18,Leicester City,West Ham United,0,2,A,13,13,2,3,8,9,8,3,1,2,0,0
+17-18,37,5,5,18,Stoke City,Crystal Palace,1,2,A,7,13,2,2,18,12,1,7,5,2,0,0
+17-18,37,5,5,18,Watford FC,Newcastle United,2,1,H,11,9,8,1,9,11,2,5,2,1,0,0
+17-18,37,5,5,18,West Bromwich Albion,Tottenham Hotspur,1,0,H,9,18,1,5,13,12,5,9,4,1,0,0
+17-18,37,6,5,18,Arsenal FC,Burnley FC,5,0,H,16,6,8,2,6,7,4,5,0,1,0,0
+17-18,37,6,5,18,Chelsea FC,Liverpool FC,1,0,H,12,10,4,5,12,9,3,1,3,2,0,0
+17-18,37,6,5,18,Manchester City,Huddersfield Town,0,0,D,15,5,2,3,9,4,10,1,0,3,0,0
+17-18,31,8,5,18,Swansea City,Southampton FC,0,1,A,11,13,3,8,7,15,7,6,2,1,0,0
+17-18,35,9,5,18,Chelsea FC,Huddersfield Town,1,1,D,22,3,5,2,7,10,9,0,0,1,0,0
+17-18,31,9,5,18,Leicester City,Arsenal FC,3,1,H,19,14,10,7,7,12,6,6,2,2,0,1
+17-18,31,9,5,18,Manchester City,Brighton & Hove Albion,3,1,H,19,6,7,3,5,7,4,3,0,1,0,0
+17-18,31,9,5,18,Tottenham Hotspur,Newcastle United,1,0,H,11,14,7,3,10,8,6,4,2,3,0,0
+17-18,31,10,5,18,West Ham United,Manchester United,0,0,D,9,16,2,6,12,12,1,6,1,1,0,0
+17-18,38,13,5,18,Burnley FC,AFC Bournemouth,1,2,A,12,16,4,5,14,9,7,8,0,0,0,0
+17-18,38,13,5,18,Crystal Palace,West Bromwich Albion,2,0,H,11,7,5,1,10,11,4,2,2,3,0,0
+17-18,38,13,5,18,Huddersfield Town,Arsenal FC,0,1,A,18,9,3,4,11,7,7,4,1,0,0,0
+17-18,38,13,5,18,Liverpool FC,Brighton & Hove Albion,4,0,H,22,2,11,1,3,6,7,3,0,0,0,0
+17-18,38,13,5,18,Manchester United,Watford FC,1,0,H,7,7,1,3,6,11,6,5,4,0,0,0
+17-18,38,13,5,18,Newcastle United,Chelsea FC,3,0,H,16,6,6,2,11,10,4,2,0,1,0,0
+17-18,38,13,5,18,Southampton FC,Manchester City,0,1,A,8,13,3,2,8,10,1,12,3,1,0,0
+17-18,38,13,5,18,Swansea City,Stoke City,1,2,A,26,8,11,5,12,9,6,0,1,2,0,0
+17-18,38,13,5,18,Tottenham Hotspur,Leicester City,5,4,H,14,16,6,9,9,13,4,4,1,2,0,0
+17-18,38,13,5,18,West Ham United,Everton FC,3,1,H,15,14,4,7,10,13,6,6,0,1,0,0
+18-19,1,10,8,18,Manchester United,Leicester City,2,1,H,8,13,6,4,11,8,2,5,2,1,0,0
+18-19,1,11,8,18,AFC Bournemouth,Cardiff City,2,0,H,12,10,4,1,11,9,7,4,1,1,0,0
+18-19,1,11,8,18,Fulham FC,Crystal Palace,0,2,A,15,10,6,9,9,11,5,5,1,2,0,0
+18-19,1,11,8,18,Huddersfield Town,Chelsea FC,0,3,A,6,13,1,4,9,8,2,5,2,1,0,0
+18-19,1,11,8,18,Newcastle United,Tottenham Hotspur,1,2,A,15,15,2,5,11,12,3,5,2,2,0,0
+18-19,1,11,8,18,Watford FC,Brighton & Hove Albion,2,0,H,19,6,5,0,10,16,8,2,2,2,0,0
+18-19,1,11,8,18,Wolverhampton Wanderers,Everton FC,2,2,D,11,6,4,5,8,7,3,6,0,1,0,1
+18-19,1,12,8,18,Arsenal FC,Manchester City,0,2,A,9,17,3,8,11,14,2,9,2,2,0,0
+18-19,1,12,8,18,Liverpool FC,West Ham United,4,0,H,18,5,8,2,14,9,5,4,1,2,0,0
+18-19,1,12,8,18,Southampton FC,Burnley FC,0,0,D,18,16,3,6,10,9,8,5,0,1,0,0
+18-19,2,18,8,18,Cardiff City,Newcastle United,0,0,D,12,12,1,6,14,16,5,5,2,2,0,1
+18-19,2,18,8,18,Chelsea FC,Arsenal FC,3,2,H,24,15,11,6,12,9,5,1,0,2,0,0
+18-19,2,18,8,18,Everton FC,Southampton FC,2,1,H,13,15,7,4,8,20,2,5,0,5,0,0
+18-19,2,18,8,18,Leicester City,Wolverhampton Wanderers,2,0,H,6,11,2,3,10,8,1,9,2,1,1,0
+18-19,2,18,8,18,Tottenham Hotspur,Fulham FC,3,1,H,25,10,11,3,9,5,5,2,0,0,0,0
+18-19,2,18,8,18,West Ham United,AFC Bournemouth,1,2,A,11,12,5,5,14,10,6,4,6,2,0,0
+18-19,2,19,8,18,Brighton & Hove Albion,Manchester United,3,2,H,6,9,3,3,16,13,3,5,1,1,0,0
+18-19,2,19,8,18,Burnley FC,Watford FC,1,3,A,8,9,3,6,8,19,5,2,1,2,0,0
+18-19,2,19,8,18,Manchester City,Huddersfield Town,6,1,H,32,5,14,1,9,4,10,3,0,2,0,0
+18-19,2,20,8,18,Crystal Palace,Liverpool FC,0,2,A,8,16,2,6,6,13,6,7,1,1,1,0
+18-19,3,25,8,18,Arsenal FC,West Ham United,3,1,H,17,13,10,5,16,13,10,2,1,3,0,0
+18-19,3,25,8,18,AFC Bournemouth,Everton FC,2,2,D,17,11,5,3,12,10,6,2,0,3,1,1
+18-19,3,25,8,18,Huddersfield Town,Cardiff City,0,0,D,5,14,1,4,8,10,7,7,0,1,1,0
+18-19,3,25,8,18,Liverpool FC,Brighton & Hove Albion,1,0,H,22,6,8,2,8,14,8,5,1,1,0,0
+18-19,3,25,8,18,Southampton FC,Leicester City,1,2,A,11,8,5,5,13,11,10,3,1,1,1,0
+18-19,3,25,8,18,Wolverhampton Wanderers,Manchester City,1,1,D,11,18,2,6,13,8,5,9,1,2,0,0
+18-19,3,26,8,18,Fulham FC,Burnley FC,4,2,H,25,12,12,2,11,8,6,4,2,1,0,0
+18-19,3,26,8,18,Newcastle United,Chelsea FC,1,2,A,6,15,2,3,16,8,4,5,3,1,0,0
+18-19,3,26,8,18,Watford FC,Crystal Palace,2,1,H,13,9,5,3,14,11,6,3,4,2,0,0
+18-19,3,27,8,18,Manchester United,Tottenham Hotspur,0,3,A,23,9,5,5,11,16,5,2,2,4,0,0
+18-19,4,1,9,18,Brighton & Hove Albion,Fulham FC,2,2,D,15,10,5,5,12,14,7,1,3,3,0,0
+18-19,4,1,9,18,Chelsea FC,AFC Bournemouth,2,0,H,24,8,6,1,10,7,7,6,2,2,0,0
+18-19,4,1,9,18,Crystal Palace,Southampton FC,0,2,A,20,19,6,6,11,12,7,4,1,1,0,0
+18-19,4,1,9,18,Everton FC,Huddersfield Town,1,1,D,11,9,1,6,13,14,4,3,3,3,0,0
+18-19,4,1,9,18,Leicester City,Liverpool FC,1,2,A,12,10,5,4,9,12,4,4,3,2,0,0
+18-19,4,1,9,18,Manchester City,Newcastle United,2,1,H,24,3,8,2,5,13,4,0,0,0,0,0
+18-19,4,1,9,18,West Ham United,Wolverhampton Wanderers,0,1,A,13,15,3,6,10,11,4,4,2,1,0,0
+18-19,4,2,9,18,Burnley FC,Manchester United,0,2,A,9,21,2,9,7,13,2,5,2,3,0,1
+18-19,4,2,9,18,Cardiff City,Arsenal FC,2,3,A,14,17,3,11,12,14,3,9,3,4,0,0
+18-19,4,2,9,18,Watford FC,Tottenham Hotspur,2,1,H,7,11,3,2,9,8,3,10,2,1,0,0
+18-19,5,15,9,18,AFC Bournemouth,Leicester City,4,2,H,10,14,5,8,13,15,4,6,3,2,0,1
+18-19,5,15,9,18,Chelsea FC,Cardiff City,4,1,H,18,6,7,2,8,10,5,4,0,0,0,0
+18-19,5,15,9,18,Huddersfield Town,Crystal Palace,0,1,A,15,7,2,2,11,17,5,3,1,2,0,0
+18-19,5,15,9,18,Manchester City,Fulham FC,3,0,H,28,9,9,3,7,7,10,4,0,0,0,0
+18-19,5,15,9,18,Newcastle United,Arsenal FC,1,2,A,4,12,2,2,13,11,10,4,0,0,0,0
+18-19,5,15,9,18,Tottenham Hotspur,Liverpool FC,1,2,A,11,17,3,10,17,16,5,4,0,0,0,0
+18-19,5,15,9,18,Watford FC,Manchester United,1,2,A,14,9,5,6,9,11,6,8,2,1,0,1
+18-19,5,16,9,18,Everton FC,West Ham United,1,3,A,16,9,4,4,15,12,4,2,2,5,0,0
+18-19,5,16,9,18,Wolverhampton Wanderers,Burnley FC,1,0,H,30,7,7,2,10,9,8,2,2,4,0,0
+18-19,5,17,9,18,Southampton FC,Brighton & Hove Albion,2,2,D,14,12,5,4,10,13,1,4,2,3,0,0
+18-19,6,22,9,18,Brighton & Hove Albion,Tottenham Hotspur,1,2,A,8,16,4,7,15,9,5,7,2,1,0,0
+18-19,6,22,9,18,Burnley FC,AFC Bournemouth,4,0,H,12,19,5,5,17,6,3,8,2,0,0,0
+18-19,6,22,9,18,Cardiff City,Manchester City,0,5,A,2,21,2,10,6,4,1,9,1,1,0,0
+18-19,6,22,9,18,Crystal Palace,Newcastle United,0,0,D,16,6,4,3,8,11,9,5,1,1,0,0
+18-19,6,22,9,18,Fulham FC,Watford FC,1,1,D,15,11,3,6,11,9,8,8,2,1,0,0
+18-19,6,22,9,18,Leicester City,Huddersfield Town,3,1,H,18,9,8,2,10,16,3,1,2,1,0,0
+18-19,6,22,9,18,Liverpool FC,Southampton FC,3,0,H,12,7,4,1,7,10,5,4,0,2,0,0
+18-19,6,22,9,18,Manchester United,Wolverhampton Wanderers,1,1,D,15,11,6,8,5,17,5,4,1,1,0,0
+18-19,6,23,9,18,Arsenal FC,Everton FC,2,0,H,9,9,5,6,17,12,5,9,2,1,0,0
+18-19,6,23,9,18,West Ham United,Chelsea FC,0,0,D,6,17,1,6,11,9,1,8,2,1,0,0
+18-19,7,29,9,18,Arsenal FC,Watford FC,2,0,H,9,13,2,4,11,17,6,6,2,2,0,0
+18-19,7,29,9,18,Chelsea FC,Liverpool FC,1,1,D,10,13,4,6,7,9,4,4,0,2,0,0
+18-19,7,29,9,18,Everton FC,Fulham FC,3,0,H,19,6,6,0,13,13,12,1,0,3,0,0
+18-19,7,29,9,18,Huddersfield Town,Tottenham Hotspur,0,2,A,9,10,5,6,17,16,3,0,2,2,0,0
+18-19,7,29,9,18,Manchester City,Brighton & Hove Albion,2,0,H,28,4,8,1,4,10,10,3,0,3,0,0
+18-19,7,29,9,18,Newcastle United,Leicester City,0,2,A,6,12,1,5,11,5,5,9,0,0,0,0
+18-19,7,29,9,18,West Ham United,Manchester United,3,1,H,8,9,3,4,12,12,4,9,0,1,0,0
+18-19,7,29,9,18,Wolverhampton Wanderers,Southampton FC,2,0,H,14,17,6,6,11,7,8,6,3,1,0,0
+18-19,7,30,9,18,Cardiff City,Burnley FC,1,2,A,19,3,5,2,11,15,10,2,1,3,0,0
+18-19,7,1,10,18,AFC Bournemouth,Crystal Palace,2,1,H,11,10,5,2,9,12,3,3,3,4,0,0
+18-19,8,5,10,18,Brighton & Hove Albion,West Ham United,1,0,H,9,17,4,4,12,8,2,9,3,2,0,0
+18-19,8,6,10,18,Burnley FC,Huddersfield Town,1,1,D,6,19,3,2,8,11,1,10,2,2,0,0
+18-19,8,6,10,18,Crystal Palace,Wolverhampton Wanderers,0,1,A,11,7,4,2,11,13,6,3,3,4,0,0
+18-19,8,6,10,18,Leicester City,Everton FC,1,2,A,8,17,2,8,10,11,2,10,2,1,1,0
+18-19,8,6,10,18,Manchester United,Newcastle United,3,2,H,18,13,10,8,16,8,10,6,2,2,0,0
+18-19,8,6,10,18,Tottenham Hotspur,Cardiff City,1,0,H,19,8,7,6,7,11,6,2,2,1,0,1
+18-19,8,6,10,18,Watford FC,AFC Bournemouth,0,4,A,14,10,2,7,11,9,10,7,3,1,1,0
+18-19,8,7,10,18,Fulham FC,Arsenal FC,1,5,A,21,9,4,7,11,12,4,2,2,0,0,0
+18-19,8,7,10,18,Liverpool FC,Manchester City,0,0,D,7,6,2,2,10,10,2,6,1,3,0,0
+18-19,8,7,10,18,Southampton FC,Chelsea FC,0,3,A,15,21,6,6,13,11,4,12,6,0,0,0
+18-19,9,20,10,18,AFC Bournemouth,Southampton FC,0,0,D,10,8,2,4,10,14,6,4,1,2,0,0
+18-19,9,20,10,18,Cardiff City,Fulham FC,4,2,H,22,9,5,4,15,16,4,4,3,3,0,0
+18-19,9,20,10,18,Chelsea FC,Manchester United,2,2,D,21,7,6,4,9,17,5,3,2,5,0,0
+18-19,9,20,10,18,Huddersfield Town,Liverpool FC,0,1,A,13,11,1,2,9,6,2,4,0,2,0,0
+18-19,9,20,10,18,Manchester City,Burnley FC,5,0,H,24,5,10,0,11,5,10,1,2,2,0,0
+18-19,9,20,10,18,Newcastle United,Brighton & Hove Albion,0,1,A,27,8,6,2,13,17,10,2,0,2,0,0
+18-19,9,20,10,18,West Ham United,Tottenham Hotspur,0,1,A,13,10,4,2,8,10,10,6,3,0,0,0
+18-19,9,20,10,18,Wolverhampton Wanderers,Watford FC,0,2,A,10,9,1,3,23,13,8,2,3,1,0,0
+18-19,9,21,10,18,Everton FC,Crystal Palace,2,0,H,20,7,4,3,13,17,10,5,2,1,0,0
+18-19,9,22,10,18,Arsenal FC,Leicester City,3,1,H,19,8,6,2,10,10,6,4,2,2,0,0
+18-19,10,27,10,18,Brighton & Hove Albion,Wolverhampton Wanderers,1,0,H,2,25,1,7,11,8,1,10,3,0,0,0
+18-19,10,27,10,18,Fulham FC,AFC Bournemouth,0,3,A,11,12,1,5,16,3,5,5,2,1,1,0
+18-19,10,27,10,18,Leicester City,West Ham United,1,1,D,21,11,7,3,17,5,8,0,1,1,0,1
+18-19,10,27,10,18,Liverpool FC,Cardiff City,4,1,H,19,2,7,1,6,4,8,0,0,0,0,0
+18-19,10,27,10,18,Southampton FC,Newcastle United,0,0,D,22,6,4,0,9,12,7,2,0,1,0,0
+18-19,10,27,10,18,Watford FC,Huddersfield Town,3,0,H,12,13,6,7,9,13,3,3,1,2,0,0
+18-19,10,28,10,18,Burnley FC,Chelsea FC,0,4,A,7,24,1,8,14,10,4,4,4,2,0,0
+18-19,10,28,10,18,Crystal Palace,Arsenal FC,2,2,D,16,7,3,2,10,16,6,4,1,2,0,0
+18-19,10,28,10,18,Manchester United,Everton FC,2,1,H,14,14,10,6,15,12,8,4,2,1,0,0
+18-19,10,29,10,18,Tottenham Hotspur,Manchester City,0,1,A,4,13,1,6,13,13,3,6,2,2,0,0
+18-19,11,3,11,18,Arsenal FC,Liverpool FC,1,1,D,12,13,4,4,7,7,5,8,1,1,0,0
+18-19,11,3,11,18,AFC Bournemouth,Manchester United,1,2,A,18,18,7,8,12,12,9,5,4,3,0,0
+18-19,11,3,11,18,Cardiff City,Leicester City,0,1,A,11,13,2,5,13,12,6,12,2,2,0,0
+18-19,11,3,11,18,Everton FC,Brighton & Hove Albion,3,1,H,14,5,3,3,9,17,6,4,0,1,0,0
+18-19,11,3,11,18,Newcastle United,Watford FC,1,0,H,10,16,2,1,12,11,8,9,1,5,0,0
+18-19,11,3,11,18,West Ham United,Burnley FC,4,2,H,22,6,10,3,7,9,10,4,1,4,0,0
+18-19,11,3,11,18,Wolverhampton Wanderers,Tottenham Hotspur,2,3,A,16,10,7,8,11,8,5,1,1,2,0,0
+18-19,11,4,11,18,Chelsea FC,Crystal Palace,3,1,H,15,7,6,2,6,13,4,2,0,1,0,0
+18-19,11,4,11,18,Manchester City,Southampton FC,6,1,H,18,12,8,6,14,9,4,4,1,1,0,0
+18-19,11,5,11,18,Huddersfield Town,Fulham FC,1,0,H,10,7,2,1,11,8,5,4,1,2,0,0
+18-19,12,10,11,18,Cardiff City,Brighton & Hove Albion,2,1,H,20,7,6,3,7,21,4,1,2,1,0,1
+18-19,12,10,11,18,Crystal Palace,Tottenham Hotspur,0,1,A,11,11,4,2,12,9,10,6,1,1,0,0
+18-19,12,10,11,18,Huddersfield Town,West Ham United,1,1,D,15,12,7,5,9,8,5,6,1,1,0,0
+18-19,12,10,11,18,Leicester City,Burnley FC,0,0,D,22,6,5,1,13,10,12,1,2,0,0,0
+18-19,12,10,11,18,Newcastle United,AFC Bournemouth,2,1,H,18,14,6,4,9,11,7,10,2,1,0,0
+18-19,12,10,11,18,Southampton FC,Watford FC,1,1,D,14,12,4,6,13,13,7,6,3,2,0,0
+18-19,12,11,11,18,Arsenal FC,Wolverhampton Wanderers,1,1,D,10,12,3,5,9,16,11,2,2,2,0,0
+18-19,12,11,11,18,Chelsea FC,Everton FC,0,0,D,15,6,4,1,7,11,5,5,4,3,0,0
+18-19,12,11,11,18,Liverpool FC,Fulham FC,2,0,H,20,8,7,3,11,9,6,3,1,1,0,0
+18-19,12,11,11,18,Manchester City,Manchester United,3,1,H,17,6,5,1,12,12,5,1,1,1,0,0
+18-19,13,24,11,18,Brighton & Hove Albion,Leicester City,1,1,D,14,8,3,3,10,7,6,1,3,1,0,1
+18-19,13,24,11,18,Everton FC,Cardiff City,1,0,H,16,7,8,1,12,13,7,3,0,3,0,0
+18-19,13,24,11,18,Fulham FC,Southampton FC,3,2,H,10,19,5,8,10,6,2,5,2,3,0,0
+18-19,13,24,11,18,Manchester United,Crystal Palace,0,0,D,12,13,5,2,13,12,10,3,1,2,0,0
+18-19,13,24,11,18,Tottenham Hotspur,Chelsea FC,3,1,H,18,13,9,2,19,12,4,4,0,3,0,0
+18-19,13,24,11,18,Watford FC,Liverpool FC,0,3,A,5,10,1,7,12,13,5,5,0,0,0,1
+18-19,13,24,11,18,West Ham United,Manchester City,0,4,A,9,9,1,6,6,3,8,1,0,0,0,0
+18-19,13,25,11,18,AFC Bournemouth,Arsenal FC,1,2,A,11,20,5,4,6,9,5,8,2,1,0,0
+18-19,13,25,11,18,Wolverhampton Wanderers,Huddersfield Town,0,2,A,12,14,3,6,9,8,3,5,1,2,0,0
+18-19,13,26,11,18,Burnley FC,Newcastle United,1,2,A,14,17,4,3,6,11,5,5,0,1,0,0
+18-19,14,30,11,18,Cardiff City,Wolverhampton Wanderers,2,1,H,17,15,3,4,3,12,7,6,1,2,0,0
+18-19,14,1,12,18,Crystal Palace,Burnley FC,2,0,H,29,4,9,0,9,10,10,2,1,1,0,0
+18-19,14,1,12,18,Huddersfield Town,Brighton & Hove Albion,1,2,A,7,14,2,6,10,12,2,6,0,2,1,0
+18-19,14,1,12,18,Leicester City,Watford FC,2,0,H,7,8,3,0,7,6,4,8,2,1,0,1
+18-19,14,1,12,18,Manchester City,AFC Bournemouth,3,1,H,16,4,6,1,9,3,8,4,0,0,0,0
+18-19,14,1,12,18,Newcastle United,West Ham United,0,3,A,16,7,4,4,10,10,7,3,3,3,0,0
+18-19,14,1,12,18,Southampton FC,Manchester United,2,2,D,16,11,6,5,12,13,3,5,4,4,0,0
+18-19,14,2,12,18,Arsenal FC,Tottenham Hotspur,4,2,H,22,11,7,6,15,17,8,5,3,3,0,1
+18-19,14,2,12,18,Chelsea FC,Fulham FC,2,0,H,16,9,9,4,8,17,4,6,2,1,0,0
+18-19,14,2,12,18,Liverpool FC,Everton FC,1,0,H,16,9,3,3,12,7,8,1,3,2,0,0
+18-19,15,4,12,18,AFC Bournemouth,Huddersfield Town,2,1,H,6,23,2,6,14,11,4,8,4,2,0,0
+18-19,15,4,12,18,Brighton & Hove Albion,Crystal Palace,3,1,H,9,18,3,5,14,12,4,5,2,3,1,0
+18-19,15,4,12,18,Watford FC,Manchester City,1,2,A,11,15,7,7,4,8,3,11,0,1,0,0
+18-19,15,4,12,18,West Ham United,Cardiff City,3,1,H,17,9,11,5,10,10,10,4,1,2,0,0
+18-19,15,5,12,18,Burnley FC,Liverpool FC,1,3,A,10,18,6,12,10,3,5,9,1,0,0,0
+18-19,15,5,12,18,Everton FC,Newcastle United,1,1,D,19,8,3,5,7,18,14,2,0,5,0,0
+18-19,15,5,12,18,Fulham FC,Leicester City,1,1,D,25,13,7,5,12,7,10,8,0,0,0,0
+18-19,15,5,12,18,Manchester United,Arsenal FC,2,2,D,10,9,7,4,13,10,4,4,3,3,0,0
+18-19,15,5,12,18,Tottenham Hotspur,Southampton FC,3,1,H,13,18,8,5,7,5,8,6,0,0,0,0
+18-19,15,5,12,18,Wolverhampton Wanderers,Chelsea FC,2,1,H,6,17,2,3,18,10,1,5,4,4,0,0
+18-19,16,8,12,18,Arsenal FC,Huddersfield Town,1,0,H,14,6,2,0,13,20,7,1,5,4,0,0
+18-19,16,8,12,18,AFC Bournemouth,Liverpool FC,0,4,A,8,10,2,4,9,11,6,6,2,1,0,0
+18-19,16,8,12,18,Burnley FC,Brighton & Hove Albion,1,0,H,14,14,4,1,11,11,2,7,2,0,0,0
+18-19,16,8,12,18,Cardiff City,Southampton FC,1,0,H,13,12,4,1,9,10,7,7,2,2,0,0
+18-19,16,8,12,18,Chelsea FC,Manchester City,2,0,H,8,14,5,4,12,11,1,13,2,0,0,0
+18-19,16,8,12,18,Leicester City,Tottenham Hotspur,0,2,A,11,7,3,2,12,7,6,5,3,1,0,0
+18-19,16,8,12,18,Manchester United,Fulham FC,4,1,H,20,10,11,4,11,15,10,3,1,1,0,1
+18-19,16,8,12,18,West Ham United,Crystal Palace,3,2,H,13,8,6,4,10,8,5,3,1,2,0,0
+18-19,16,9,12,18,Newcastle United,Wolverhampton Wanderers,1,2,A,12,13,4,6,10,17,4,6,2,5,1,0
+18-19,16,10,12,18,Everton FC,Watford FC,2,2,D,12,15,5,3,13,13,6,6,1,1,0,0
+18-19,17,15,12,18,Crystal Palace,Leicester City,1,0,H,8,12,1,2,10,8,4,4,2,1,0,0
+18-19,17,15,12,18,Fulham FC,West Ham United,0,2,A,16,6,4,3,14,10,6,4,2,1,0,0
+18-19,17,15,12,18,Huddersfield Town,Newcastle United,0,1,A,15,8,5,5,5,13,10,1,1,1,0,0
+18-19,17,15,12,18,Manchester City,Everton FC,3,1,H,13,9,5,2,7,9,6,2,1,2,0,0
+18-19,17,15,12,18,Tottenham Hotspur,Burnley FC,1,0,H,15,4,3,0,7,8,8,3,0,2,0,0
+18-19,17,15,12,18,Watford FC,Cardiff City,3,2,H,17,10,8,3,7,5,5,0,0,0,0,0
+18-19,17,15,12,18,Wolverhampton Wanderers,AFC Bournemouth,2,0,H,9,13,3,3,15,7,5,3,1,2,0,0
+18-19,17,16,12,18,Brighton & Hove Albion,Chelsea FC,1,2,A,6,10,2,3,14,6,4,1,2,2,0,0
+18-19,17,16,12,18,Liverpool FC,Manchester United,3,1,H,36,6,11,2,6,14,13,2,0,2,0,0
+18-19,17,16,12,18,Southampton FC,Arsenal FC,3,2,H,12,13,7,4,12,10,4,5,3,1,0,0
+18-19,18,21,12,18,Wolverhampton Wanderers,Liverpool FC,0,2,A,11,15,5,6,7,3,1,10,0,0,0,0
+18-19,18,22,12,18,Arsenal FC,Burnley FC,3,1,H,10,7,6,2,10,14,1,3,2,5,0,0
+18-19,18,22,12,18,AFC Bournemouth,Brighton & Hove Albion,2,0,H,14,10,3,5,8,18,6,5,2,0,0,1
+18-19,18,22,12,18,Cardiff City,Manchester United,1,5,A,9,17,3,9,13,13,4,7,2,1,0,0
+18-19,18,22,12,18,Chelsea FC,Leicester City,0,1,A,17,8,5,3,10,9,9,5,0,2,0,0
+18-19,18,22,12,18,Huddersfield Town,Southampton FC,1,3,A,16,13,5,6,12,9,8,2,2,3,0,0
+18-19,18,22,12,18,Manchester City,Crystal Palace,2,3,A,19,5,5,3,7,6,13,0,0,4,0,0
+18-19,18,22,12,18,Newcastle United,Fulham FC,0,0,D,9,4,0,2,9,12,6,0,1,2,0,0
+18-19,18,22,12,18,West Ham United,Watford FC,0,2,A,18,11,7,5,9,11,10,4,3,2,0,0
+18-19,18,23,12,18,Everton FC,Tottenham Hotspur,2,6,A,10,17,3,8,13,9,2,1,0,2,0,0
+18-19,19,26,12,18,Brighton & Hove Albion,Arsenal FC,1,1,D,12,7,3,4,10,4,4,9,2,1,0,0
+18-19,19,26,12,18,Burnley FC,Everton FC,1,5,A,11,13,4,6,11,19,5,7,2,4,0,0
+18-19,19,26,12,18,Crystal Palace,Cardiff City,0,0,D,31,9,5,4,9,11,12,1,0,3,0,0
+18-19,19,26,12,18,Fulham FC,Wolverhampton Wanderers,1,1,D,11,14,9,5,9,6,2,0,2,1,0,0
+18-19,19,26,12,18,Leicester City,Manchester City,2,1,H,10,11,5,4,5,8,3,7,2,2,0,1
+18-19,19,26,12,18,Liverpool FC,Newcastle United,4,0,H,16,6,8,2,7,9,10,2,0,0,0,0
+18-19,19,26,12,18,Manchester United,Huddersfield Town,3,1,H,16,10,10,2,9,13,5,3,1,1,0,0
+18-19,19,26,12,18,Tottenham Hotspur,AFC Bournemouth,5,0,H,10,14,7,4,4,8,3,4,2,1,0,0
+18-19,19,26,12,18,Watford FC,Chelsea FC,1,2,A,10,10,2,4,15,5,3,4,1,0,0,0
+18-19,19,27,12,18,Southampton FC,West Ham United,1,2,A,11,16,5,5,10,3,4,5,2,0,0,0
+18-19,20,29,12,18,Brighton & Hove Albion,Everton FC,1,0,H,11,13,3,4,10,11,6,6,0,2,0,0
+18-19,20,29,12,18,Fulham FC,Huddersfield Town,1,0,H,14,9,5,5,12,10,4,3,3,1,0,0
+18-19,20,29,12,18,Leicester City,Cardiff City,0,1,A,16,12,7,3,14,16,10,4,0,2,0,0
+18-19,20,29,12,18,Liverpool FC,Arsenal FC,5,1,H,15,8,10,2,8,13,5,3,1,2,0,0
+18-19,20,29,12,18,Tottenham Hotspur,Wolverhampton Wanderers,1,3,A,10,11,3,4,7,7,6,7,3,2,0,0
+18-19,20,29,12,18,Watford FC,Newcastle United,1,1,D,12,8,5,2,17,16,3,6,1,2,0,0
+18-19,20,30,12,18,Burnley FC,West Ham United,2,0,H,17,11,5,4,15,11,5,5,1,4,0,0
+18-19,20,30,12,18,Crystal Palace,Chelsea FC,0,1,A,4,12,0,4,11,8,3,4,0,1,0,0
+18-19,20,30,12,18,Manchester United,AFC Bournemouth,4,1,H,11,7,8,3,10,7,4,5,2,0,1,0
+18-19,20,30,12,18,Southampton FC,Manchester City,1,3,A,5,14,4,6,11,10,3,8,2,3,1,0
+18-19,21,1,1,19,Arsenal FC,Fulham FC,4,1,H,16,9,9,4,7,12,8,3,0,1,0,0
+18-19,21,1,1,19,Cardiff City,Tottenham Hotspur,0,3,A,6,13,3,4,6,6,5,3,1,0,0,0
+18-19,21,1,1,19,Everton FC,Leicester City,0,1,A,17,8,2,4,5,8,6,5,3,1,0,0
+18-19,21,2,1,19,AFC Bournemouth,Watford FC,3,3,D,25,11,12,3,9,15,4,2,1,4,0,0
+18-19,21,2,1,19,Chelsea FC,Southampton FC,0,0,D,17,6,6,2,8,11,7,2,1,2,0,0
+18-19,21,2,1,19,Huddersfield Town,Burnley FC,1,2,A,9,16,2,8,11,9,5,2,0,4,1,1
+18-19,21,2,1,19,Newcastle United,Manchester United,0,2,A,14,16,3,7,10,9,1,2,1,2,0,0
+18-19,21,2,1,19,West Ham United,Brighton & Hove Albion,2,2,D,13,13,6,6,9,11,1,5,0,1,0,0
+18-19,21,2,1,19,Wolverhampton Wanderers,Crystal Palace,0,2,A,9,17,1,4,9,7,3,10,4,1,0,0
+18-19,21,3,1,19,Manchester City,Liverpool FC,2,1,H,9,7,4,5,12,7,2,1,4,2,0,0
+18-19,22,12,1,19,Brighton & Hove Albion,Liverpool FC,0,1,A,7,10,0,3,15,5,2,7,0,0,0,0
+18-19,22,12,1,19,Burnley FC,Fulham FC,2,1,H,11,12,0,4,5,9,2,6,1,2,0,0
+18-19,22,12,1,19,Cardiff City,Huddersfield Town,0,0,D,3,14,0,2,12,14,3,10,3,1,0,0
+18-19,22,12,1,19,Chelsea FC,Newcastle United,2,1,H,10,9,6,2,6,13,8,5,1,1,0,0
+18-19,22,12,1,19,Crystal Palace,Watford FC,1,2,A,15,16,6,2,11,11,7,7,1,4,0,0
+18-19,22,12,1,19,Leicester City,Southampton FC,1,2,A,23,8,6,3,7,9,10,3,2,1,0,1
+18-19,22,12,1,19,West Ham United,Arsenal FC,1,0,H,11,11,3,2,7,10,7,3,0,2,0,0
+18-19,22,13,1,19,Everton FC,AFC Bournemouth,2,0,H,15,16,3,7,17,8,5,9,5,0,0,0
+18-19,22,13,1,19,Tottenham Hotspur,Manchester United,0,1,A,21,13,11,8,8,8,7,4,1,2,0,0
+18-19,22,14,1,19,Manchester City,Wolverhampton Wanderers,3,0,H,24,3,9,0,6,3,12,1,1,0,0,1
+18-19,23,19,1,19,Arsenal FC,Chelsea FC,2,0,H,13,13,5,1,13,15,5,6,0,2,0,0
+18-19,23,19,1,19,AFC Bournemouth,West Ham United,2,0,H,10,9,4,1,6,10,2,3,0,1,0,0
+18-19,23,19,1,19,Liverpool FC,Crystal Palace,4,3,H,19,9,9,3,6,8,8,3,0,1,1,0
+18-19,23,19,1,19,Manchester United,Brighton & Hove Albion,2,1,H,20,7,5,3,11,11,6,5,1,0,0,0
+18-19,23,19,1,19,Newcastle United,Cardiff City,3,0,H,16,9,6,1,11,6,7,10,0,1,0,0
+18-19,23,19,1,19,Southampton FC,Everton FC,2,1,H,11,7,4,2,12,11,7,6,2,1,0,0
+18-19,23,19,1,19,Watford FC,Burnley FC,0,0,D,9,11,4,3,14,9,1,7,1,2,0,0
+18-19,23,19,1,19,Wolverhampton Wanderers,Leicester City,4,3,H,12,16,7,6,11,10,5,9,3,3,0,0
+18-19,23,20,1,19,Fulham FC,Tottenham Hotspur,1,2,A,12,14,4,5,10,8,7,10,2,3,0,0
+18-19,23,20,1,19,Huddersfield Town,Manchester City,0,3,A,5,12,2,4,10,9,1,4,2,2,0,0
+18-19,24,29,1,19,Arsenal FC,Cardiff City,2,1,H,15,19,4,2,14,12,4,7,3,3,0,0
+18-19,24,29,1,19,Fulham FC,Brighton & Hove Albion,4,2,H,24,15,7,6,10,5,10,1,2,3,0,0
+18-19,24,29,1,19,Huddersfield Town,Everton FC,0,1,A,10,10,2,5,13,10,3,4,1,4,0,1
+18-19,24,29,1,19,Manchester United,Burnley FC,2,2,D,28,6,9,4,10,9,11,3,1,3,0,0
+18-19,24,29,1,19,Newcastle United,Manchester City,2,1,H,6,12,2,4,9,7,1,8,2,3,0,0
+18-19,24,29,1,19,Wolverhampton Wanderers,West Ham United,3,0,H,20,4,9,0,8,10,5,1,4,1,0,0
+18-19,24,30,1,19,AFC Bournemouth,Chelsea FC,4,0,H,12,11,7,7,8,6,3,7,1,0,0,0
+18-19,24,30,1,19,Liverpool FC,Leicester City,1,1,D,10,5,3,2,13,6,7,1,1,3,0,0
+18-19,24,30,1,19,Southampton FC,Crystal Palace,1,1,D,13,15,4,3,11,8,3,8,2,2,0,1
+18-19,24,30,1,19,Tottenham Hotspur,Watford FC,2,1,H,17,9,3,1,6,9,9,5,0,4,0,0
+18-19,25,2,2,19,Brighton & Hove Albion,Watford FC,0,0,D,21,5,4,0,15,10,7,0,1,0,0,0
+18-19,25,2,2,19,Burnley FC,Southampton FC,1,1,D,15,10,6,4,10,9,4,2,3,1,0,0
+18-19,25,2,2,19,Cardiff City,AFC Bournemouth,2,0,H,12,9,5,2,17,14,6,7,1,2,0,0
+18-19,25,2,2,19,Chelsea FC,Huddersfield Town,5,0,H,23,5,7,2,8,5,11,2,0,0,0,0
+18-19,25,2,2,19,Crystal Palace,Fulham FC,2,0,H,17,8,6,0,9,12,11,1,2,3,0,0
+18-19,25,2,2,19,Everton FC,Wolverhampton Wanderers,1,3,A,13,8,4,4,12,14,3,1,3,1,0,0
+18-19,25,2,2,19,Tottenham Hotspur,Newcastle United,1,0,H,21,8,4,2,6,6,6,3,0,1,0,0
+18-19,25,3,2,19,Leicester City,Manchester United,0,1,A,17,10,6,6,14,9,7,2,4,4,0,0
+18-19,25,3,2,19,Manchester City,Arsenal FC,3,1,H,19,4,12,2,11,8,4,2,1,1,0,0
+18-19,25,4,2,19,West Ham United,Liverpool FC,1,1,D,13,11,2,6,9,11,2,5,1,1,0,0
+18-19,27,6,2,19,Everton FC,Manchester City,0,2,A,4,15,1,4,12,6,5,6,1,1,0,0
+18-19,26,9,2,19,Brighton & Hove Albion,Burnley FC,1,3,A,16,9,6,5,8,7,9,3,1,1,0,0
+18-19,26,9,2,19,Crystal Palace,West Ham United,1,1,D,25,6,5,4,12,9,10,4,3,0,0,0
+18-19,26,9,2,19,Fulham FC,Manchester United,0,3,A,15,15,3,7,14,9,5,4,3,2,0,0
+18-19,26,9,2,19,Huddersfield Town,Arsenal FC,1,2,A,15,9,6,4,17,12,5,0,3,2,0,0
+18-19,26,9,2,19,Liverpool FC,AFC Bournemouth,3,0,H,20,12,9,2,14,6,8,5,2,2,0,0
+18-19,26,9,2,19,Southampton FC,Cardiff City,1,2,A,14,6,7,3,15,12,8,2,3,3,0,0
+18-19,26,9,2,19,Watford FC,Everton FC,1,0,H,7,9,2,4,21,10,8,2,2,0,0,1
+18-19,26,10,2,19,Manchester City,Chelsea FC,6,0,H,15,12,9,4,9,13,2,2,1,2,0,0
+18-19,26,10,2,19,Tottenham Hotspur,Leicester City,3,1,H,12,20,5,9,11,4,2,9,3,1,0,0
+18-19,26,11,2,19,Wolverhampton Wanderers,Newcastle United,1,1,D,22,9,6,3,7,9,13,1,1,3,0,0
+18-19,27,22,2,19,Cardiff City,Watford FC,1,5,A,15,12,6,7,10,11,3,3,1,2,0,0
+18-19,27,22,2,19,West Ham United,Fulham FC,3,1,H,21,8,7,5,11,11,12,0,1,1,0,0
+18-19,27,23,2,19,AFC Bournemouth,Wolverhampton Wanderers,1,1,D,10,10,3,2,10,15,9,8,4,5,0,0
+18-19,27,23,2,19,Burnley FC,Tottenham Hotspur,2,1,H,10,17,4,6,9,12,7,6,1,3,0,0
+18-19,27,23,2,19,Leicester City,Crystal Palace,1,4,A,27,7,5,5,7,14,8,3,2,1,0,0
+18-19,27,23,2,19,Newcastle United,Huddersfield Town,2,0,H,29,3,12,1,11,7,12,0,2,0,0,1
+18-19,27,24,2,19,Arsenal FC,Southampton FC,2,0,H,12,10,4,4,7,14,6,4,0,0,0,0
+18-19,27,24,2,19,Manchester United,Liverpool FC,0,0,D,6,7,3,1,15,17,3,7,1,3,0,0
+18-19,28,26,2,19,Cardiff City,Everton FC,0,3,A,6,12,0,4,12,12,3,4,3,1,0,0
+18-19,28,26,2,19,Huddersfield Town,Wolverhampton Wanderers,1,0,H,15,7,3,0,10,10,3,5,2,2,0,0
+18-19,28,26,2,19,Leicester City,Brighton & Hove Albion,2,1,H,19,15,3,3,6,4,4,8,1,1,0,0
+18-19,28,26,2,19,Newcastle United,Burnley FC,2,0,H,12,12,3,2,8,8,4,7,1,3,0,0
+18-19,28,27,2,19,Arsenal FC,AFC Bournemouth,5,1,H,16,13,6,5,11,9,9,4,2,2,0,0
+18-19,28,27,2,19,Chelsea FC,Tottenham Hotspur,2,0,H,11,9,1,0,7,14,2,2,1,1,0,0
+18-19,28,27,2,19,Crystal Palace,Manchester United,1,3,A,17,13,2,4,8,9,5,6,2,3,0,0
+18-19,28,27,2,19,Liverpool FC,Watford FC,5,0,H,19,5,10,3,5,7,6,4,0,2,0,0
+18-19,28,27,2,19,Manchester City,West Ham United,1,0,H,20,2,7,1,2,6,12,2,0,2,0,0
+18-19,28,27,2,19,Southampton FC,Fulham FC,2,0,H,14,14,4,4,15,13,7,4,0,1,0,0
+18-19,29,2,3,19,AFC Bournemouth,Manchester City,0,1,A,0,23,0,7,7,7,0,14,1,2,0,0
+18-19,29,2,3,19,Brighton & Hove Albion,Huddersfield Town,1,0,H,13,6,4,4,11,6,6,3,2,2,0,0
+18-19,29,2,3,19,Burnley FC,Crystal Palace,1,3,A,18,10,4,4,9,9,8,5,1,2,0,0
+18-19,29,2,3,19,Manchester United,Southampton FC,3,2,H,16,6,6,3,7,10,9,7,2,1,0,0
+18-19,29,2,3,19,Tottenham Hotspur,Arsenal FC,1,1,D,10,9,3,4,15,14,3,4,3,2,0,1
+18-19,29,2,3,19,West Ham United,Newcastle United,2,0,H,10,17,4,2,8,14,1,6,3,4,0,0
+18-19,29,2,3,19,Wolverhampton Wanderers,Cardiff City,2,0,H,13,12,6,4,11,6,7,8,1,2,0,0
+18-19,29,3,3,19,Everton FC,Liverpool FC,0,0,D,7,10,3,3,12,10,3,7,1,2,0,0
+18-19,29,3,3,19,Fulham FC,Chelsea FC,1,2,A,12,20,5,7,11,10,5,4,2,1,0,0
+18-19,29,3,3,19,Watford FC,Leicester City,2,1,H,6,14,5,2,15,12,1,5,5,1,0,0
+18-19,30,9,3,19,Cardiff City,West Ham United,2,0,H,16,9,7,2,7,12,7,5,2,1,0,0
+18-19,30,9,3,19,Crystal Palace,Brighton & Hove Albion,1,2,A,15,4,3,3,8,18,8,0,1,5,0,0
+18-19,30,9,3,19,Huddersfield Town,AFC Bournemouth,0,2,A,8,8,1,5,14,9,6,5,3,1,0,0
+18-19,30,9,3,19,Leicester City,Fulham FC,3,1,H,18,6,8,3,9,13,6,5,0,2,0,0
+18-19,30,9,3,19,Manchester City,Watford FC,3,1,H,19,2,9,1,11,7,9,1,1,1,0,0
+18-19,30,9,3,19,Newcastle United,Everton FC,3,2,H,19,7,7,3,13,10,8,2,3,1,0,0
+18-19,30,9,3,19,Southampton FC,Tottenham Hotspur,2,1,H,12,16,4,5,16,9,1,10,4,2,0,0
+18-19,30,10,3,19,Arsenal FC,Manchester United,2,0,H,14,14,3,4,12,18,5,2,2,2,0,0
+18-19,30,10,3,19,Chelsea FC,Wolverhampton Wanderers,1,1,D,22,2,6,1,8,14,13,0,1,4,0,0
+18-19,30,10,3,19,Liverpool FC,Burnley FC,4,2,H,23,3,5,2,4,7,7,3,2,0,0,0
+18-19,31,16,3,19,AFC Bournemouth,Newcastle United,2,2,D,10,12,3,4,9,12,6,6,3,2,0,0
+18-19,31,16,3,19,Burnley FC,Leicester City,1,2,A,13,9,2,4,9,10,9,3,1,1,0,1
+18-19,31,16,3,19,West Ham United,Huddersfield Town,4,3,H,16,15,5,5,7,15,5,8,0,2,0,0
+18-19,31,17,3,19,Everton FC,Chelsea FC,2,0,H,15,16,8,5,17,9,3,4,1,2,0,0
+18-19,31,17,3,19,Fulham FC,Liverpool FC,1,2,A,7,16,2,6,11,7,1,10,2,1,0,0
+18-19,32,30,3,19,Brighton & Hove Albion,Southampton FC,0,1,A,14,8,1,2,8,10,6,5,1,2,0,0
+18-19,32,30,3,19,Burnley FC,Wolverhampton Wanderers,2,0,H,5,8,1,1,12,10,1,5,1,1,0,0
+18-19,32,30,3,19,Crystal Palace,Huddersfield Town,2,0,H,19,15,5,5,10,7,5,5,0,0,0,0
+18-19,32,30,3,19,Fulham FC,Manchester City,0,2,A,5,24,0,7,4,12,0,11,2,0,0,0
+18-19,32,30,3,19,Leicester City,AFC Bournemouth,2,0,H,18,8,4,2,6,12,6,1,0,2,0,0
+18-19,32,30,3,19,Manchester United,Watford FC,2,1,H,8,20,5,8,14,9,3,5,1,2,0,0
+18-19,32,30,3,19,West Ham United,Everton FC,0,2,A,3,17,1,9,7,14,4,9,1,1,0,0
+18-19,32,31,3,19,Cardiff City,Chelsea FC,1,2,A,8,21,3,3,8,14,2,7,2,3,0,0
+18-19,32,31,3,19,Liverpool FC,Tottenham Hotspur,2,1,H,14,11,3,2,5,8,10,3,0,1,0,0
+18-19,32,1,4,19,Arsenal FC,Newcastle United,2,0,H,7,3,4,1,11,10,6,2,2,0,0,0
+18-19,33,2,4,19,Watford FC,Fulham FC,4,1,H,15,17,7,7,12,5,6,4,3,2,0,0
+18-19,33,2,4,19,Wolverhampton Wanderers,Manchester United,2,1,H,9,18,2,4,5,11,3,5,1,2,0,1
+18-19,27,3,4,19,Chelsea FC,Brighton & Hove Albion,3,0,H,17,3,4,1,5,9,7,1,0,0,0,0
+18-19,33,3,4,19,Manchester City,Cardiff City,2,0,H,27,4,11,1,3,17,7,4,0,3,0,0
+18-19,31,3,4,19,Tottenham Hotspur,Crystal Palace,2,0,H,26,5,10,1,8,5,8,2,1,0,0,0
+18-19,33,5,4,19,Southampton FC,Liverpool FC,1,3,A,11,17,1,5,8,7,7,5,2,4,0,0
+18-19,33,6,4,19,AFC Bournemouth,Burnley FC,1,3,A,10,11,2,3,12,16,3,6,2,3,0,0
+18-19,33,6,4,19,Huddersfield Town,Leicester City,1,4,A,10,18,4,9,13,11,8,5,3,0,0,0
+18-19,33,6,4,19,Newcastle United,Crystal Palace,0,1,A,18,3,5,1,12,13,9,4,1,2,0,0
+18-19,33,7,4,19,Everton FC,Arsenal FC,1,0,H,23,7,6,2,8,9,9,6,1,4,0,0
+18-19,33,8,4,19,Chelsea FC,West Ham United,2,0,H,16,9,7,2,8,7,7,4,2,1,0,0
+18-19,34,12,4,19,Leicester City,Newcastle United,0,1,A,12,11,5,5,6,10,2,3,2,3,0,0
+18-19,34,13,4,19,Brighton & Hove Albion,AFC Bournemouth,0,5,A,8,14,1,7,10,6,4,1,2,4,1,0
+18-19,34,13,4,19,Burnley FC,Cardiff City,2,0,H,14,14,7,2,7,10,8,4,2,3,0,0
+18-19,34,13,4,19,Fulham FC,Everton FC,2,0,H,12,8,5,1,8,10,7,3,2,1,0,0
+18-19,34,13,4,19,Manchester United,West Ham United,2,1,H,14,18,4,4,14,5,3,11,1,1,0,0
+18-19,34,13,4,19,Southampton FC,Wolverhampton Wanderers,3,1,H,13,17,6,2,13,8,4,9,1,3,0,0
+18-19,34,13,4,19,Tottenham Hotspur,Huddersfield Town,4,0,H,22,7,5,1,10,12,4,2,2,2,0,0
+18-19,34,14,4,19,Crystal Palace,Manchester City,1,3,A,7,20,3,6,5,11,2,9,0,0,0,0
+18-19,34,14,4,19,Liverpool FC,Chelsea FC,2,0,H,15,6,7,3,5,9,9,2,0,1,0,0
+18-19,34,15,4,19,Watford FC,Arsenal FC,0,1,A,11,19,3,6,12,8,6,4,2,0,1,0
+18-19,31,16,4,19,Brighton & Hove Albion,Cardiff City,0,2,A,14,10,2,3,11,13,5,4,0,1,0,0
+18-19,35,20,4,19,AFC Bournemouth,Fulham FC,0,1,A,15,17,5,5,11,18,3,7,1,3,0,0
+18-19,35,20,4,19,Huddersfield Town,Watford FC,1,2,A,13,11,3,6,15,9,2,2,2,2,0,0
+18-19,35,20,4,19,Manchester City,Tottenham Hotspur,1,0,H,15,10,4,4,11,11,4,4,1,2,0,0
+18-19,35,20,4,19,Newcastle United,Southampton FC,3,1,H,15,15,6,3,5,11,4,11,0,2,0,0
+18-19,35,20,4,19,West Ham United,Leicester City,2,2,D,11,11,3,5,8,9,6,8,2,0,0,0
+18-19,35,20,4,19,Wolverhampton Wanderers,Brighton & Hove Albion,0,0,D,22,5,5,0,0,8,14,1,0,1,0,0
+18-19,35,21,4,19,Arsenal FC,Crystal Palace,2,3,A,12,16,5,7,15,12,8,3,4,1,0,0
+18-19,35,21,4,19,Cardiff City,Liverpool FC,0,2,A,7,17,2,6,6,5,5,10,1,1,0,0
+18-19,35,21,4,19,Everton FC,Manchester United,4,0,H,15,7,8,1,11,7,10,2,1,1,0,0
+18-19,35,22,4,19,Chelsea FC,Burnley FC,2,2,D,22,6,9,3,9,4,10,1,2,1,0,0
+18-19,33,23,4,19,Tottenham Hotspur,Brighton & Hove Albion,1,0,H,29,6,5,1,7,13,6,3,1,2,0,0
+18-19,31,23,4,19,Watford FC,Southampton FC,1,1,D,15,8,4,4,10,14,3,4,5,2,0,0
+18-19,31,24,4,19,Manchester United,Manchester City,0,2,A,12,8,1,5,10,10,1,1,2,2,0,0
+18-19,31,24,4,19,Wolverhampton Wanderers,Arsenal FC,3,1,H,11,11,3,1,12,9,5,5,2,3,0,0
+18-19,36,26,4,19,Liverpool FC,Huddersfield Town,5,0,H,21,5,7,1,5,14,4,4,0,0,0,0
+18-19,36,27,4,19,Brighton & Hove Albion,Newcastle United,1,1,D,9,9,2,1,7,10,7,4,2,3,0,0
+18-19,36,27,4,19,Crystal Palace,Everton FC,0,0,D,8,22,0,3,9,15,5,10,2,0,0,0
+18-19,36,27,4,19,Fulham FC,Cardiff City,1,0,H,8,13,2,8,10,8,10,3,0,0,0,0
+18-19,36,27,4,19,Southampton FC,AFC Bournemouth,3,3,D,22,9,7,5,8,9,9,3,2,1,0,0
+18-19,36,27,4,19,Tottenham Hotspur,West Ham United,0,1,A,14,16,4,7,3,8,2,7,0,2,0,0
+18-19,36,27,4,19,Watford FC,Wolverhampton Wanderers,1,2,A,10,11,1,4,10,11,4,5,3,2,0,0
+18-19,36,28,4,19,Burnley FC,Manchester City,0,1,A,2,25,0,7,5,7,0,6,1,1,0,0
+18-19,36,28,4,19,Leicester City,Arsenal FC,3,0,H,24,6,12,1,13,13,8,6,3,1,0,1
+18-19,36,28,4,19,Manchester United,Chelsea FC,1,1,D,7,16,5,3,9,14,6,6,3,2,0,0
+18-19,37,3,5,19,Everton FC,Burnley FC,2,0,H,20,5,6,1,8,9,8,1,0,2,0,0
+18-19,37,4,5,19,AFC Bournemouth,Tottenham Hotspur,1,0,H,20,11,6,5,11,12,10,6,1,5,0,2
+18-19,37,4,5,19,Cardiff City,Crystal Palace,2,3,A,18,21,8,7,14,11,10,5,0,0,0,0
+18-19,37,4,5,19,Newcastle United,Liverpool FC,2,3,A,14,11,7,4,10,4,2,3,1,1,0,0
+18-19,37,4,5,19,West Ham United,Southampton FC,3,0,H,17,11,6,1,2,11,2,7,1,1,0,0
+18-19,37,4,5,19,Wolverhampton Wanderers,Fulham FC,1,0,H,19,6,6,2,10,15,7,1,1,3,0,0
+18-19,37,5,5,19,Arsenal FC,Brighton & Hove Albion,1,1,D,20,11,8,5,9,14,16,3,5,2,0,0
+18-19,37,5,5,19,Chelsea FC,Watford FC,3,0,H,19,15,9,3,6,12,6,6,0,1,0,0
+18-19,37,5,5,19,Huddersfield Town,Manchester United,1,1,D,7,23,3,7,10,10,3,7,1,1,0,0
+18-19,37,6,5,19,Manchester City,Leicester City,1,0,H,19,7,5,2,12,5,11,0,3,2,0,0
+18-19,38,12,5,19,Brighton & Hove Albion,Manchester City,1,4,A,6,20,2,9,12,8,2,6,0,0,0,0
+18-19,38,12,5,19,Burnley FC,Arsenal FC,1,3,A,14,17,5,6,11,3,4,5,5,1,0,0
+18-19,38,12,5,19,Crystal Palace,AFC Bournemouth,5,3,H,17,16,8,8,11,8,4,4,3,0,0,0
+18-19,38,12,5,19,Fulham FC,Newcastle United,0,4,A,16,13,2,6,6,8,5,5,1,0,0,0
+18-19,38,12,5,19,Leicester City,Chelsea FC,0,0,D,9,14,3,4,9,8,4,5,0,1,0,0
+18-19,38,12,5,19,Liverpool FC,Wolverhampton Wanderers,2,0,H,13,7,5,2,3,11,4,1,0,2,0,0
+18-19,38,12,5,19,Manchester United,Cardiff City,0,2,A,26,13,10,4,9,6,11,2,3,3,0,0
+18-19,38,12,5,19,Southampton FC,Huddersfield Town,1,1,D,10,10,3,3,8,6,4,3,0,1,0,0
+18-19,38,12,5,19,Tottenham Hotspur,Everton FC,2,2,D,11,17,3,9,10,13,7,4,0,2,0,0
+18-19,38,12,5,19,Watford FC,West Ham United,1,4,A,17,16,8,9,10,10,7,2,1,0,1,0

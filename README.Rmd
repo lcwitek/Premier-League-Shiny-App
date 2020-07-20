@@ -1,0 +1,31 @@
+---
+title: "Final Project"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE)
+library(dplyr)
+library(tidyverse)
+```
+
+```{r}
+releg <- read_csv("Relegations.csv")
+income <- read_csv("Income_PL.csv")
+data <- read_csv("Soccer Data.csv")
+releg
+
+releg2 <- releg %>% gather(Games, Amount, c("Wins", "Draws", "Loses"))
+
+
+## Create a graph for W/D/L per team per Season
+ggplot(releg2, aes(x = Team, label = `Final Ranking`)) +
+         geom_col(aes(y = Amount, fill = Games),position = "dodge") +
+         theme(axis.text.x = element_text(angle = 45)) +
+         geom_text(aes(y = `Final Ranking`)) +
+         scale_y_continuous(breaks = c(5, 10, 15, 20, 25, 30)) 
+    releg  
+
+
+```
+
