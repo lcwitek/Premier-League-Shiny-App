@@ -1,13 +1,11 @@
-#
-# This is the user-interface definition of a Shiny web application. You can
-# run the application by clicking 'Run App' above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
-
 library(shiny)
+library(shinydashboard)
+library(dplyr)
+library(tidyverse)
+library(ggplot2)
+library(RColorBrewer)
+library(knitr)
+library(shinydashboard)
 
 releg <- read_csv("..//Relegations.csv")
 income <- read_csv("..//Income_PL.csv")
@@ -16,32 +14,55 @@ releg2 <- releg %>% gather(Games, Amount, c("Wins", "Draws", "Loses"))
 releg2$Games <- factor(releg2$Games, c("Wins", "Loses", "Draws"))
 
 # Define UI for application that draws a histogram
-shinyUI(fluidPage(
+dashboardPage(skin = "green",
 
     # Application title
-    titlePanel("Premier League Data"),
+    dashboardHeader(title = "Premier League Data"),
+    
+    dashboardSidebar(
+        sidebarMenu(
+            menuItem("Information", tabName = "info", icon = icon("info")),
+            menuItem("Data Exploration", tabName = "dataexpl", icon = icon("chart-bar")),
+            menuItem("PCA", tabName = "pca", icon = icon("chart-area")),
+            menuItem("Modeling", tabName = "model", icon = icon("chart-line")),
+            menuItem("Data", tabName = "data", icon = icon("database"))
+        )
+    ),
 
     # Sidebar with a slider input for number of bins
-    sidebarLayout(
-        sidebarPanel(
-            selectizeInput("Season", "Season", selected = "13-14", choices = levels(as.factor(releg2$Season))),
-            # Providing the Champion
-            checkboxInput("champion", h4("Champion", style = "color:green;")),
+    dashboardBody(
+        tabItems(
+            tabItem(tabName = "info", 
+                    h4("Information")),
+            
+            tabItem(tabName = "dataexpl",
+                fluidPage(
+                    box(selectizeInput("Season", "Season", selected = "13-14", choices = levels(as.factor(releg2$Season))),
+                # Providing the Champion
+                checkboxInput("champion", h4("Champion", style = "color:green;")),
         
-        # Providing the Teams that are Relegated
-        checkboxInput("relegated", h4("Relegated", style = "color:red;"))
-        
-        ),
+                # Providing the Teams that are Relegated
+                checkboxInput("relegated", h4("Relegated", style = "color:red;")),
 
-        # Show a plot of the generated distribution
-        mainPanel(
-            strong(textOutput("info")),
-            br(),
-            strong(textOutput("rele")),
-            br(),
-            plotOutput("distPlot"),
-            br(),
-            tableOutput("table")
+                # Show a plot of the generated distribution
+                strong(textOutput("info")),
+                br(),
+                strong(textOutput("rele")),
+                br(),
+                plotOutput("distPlot")),
+                br(),
+                box(tableOutput("table")))),
+            
+            tabItem(tabName = "pca", 
+                    h4("Information")),
+            
+            tabItem(tabName = "model", 
+                    h4("Information")),
+            
+            tabItem(tabName = "data", 
+                    h4("Information"))
+                
+                )
+             )
         )
-    )
-))
+    
