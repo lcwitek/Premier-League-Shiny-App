@@ -5,6 +5,7 @@ library(tidyverse)
 library(ggplot2)
 library(RColorBrewer)
 library(knitr)
+library(plotly)
 
 releg <- read_csv("..//Relegations.csv")
 income <- read_csv("..//Income_PL.csv")
@@ -15,61 +16,63 @@ releg2$Games <- factor(releg2$Games, c("Wins", "Loses", "Draws"))
 # Define server logic required to draw a histogram
 shinyServer(function(input, output, session) {
 
-    getData <- reactive({
-        releg2 <- releg2 %>% filter(Season == input$Season)
-    })
-    
-    getData2 <- reactive({
-        releg3 <- releg2 %>% filter(Season == input$Season, `Final Ranking` == 1)
-    })
-    
-    getData3 <- reactive({
-        releg4 <- releg2 %>% filter(Season == input$Season, `Relegated - Post` == "Yes")
-    })
     getData4 <- reactive({
-        releg5 <- releg %>% filter(Season == input$Season) %>% select(`Final Ranking`, Team, Wins, Loses, Draws)
+
     })
 
-    output$distPlot <- renderPlot({
+    output$posChart <- renderPlotly({
 
         #get filtered data
-        newData <- getData()
+        releg2 <- releg2 %>% filter(Season == input$Season)
         
         #create plot
-        ggplot(newData, aes(x = Team)) +
+        finalChart <- ggplot(releg2, aes(x = Team, label = `Final Ranking`)) +
             geom_col(aes(y = Amount, fill = Games),position = "dodge") +
             theme(axis.text.x = element_text(angle = 45)) +
             scale_y_continuous(breaks = c(5, 10, 15, 20, 25, 30)) +
             scale_fill_brewer(palette="Dark2") +
-            labs(title = paste0("Wins, Loses, and Draws for the ", input$Season, " Season"), x = "Teams", y = "Number of Wins, Loses, and Draws")
-    })
+            labs(title = paste0("Wins, Loses, and Draws for the ", input$Season, " Season"), 
+                 x = "Teams", y = "Number of Wins, Loses, and Draws")
+        
+        ggplotly(finalChart)
+        })
     
-    # Output from Champion Check box
-    output$info <- renderText({
-        # Get filtered Data
-        newData2 <- getData2()
-        if(input$champion)
-        paste("The Champion of the", input$Season, "Premier League Season is ", newData2$Team[1], delim = " ")
-    })
+        # Output from Champion Check box
+        output$info <- renderText({
+            # Get filtered Data
+            releg3 <- releg2 %>% filter(Season == input$Season, `Final Ranking` == 1)
+        
+            #Champion Text
+            if(input$champion)
+            paste("The Champion of the", input$Season, "Premier League Season is ",
+                  releg3$Team[1], delim = " ")
+        })
     
-    #Output from Relegation Check box
-    output$rele <- renderText({
-        # Get filtered Data
-        newData3 <- getData3()
-        if(input$relegated)
-            paste("The teams that will be relegated are", newData3$Team[1], ",", newData3$Team[2], ", and", newData3$Team[3], delim = " ")
-    })
+        # Output from Relegation Check box
+        output$rele <- renderText({
+                
+            # Get filtered Data
+            releg4 <- releg2 %>% filter(Season == input$Season, `Relegated - Post` == "Yes")
+            
+            # Relegation Text
+            if(input$relegated)
+            paste("The teams that will be relegated are", releg4$Team[1], ",", releg4$Team[2], 
+                  ", and", releg4$Team[3], delim = " ")
+        })
 
-    # Output for Table with Final Rankings
-    output$table <- renderTable({
-        # Get filtered Data
-        newData4 <- getData4()
-        newData4$`Final Ranking` <- as.integer(newData4$`Final Ranking`)
-        newData4$Wins <- as.integer(newData4$Wins)
-        newData4$Loses <- as.integer(newData4$Loses)
-        newData4$Draws <- as.integer(newData4$Draws)
-        newData4 <- unique(newData4)
-        newData4
-    })
+        # Output for Table with Final Rankings
+        output$table <- renderTable({
+            # Get filtered Data
+            releg5 <- releg %>% filter(Season == input$Season) %>% 
+                select(`Final Ranking`, Team, Wins, Loses, Draws)
+            
+            # Table Output for Each Season
+            releg5$`Final Ranking` <- as.integer(releg5$`Final Ranking`)
+            releg5$Wins <- as.integer(releg5$Wins)
+            releg5$Loses <- as.integer(releg5$Loses)
+            releg5$Draws <- as.integer(releg5$Draws)
+            releg5 <- unique(releg5)
+            releg5
+        })
     
 })

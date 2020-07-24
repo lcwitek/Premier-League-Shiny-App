@@ -6,6 +6,7 @@ library(ggplot2)
 library(RColorBrewer)
 library(knitr)
 library(shinydashboard)
+library(plotly)
 
 releg <- read_csv("..//Relegations.csv")
 income <- read_csv("..//Income_PL.csv")
@@ -24,7 +25,8 @@ dashboardPage(skin = "green",
             menuItem("Information", tabName = "info", icon = icon("info")),
             menuItem("Data Exploration", tabName = "dataexpl", icon = icon("chart-bar")),
             menuItem("PCA", tabName = "pca", icon = icon("chart-area")),
-            menuItem("Modeling", tabName = "model", icon = icon("chart-line")),
+            menuItem("Modeling", tabName = "classtree", icon = icon("chart-line")),
+            menuItem("Modeling", tabName = "randomforest", icon = icon("chart-line")),
             menuItem("Data", tabName = "data", icon = icon("database"))
         )
     ),
@@ -37,7 +39,8 @@ dashboardPage(skin = "green",
             
             tabItem(tabName = "dataexpl",
                 fluidPage(
-                    box(selectizeInput("Season", "Season", selected = "13-14", choices = levels(as.factor(releg2$Season))),
+                    box(selectizeInput("Season", "Season", selected = "13-14", 
+                                       choices = levels(as.factor(releg2$Season))),
                 # Providing the Champion
                 checkboxInput("champion", h4("Champion", style = "color:green;")),
         
@@ -49,14 +52,17 @@ dashboardPage(skin = "green",
                 br(),
                 strong(textOutput("rele")),
                 br(),
-                plotOutput("distPlot")),
+                plotlyOutput("posChart")),
                 br(),
                 box(tableOutput("table")))),
             
             tabItem(tabName = "pca", 
                     h4("Information")),
             
-            tabItem(tabName = "model", 
+            tabItem(tabName = "classtree", 
+                    h4("Information")),
+            
+            tabItem(tabName = "randomforest", 
                     h4("Information")),
             
             tabItem(tabName = "data", 
