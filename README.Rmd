@@ -5,11 +5,9 @@ output: github_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE)
+
 library(dplyr)
 library(tidyverse)
-library(leaps)
-library(corrplot)
-library(lubridate)
 library(randomForest)
 library(knitr)
 library(caret)
@@ -20,10 +18,13 @@ library(splines)
 library(pls)
 library(boot)
 library(plotly)
-library(plyr)
 library(ggplot2)
 library(cluster)
 library(factoextra)
+library(grid)
+library(class)
+library(parallel)
+library(doParallel)
 ```
 
 # Data Exploration
@@ -53,6 +54,7 @@ data <- read_csv("Soccer Data.csv")
 
 # Removing clearly correlated data and/or unwanted predictors
 data2 <- data %>% select(-HTG, -ATG, -Date, -Day, -Month, -Year, -AY, -HY)
+data2
 
 #Setting up Predictors
 colPreds <- c("Matchday", "HomeTeam", "AwayTeam", "HS", 
@@ -74,7 +76,6 @@ model <- randomForest(xTrain, yTrain,
                       ntree = 500,
                       strata = yTrain, 
                       importance = TRUE)
-varImpPlot(model)
 
 imp <- as_tibble(importance(model, type = 2))
 imp <- cbind(colPreds, imp)
@@ -87,41 +88,13 @@ ggplot(imp, aes(x = reorder(Predictors, MeanDecreaseGini), y = MeanDecreaseGini)
        x = "Predictors", y = "Mean Decrease in Gini")
 ```
 
-```{r}
-# Check predictors and trim if needed
-set.seed(1234)
-
-ctrl <- rfeControl(functions = rfFuncs,
-                   method = "repeatedcv",
-                   number = 5,
-                   repeats = 1,
-                   verbose = FALSE)
-
-modelRfe <- rfe(xTrain, yTrain,
-                 sizes = c(3:15),
-                 rfeControl = ctrl)
-
-acc <- modelRfe$results[,1:2]
-
-
-ggplot(acc, aes(x = reorder(Variables, Accuracy), y = Accuracy)) +
-    geom_point(stat = "identity", color = "purple", size = 3) +
-    geom_text(aes(label = round(Accuracy, 4)), hjust=.50, vjust=1.25) +
-    coord_flip() +
-    labs(title = "Predictor Selection", 
-         x = "Number of Predictors", y = "Accuracy (Cross-Validation)")
-
-modelRfe$optVariables
-modelRfe$variables[,5:6]
-```
-
 ```{r, warning=FALSE}
 ## Running Random Forest
 
 set.seed(1234)
 
 ## Random Forest
-trctrl <- trainControl(method = "repeatedcv", number = 5, repeats = 1)
+trctrl <- trainControl(method = "repeatedcv", number = 5, repeats = 1, allowParallel = TRUE)
 
 model <- train(xTrain, yTrain,
                      method = "rf",
@@ -130,7 +103,6 @@ model <- train(xTrain, yTrain,
                      trControl = trctrl)
 
 plot(model$finalModel)
-
 
 rfPred <- predict(model, xTest)
 
@@ -171,50 +143,76 @@ overall <- overall %>% mutate(Correct = ifelse(yTest == rfPred, "Yes", "No")) %>
 overall
 ```
 
+
 # Modeling Part 1 - kNN
 ```{r}
 ## k Nearest Neighbors
 releg <- read_csv("Relegations.csv")
-
-releg <- releg %>% select(Wins, Draws, Loses, `Goal Difference`, `Relegated - Post`)
-
-releg <- clean_names(releg)
+releg3 <- releg %>% select(Wins, Draws, Loses, `Goal Difference`, `Relegated - Post`)
+releg3 <- clean_names(releg3)
 
 ##Train/Test data - 2013-2016 Seasons Train, 2016-2019 Season Test
-train <- releg[1:60,]
-test <- releg[61:120,]
+train <- releg3[1:60,]
+test <- releg3[61:120,]
 
 trainMat <- train %>% select(-relegated_post) %>% as.matrix()
 testMat <- test %>% select(-relegated_post) %>% as.matrix()
 trainY <- as.matrix(train$relegated_post)
 
-## Test out predictions
-predict(knnFit, newdata = data.frame(wins = 15, loses = 10, draws = 5, goal_difference = 8))
 
-## Picking the K value - max of 18 that shows both yes and no
-knnPred2 <- knn(trainMat, testMat, trainY, k = 18)
-table(knnPred2, test$relegated_post)
+## CHANGABLE - Picking the K value - max of 18 that shows both yes and no
+knnPred <- knn(trainMat, testMat, trainY, k = 9)
+tbl <- table(knnPred, test$relegated_post)
+tbl <- data.frame(tbl[,1:2])
+tbl <- tbl %>% rename(Predicted = knnPred, Actual = Var2, Frequency = Freq)
+tbl
 
 ## Accuracy
-mean(knnPred2 == test$relegated_post)
+mean(knnPred == test$relegated_post)
 
 ## Misclassification
-mean(knnPred2 != test$relegated_post)
+mean(knnPred != test$relegated_post)
+
+modelMatrix <- matrix(c(paste0(round(mean(knnPred == test$relegated_post)*100, 2), "%"), 
+         paste0(round(mean(knnPred != test$relegated_post)*100, 2), "%")), 
+         ncol = 2, nrow = 1,
+       dimnames = list(c("k-Nearest Neighbors"), 
+                       c("Accuracy", "Misclassification Rate")))
+modelMatrix
+## Set up Predictions for K = 9
+set.seed(1234)
+
+trctrl <- trainControl(method = "repeatedcv", number = 5, repeats = 1)
+
+knnFit <- train(relegated_post ~ ., data = train, method = "knn",
+                trControl = trctrl, 
+                tuneLength = 3
+                )
+
+
+
+## CHANGABLE - Test out predictions
+predKnn <- predict(knnFit, newdata = data.frame(wins = 15, loses = 10, draws = 5, goal_difference = 15))
+
+ifelse(predKnn == "No", "No", "Yes")
+
 ```
 
 # Graph KNN
 ```{r}
 # Create a dataframe to simplify charting
-plot.df = data.frame(test, predicted = knnPred2)
+plot.df <-  data.frame(test, predicted = knnPred)
 
 # Use ggplot
 # First use Convex hull to determine boundary points of each cluster
-plot.df1 = data.frame(x = plot.df$wins, 
+plot.df1 <-  data.frame(x = plot.df$wins, 
                       y = plot.df$loses, 
                       predicted = plot.df$predicted)
 
-find_hull = function(df) df[chull(df$x, df$y), ]
-boundary = ddply(plot.df1, .variables = "predicted", .fun = find_hull)
+find_hull <-  function(df) df[chull(df$x, df$y), ]
+
+boundary <-  plyr::ddply(plot.df1, .variables = "predicted", .fun = find_hull)
+
 
 gplot <- ggplot(plot.df, aes(wins, loses, color = predicted, fill = predicted)) + 
   geom_polygon(data = boundary, aes(x,y), alpha = 0.5) +
@@ -234,7 +232,6 @@ join <- releg %>% filter(Season == "13-14") %>% select(Club, `Final Ranking`, Wi
 
 join <- join %>% remove_rownames() %>% column_to_rownames(var = unique("Club"))
 
-
 join <- scale(join)
 
 distance <- get_dist(join)
@@ -250,6 +247,7 @@ fviz_cluster(k2, data = join) +
   ggtitle("k = 4")
 ```
 
+
 # Scroll Data
 ```{r}
 data <- read_csv("Soccer Data.csv")
@@ -257,6 +255,44 @@ data <- data %>% filter(Season == "13-14", HomeTeam == "Manchester United" | Awa
 data <- data %>% unite("FinalScore", HTG, ATG, sep = "-")
 data
 
+kable(data)
+
 ## Make a Key for the Data set Names 
 ```
+
+# Other
+```{r}
+releg <- read_csv("Relegations.csv")
+releg <- releg %>% rename(Club = Team) %>% mutate(RD = `Final Ranking` - EndJan) %>% select(Season, Club, RD, `Final Ranking`)
+
+income <- read_csv("Income_PL.csv")
+
+join <- full_join(income, releg, by = c("Season", "Club"))
+join <- join %>% filter(Season == "13-14", Transfer == "Winter") %>% select(Season, Club, `Final Ranking`, RD, Expenditure, Transfer) %>% arrange(`Final Ranking`)
+
+
+
+par(mar=c(5.1, 4.1, 2.5, 4))
+
+barplot(join$Expenditure ~ join$Club, xlab = "", ylab = "", las = 2, ylim = c(0,60), xaxt = "n", col = "red") 
+
+par(new = TRUE) 
+plot(join$`Final Ranking`,join$RD, type = "o", xaxt = "n", yaxt = "n", xlab = "", ylab = "", col = "blue", lwd = 2, pch = 15) 
+
+abline(h = 0, lty = 2, col = "blue") 
+
+text(x = 1:20,
+     y = par("usr")[3] - 0.50,
+     labels = join$Club,
+     xpd = NA, 
+     srt = 50, 
+     cex = 0.75, 
+     adj = .95) 
+
+axis(side = 4, at = pretty(range(join$RD))) 
+mtext("League Position +/-", side = 4, line = 2, cex = .90) 
+mtext("Transfer Spending (in Millions)", side = 2, line = 2.5, cex = .90) 
+mtext("Winter Transfer Expenditure", side = 3, line = 1)
+```
+
 
