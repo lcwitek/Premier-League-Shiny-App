@@ -29,17 +29,17 @@ ui <-  dashboardPage(skin = "green",
                           fluidPage(
                             # Logos
                             fluidRow(column(width = 6, 
-                                            includeMarkdown("..//PL-Logo.md")),
+                                            includeMarkdown("PL-Logo.md")),
                                      column(width = 6, 
-                                            includeMarkdown("..//pllogo2.md"))),
+                                            includeMarkdown("pllogo2.md"))),
                             # Data set Info
                             fluidRow(
                               box(width = 6,
                                   column(width = 12,
-                                         includeMarkdown("..//DataSets.md"))),
+                                         includeMarkdown("DataSets.md"))),
                               # App Abilities
                               box(width = 6,
-                                  column(width = 12, includeMarkdown("..//abilities.md")))))),
+                                  column(width = 12, includeMarkdown("abilities.md")))))),
                   
                   # Data Exploration
                   tabItem(tabName = "dataexpl",
