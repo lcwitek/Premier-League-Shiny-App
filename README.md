@@ -9,6 +9,6 @@ Final Project
 shiny::runGitHub("ST558-Final-Project", "lcwitek")
 ```
 
-#### Also available through shinyapps.io
+#### Also available through shinyapps.io:
 
 [ST558 Final Project](https://lcwitek.shinyapps.io/ST558-Final-Project/)
