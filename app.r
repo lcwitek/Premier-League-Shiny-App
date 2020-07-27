@@ -35,7 +35,7 @@ ui <-  dashboardPage(skin = "green",
                             fluidRow(
                                      box(width = 12, 
                                          h3(strong("About the Premier League")),
-                                         h5("The Premier League, also known as the English Premier League (EPL) is the top level of the English Footballl League System. Each season consists of 38 games with each club playing each other twice, once at their home stadium and once at the opponent's stadium. Teams are ranked by total points, goal difference, and goals scored. The Premier League has a system of promotion and relegation each season. The three lowest placed teams in the Premier League are relegated to the English Football League Championship (also known as just Championship). The Championship is one level below the premier league. The top two teams from the Championship are then promoted to to the Premier League with an additional team being promoted after a play-off between the third, fourth, fifth, and sixth placed clubs in the Championship. In total, the Premier League maintains 20 clubs every season."),
+                                         h5("The Premier League, also known as the English Premier League (EPL) is the top level of the English Football League System. Each season consists of 38 games with each club playing each other twice, once at their home stadium and once at the opponent's stadium. Teams are ranked by total points, goal difference, and goals scored. The Premier League has a system of promotion and relegation each season. The three lowest placed teams in the Premier League are relegated to the English Football League Championship (also known as just Championship). The Championship is one level below the premier league. The top two teams from the Championship are then promoted to to the Premier League with an additional team being promoted after a play-off between the third, fourth, fifth, and sixth placed clubs in the Championship. In total, the Premier League maintains 20 clubs every season."),
                                      h5("More information:", a("Premier League", href = "https://www.premierleague.com"))
                                      )),
                             # Data set Info
@@ -120,7 +120,9 @@ ui <-  dashboardPage(skin = "green",
                                 br(),
                                 # Accuracy and Misclass Table
                                 tableOutput("knnAcc")),
-                            box(h3(strong("Prediction, k = 9")),
+                            box(h3(strong("Prediction")),
+                                h6("This prediction algorithm only uses k = 9 and does not change with the slider input."),
+                                br(),
                                 h5("Input the amount of wins, losses, draws and goal difference and see if that team would be relegated. "),
                                 h6("Wins, losses, and draws should add up to 38. Goal difference has a range of (-60, 80)"),
                                 # Make Own Prediction
