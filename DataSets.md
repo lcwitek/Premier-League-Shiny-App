@@ -1,9 +1,6 @@
 
 ## Data sets
 
-For the most current data visit: [Premier
-League](https://www.premierleague.com)
-
 The following data sets contain data from the 2013-2014 Season up to the
 2018-2019 season and were used for the analysis completed on this app.
 
@@ -17,6 +14,9 @@ The data can be found at the following GitHub Page:
 [lcwitek](https://github.com/lcwitek/ST558-Final-Project.github.io)
 
 Relegations and Income PL have variable names that are straight-forward.
+However, please note that some data sets use club and some use team.
+Club and team are interchangeable words and will be used as such
+throughout the content.
 
 Below are the variables for Soccer Data
 

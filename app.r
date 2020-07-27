@@ -32,6 +32,12 @@ ui <-  dashboardPage(skin = "green",
                                             includeMarkdown("PL-Logo.md")),
                                      column(width = 6, 
                                             includeMarkdown("pllogo2.md"))),
+                            fluidRow(
+                                     box(width = 12, 
+                                         h3(strong("About the Premier League")),
+                                         h5("The Premier League, also known as the English Premier League (EPL) is the top level of the English Footballl League System. Each season consists of 38 games with each club playing each other twice, once at their home stadium and once at the opponents stadium. Teams are ranked by total points, goal difference, and goals scored. The Premier League has a system of promotion and relegation each season. The three lowest placed teams in the Premier League are relegated to the English Football League Championship (also know as just Championship). The Championship is one level below the premier league. The top two teams from the Championship are then promoted to to the Premier League with an additional team being promoted after a play-off between the third, fourth, fifth, and sixth placed clubs in the Championship. In total, the Premier League maintains 20 clubs every season."),
+                                     h5("More information:", a("Premier League", href = "https://www.premierleague.com"))
+                                     )),
                             # Data set Info
                             fluidRow(
                               box(width = 6,
@@ -44,17 +50,19 @@ ui <-  dashboardPage(skin = "green",
                   # Data Exploration
                   tabItem(tabName = "dataexpl",
                           h1(strong("Data Exploration"), align = "center"),
+                          h5("Choose a season to view the wins, loses, and draws for each team. 
+                             Click on the Champion check box to see the Premier League Champion for that season. 
+                             The Relegated check box will show the three lowest placed teams that will be relegated to the Championship."),
                           fluidPage(
                             # Select Season
                             box(selectizeInput("Season", "Season", selected = "13-14", 
                                                choices = levels(as.factor(releg2$Season))),
                                 # Champion Checkbox
                                 checkboxInput("champion", h4("Champion", style = "color:green;")),
-                                # Champion Checkbox
-                                checkboxInput("relegated", h4("Relegated", style = "color:red;")),
                                 # Champion Name
                                 strong(textOutput("info")),
-                                br(),
+                                # Relegated Checkbox
+                                checkboxInput("relegated", h4("Relegated", style = "color:red;")),
                                 # Relegated Teams
                                 strong(textOutput("rele")),
                                 br(),
@@ -69,6 +77,8 @@ ui <-  dashboardPage(skin = "green",
                   # k Means Cluster
                   tabItem(tabName = "kmeans", 
                           h1(strong("k Means Clustering"), align = "center"),
+                          h5("k Means Clustering looks to find relationships between the n observations by partitioning them into k clusters. These clusters are produced by computing the distance (or disimilarity) between each pair of observations and clustering them based on their similarity. Each cluster is represented by its center (or centroid)."),
+                          h5("Choose a season and change the k Clusters to see how teams could potentially be grouped or clustered together. The cluster means are also given for each cluster. The distance matrix shows clubs with large dissimilarities (red) versus those that appear to be fairly similar (teal)."),
                           fluidPage(
                             # Select Season
                             box(selectizeInput("year", "Season", selected = "13-14", 
@@ -90,6 +100,12 @@ ui <-  dashboardPage(skin = "green",
                   # KNN
                   tabItem(tabName = "knn",
                           h1(strong("k Nearest Neighbors"), align = "center"),
+                          h5("The k value, in k Nearest Neighbors refers to the k closest observations to a new example to classify. 
+                             These closest observations are found by using distance measures such as Euclidean Distance.
+                             Then the new example is then voted into a class by majority vote of its k Neighbors."),
+                          h5("Move the slider to change the k Nearest Neighbors(kNN). 
+                             Here the prediction is looking at whether a team will be relegated or not based on their wins, loses, draws, and goal difference. 
+                             The predicted vs actual values change along with the slider along with the accuracy and the misclassification rate."), 
                           fluidPage(
                             #Slider input
                             box(sliderInput("knn", "k Observations", 
@@ -104,11 +120,10 @@ ui <-  dashboardPage(skin = "green",
                                 br(),
                                 # Accuracy and Misclass Table
                                 tableOutput("knnAcc")),
-                            box(h4("Wins, Loses, and Draw should add up to 
-                                   38 to total the number of games in one season. 
-                                   This prediction uses k = 9."),
+                            box(h3(strong("Prediction, k = 9")),
+                                h5("Input the amount of wins, loses, draws and goal difference and see if that team would be relegated. "),
+                                h6("Wins, loses, and draws should add up to 38. Goal difference has a range of (-60, 80)"),
                                 # Make Own Prediction
-                                h5(textOutput("relegated")),
                                 numericInput("wins", "Wins",
                                              value = 15, min = 0, max = 38),
                                 numericInput("loses", "Loses",
@@ -116,12 +131,15 @@ ui <-  dashboardPage(skin = "green",
                                 numericInput("draws", "Draws",
                                              value = 5, min = 0, max = 38),
                                 numericInput("gd", "Goal Difference",
-                                             value = 15, min = -60, max = 80)))),
+                                             value = 15, min = -60, max = 80),
+                                h5(strong(textOutput("relegated"))),))),
                   
                   # Random Forests
                   tabItem(tabName = "randomforest", 
                           h1(strong("Random Forest"), align = "center"),
-                          h5("Please note this page takes a minute to load"),
+                          h5("Decision trees use a value of a predcitor to ask a question about the data. This question is then answered true or false and splits the data (known as a node). Random forest is a bunch of decision trees bundled together. Instead a simple true or false, random forest looks at the greatest reduction in Gini Impurity to split a node. The Gini Impurity is a node is the probability that a random chosen sample would be incorrectly labeled. It repeats this splitting process until it reaches a maximum depth, or each node contains only one sample from one class."), 
+                          h5("This random forest is trying to predict what team will win the game (i.e, Home, Away, or Draw). select the number of predictors and see how their importance, the final model, and the accuracy and misclassifiction change. The table provided shows the actual result versus the predicted result and whether the classification was correct."),
+                          h5(strong("Please note this page takes a minute to load")),
                           fluidRow(
                             # Select Number of Predictors
                             box(width = 6, selectizeInput("preds", "Number of Predictors", 
@@ -146,24 +164,30 @@ ui <-  dashboardPage(skin = "green",
                   # Scroll Data
                   tabItem(tabName = "data",
                           h1(strong("Season Data"), align = "center"),
+                          h5("This data shows the scores from all seasons and all teams. Click on a season, a team, or both to view the data. "),
                           # Select Season
-                          fluidPage(box(selectizeInput("match", "Season", selected = NULL, 
+                          fluidPage(
+                            fluidRow(
+                              box(width = 4, selectizeInput("match", "Season", selected = NULL, 
                                                        choices = c("All Seasons", levels(as.factor(data3$Season)))),
                                         # Select Club 
                                         selectizeInput("team", "Club Name", selected = NULL, 
                                                        choices = c("All Teams", levels(as.factor(data3$HomeTeam))))),
+                              box(width = 8, column(width = 6, h6("Date = Match Date (dd/mm/yy)"), h6("HomeTeam = Home Team"),
+                                  h6("AwayTeam = Away Team"), h6("RES = Result (H=Home Win, D=Draw, A=Away Win)"), h6("HS = Home Team Shots"),h6("AS = Away Team Shots"),h6("HST = Home Team Shots on Target"), h6("AST = Away Team Shots on Target"), h6("HSM = Home Team Shots not on Target")),
+                                  column(width = 6, h6("ASM = Away Team Shots not on Target" ),h6("HF = Home Team Fouls Committed"), h6("AF = Away Team Fouls Committed"),h6("HC = Home Team Corners"),h6("AC = Away Team Corners"), h6("HY = Home Team Yellow Cards"), h6("AY = Away Team Yellow Cards"), h6("HR = Home Team Red Cards"), h6("AR = Away Team Red Cards")))),
                                     # Schedule Output
-                                    tableOutput("schedule"))),
+                                    box(width = 12, column(width = 12, tableOutput("schedule"), style  = "overflow-x: scroll")))),
                   
                   # Transfers
                   tabItem(tabName = "money",
                           h1(strong("Transfer Expenditure"), align = "center"),
+                          h5("Premier League clubs are allowed to purchase and sell players contracts during a summer and winter transfer window. The summer window occurs before the season begins and the winter transfer window happens in January which is roughly mid-season. "),
+                          h5("Select a year to look at the difference in league position between a clubs midseason ranking and final ranking against the amount of money the club spent during the winter transfer window. "),
                           fluidRow(
                             # Select Season
                             box(selectizeInput("seas", "Season", selected = "13-14", 
                                                choices = levels(as.factor(join$Season))),
-                                # Download Graph
-                                downloadButton("downloadGraph", "Download"),
                                 # Expenditure by Team Graph
                                 plotOutput("transfer")),
                             # Money Spent Table
