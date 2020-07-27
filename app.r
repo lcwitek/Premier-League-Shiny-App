@@ -35,7 +35,7 @@ ui <-  dashboardPage(skin = "green",
                             fluidRow(
                                      box(width = 12, 
                                          h3(strong("About the Premier League")),
-                                         h5("The Premier League, also known as the English Premier League (EPL) is the top level of the English Footballl League System. Each season consists of 38 games with each club playing each other twice, once at their home stadium and once at the opponents stadium. Teams are ranked by total points, goal difference, and goals scored. The Premier League has a system of promotion and relegation each season. The three lowest placed teams in the Premier League are relegated to the English Football League Championship (also know as just Championship). The Championship is one level below the premier league. The top two teams from the Championship are then promoted to to the Premier League with an additional team being promoted after a play-off between the third, fourth, fifth, and sixth placed clubs in the Championship. In total, the Premier League maintains 20 clubs every season."),
+                                         h5("The Premier League, also known as the English Premier League (EPL) is the top level of the English Footballl League System. Each season consists of 38 games with each club playing each other twice, once at their home stadium and once at the opponent's stadium. Teams are ranked by total points, goal difference, and goals scored. The Premier League has a system of promotion and relegation each season. The three lowest placed teams in the Premier League are relegated to the English Football League Championship (also known as just Championship). The Championship is one level below the premier league. The top two teams from the Championship are then promoted to to the Premier League with an additional team being promoted after a play-off between the third, fourth, fifth, and sixth placed clubs in the Championship. In total, the Premier League maintains 20 clubs every season."),
                                      h5("More information:", a("Premier League", href = "https://www.premierleague.com"))
                                      )),
                             # Data set Info
@@ -50,7 +50,7 @@ ui <-  dashboardPage(skin = "green",
                   # Data Exploration
                   tabItem(tabName = "dataexpl",
                           h1(strong("Data Exploration"), align = "center"),
-                          h5("Choose a season to view the wins, loses, and draws for each team. 
+                          h5("Choose a season to view the wins, losses, and draws for each team. 
                              Click on the Champion check box to see the Premier League Champion for that season. 
                              The Relegated check box will show the three lowest placed teams that will be relegated to the Championship."),
                           fluidPage(
@@ -104,7 +104,7 @@ ui <-  dashboardPage(skin = "green",
                              These closest observations are found by using distance measures such as Euclidean Distance.
                              Then the new example is then voted into a class by majority vote of its k Neighbors."),
                           h5("Move the slider to change the k Nearest Neighbors(kNN). 
-                             Here the prediction is looking at whether a team will be relegated or not based on their wins, loses, draws, and goal difference. 
+                             Here the prediction is looking at whether a team will be relegated or not based on their wins, losses, draws, and goal difference. 
                              The predicted vs actual values change along with the slider along with the accuracy and the misclassification rate."), 
                           fluidPage(
                             #Slider input
@@ -121,12 +121,12 @@ ui <-  dashboardPage(skin = "green",
                                 # Accuracy and Misclass Table
                                 tableOutput("knnAcc")),
                             box(h3(strong("Prediction, k = 9")),
-                                h5("Input the amount of wins, loses, draws and goal difference and see if that team would be relegated. "),
-                                h6("Wins, loses, and draws should add up to 38. Goal difference has a range of (-60, 80)"),
+                                h5("Input the amount of wins, losses, draws and goal difference and see if that team would be relegated. "),
+                                h6("Wins, losses, and draws should add up to 38. Goal difference has a range of (-60, 80)"),
                                 # Make Own Prediction
                                 numericInput("wins", "Wins",
                                              value = 15, min = 0, max = 38),
-                                numericInput("loses", "Loses",
+                                numericInput("losses", "Losses",
                                              value = 10, min = 0, max = 38),
                                 numericInput("draws", "Draws",
                                              value = 5, min = 0, max = 38),
@@ -137,8 +137,8 @@ ui <-  dashboardPage(skin = "green",
                   # Random Forests
                   tabItem(tabName = "randomforest", 
                           h1(strong("Random Forest"), align = "center"),
-                          h5("Decision trees use a value of a predcitor to ask a question about the data. This question is then answered true or false and splits the data (known as a node). Random forest is a bunch of decision trees bundled together. Instead a simple true or false, random forest looks at the greatest reduction in Gini Impurity to split a node. The Gini Impurity is a node is the probability that a random chosen sample would be incorrectly labeled. It repeats this splitting process until it reaches a maximum depth, or each node contains only one sample from one class."), 
-                          h5("This random forest is trying to predict what team will win the game (i.e, Home, Away, or Draw). select the number of predictors and see how their importance, the final model, and the accuracy and misclassifiction change. The table provided shows the actual result versus the predicted result and whether the classification was correct."),
+                          h5("Decision trees use a value of a predictor to ask a question about the data. This question is then answered true or false and splits the data (known as a node). Random forest is a bunch of decision trees bundled together. Instead a simple true or false, random forest looks at the greatest reduction in Gini Impurity to split a node. The Gini Impurity is the probability that a random chosen sample would be incorrectly labeled. It repeats this splitting process until it reaches a maximum depth, or each node contains only one sample from one class."), 
+                          h5("This random forest is trying to predict what team will win the game (i.e, Home, Away, or Draw). Select the number of predictors and see how their importance, the final model, and the accuracy and misclassifiction change. The table provided shows the actual result versus the predicted result and whether the classification was correct."),
                           h5(strong("Please note this page takes a minute to load")),
                           fluidRow(
                             # Select Number of Predictors
@@ -182,8 +182,8 @@ ui <-  dashboardPage(skin = "green",
                   # Transfers
                   tabItem(tabName = "money",
                           h1(strong("Transfer Expenditure"), align = "center"),
-                          h5("Premier League clubs are allowed to purchase and sell players contracts during a summer and winter transfer window. The summer window occurs before the season begins and the winter transfer window happens in January which is roughly mid-season. "),
-                          h5("Select a year to look at the difference in league position between a clubs midseason ranking and final ranking against the amount of money the club spent during the winter transfer window. "),
+                          h5("Premier League clubs are allowed to purchase and sell players' contracts during a summer and winter transfer window. The summer window occurs before the season begins and the winter transfer window happens in January which is roughly mid-season. "),
+                          h5("Select a year to look at the difference in league position between a clubs' midseason ranking and final ranking against the amount of money the club spent during the winter transfer window. "),
                           fluidRow(
                             # Select Season
                             box(selectizeInput("seas", "Season", selected = "13-14", 
@@ -211,8 +211,8 @@ server <- # Define server logic required to draw a histogram
                               theme(axis.text.x = element_text(angle = 45)) +
                               scale_y_continuous(breaks = c(5, 10, 15, 20, 25, 30)) +
                               scale_fill_brewer(palette="Dark2") +
-                              labs(title = paste0("Wins, Loses, and Draws for the ", input$Season, " Season"), 
-                               x = "Teams", y = "Number of Wins, Loses, and Draws")
+                              labs(title = paste0("Wins, Losses, and Draws for the ", input$Season, " Season"), 
+                               x = "Teams", y = "Number of Wins, Losses, and Draws")
                 ggplotly(finalChart)
               })
               
@@ -245,12 +245,12 @@ server <- # Define server logic required to draw a histogram
                 
                 # Get filtered Data
                 releg5 <- releg %>% filter(Season == input$Season) %>% 
-                  select(`Final Ranking`, Team, Wins, Loses, Draws)
+                  select(`Final Ranking`, Team, Wins, Losses, Draws)
                 
                 # Table Output for Each Season
                 releg5$`Final Ranking` <- as.integer(releg5$`Final Ranking`)
                 releg5$Wins <- as.integer(releg5$Wins)
-                releg5$Loses <- as.integer(releg5$Loses)
+                releg5$Losses <- as.integer(releg5$Losses)
                 releg5$Draws <- as.integer(releg5$Draws)
                 releg5 <- unique(releg5)
                 releg5
@@ -263,7 +263,7 @@ server <- # Define server logic required to draw a histogram
                 
                 # Get Filtered Data
                 releg4 <- releg4 %>% filter(Season == input$year) %>% 
-                          select(Club, `Final Ranking`, Wins, Draws, Loses, `Goals For`, `Goals Against`)
+                          select(Club, `Final Ranking`, Wins, Draws, Losses, `Goals For`, `Goals Against`)
                 
                 # Compute Distance Matrix
                 releg5 <- releg4 %>% remove_rownames() %>% column_to_rownames(var = unique("Club"))
@@ -281,7 +281,7 @@ server <- # Define server logic required to draw a histogram
                 
                 # Get Filtered Data
                 releg4 <- releg4 %>% filter(Season == input$year) %>% 
-                          select(Club, `Final Ranking`, Wins, Draws, Loses, `Goals For`, `Goals Against`)
+                          select(Club, `Final Ranking`, Wins, Draws, Losses, `Goals For`, `Goals Against`)
                 releg5 <- releg4 %>% remove_rownames() %>% column_to_rownames(var = unique("Club"))
                 releg5 <- scale(releg5)
                 
@@ -302,7 +302,7 @@ server <- # Define server logic required to draw a histogram
                 
                 # Get Filtered Data
                 releg4 <- releg4 %>% filter(Season == input$year) %>% 
-                         select(Club, `Final Ranking`, Wins, Draws, Loses, `Goals For`, `Goals Against`)
+                         select(Club, `Final Ranking`, Wins, Draws, Losses, `Goals For`, `Goals Against`)
                 releg5 <- releg4 %>% remove_rownames() %>% column_to_rownames(var = unique("Club"))
                 releg5 <- scale(releg5)
                 
@@ -359,7 +359,7 @@ server <- # Define server logic required to draw a histogram
                                 tuneLength = 3)
                 
                 # Test out predictions
-                predKnn <- predict(knnFit, newdata = data.frame(wins = input$wins, loses = input$loses,
+                predKnn <- predict(knnFit, newdata = data.frame(wins = input$wins, losses = input$losses,
                                                                 draws = input$draws, goal_difference = input$gd))
                 relegated <- paste("Team Relegated:",ifelse(predKnn == "No", "No", "Yes"), sep = " ")
                 relegated
@@ -376,17 +376,17 @@ server <- # Define server logic required to draw a histogram
                 
                 # First use Convex hull to determine boundary points of each cluster
                 plot.df1 <-  data.frame(x = plot.df$wins, 
-                                        y = plot.df$loses, 
+                                        y = plot.df$losses, 
                                         predicted = plot.df$predicted)
                 
                 find_hull <-  function(df) df[chull(df$x, df$y), ]
                 boundary <-  plyr::ddply(plot.df1, .variables = "predicted", .fun = find_hull)
                 
                 # Actual Plot
-                knnPlot <- ggplot(plot.df, aes(wins, loses, color = predicted, fill = predicted)) + 
+                knnPlot <- ggplot(plot.df, aes(wins, losses, color = predicted, fill = predicted)) + 
                   geom_polygon(data = boundary, aes(x,y), alpha = 0.5) +
                   geom_point(size = 3) +
-                  labs(x = "Wins", y = "Loses")
+                  labs(x = "Wins", y = "Losses")
                 
                 ggplotly(knnPlot)
               })

@@ -6,14 +6,14 @@
   - All graphs, charts, and check box output will change with the
     selection of the season
 
-  - View a graph of the number of wins, loses, and draws for a specific
+  - View a graph of the number of wins, losses, and draws for a specific
     season
     
       - View Final Ranking by moving cursor over graph
 
   - Check the Champion and the three teams that were Relegated
 
-  - A table displaying Final Ranking, Team, Wins, Loses, and Draws
+  - A table displaying Final Ranking, Team, Wins, Losses, and Draws
 
 ## k Means Clustering - Unsupervised
 
@@ -39,8 +39,8 @@
 
   - See the predicted versus the actual along with the frequency
 
-  - Predicted whether a team will be relegated based on the wins, loses.
-    draws, and goal difference
+  - Predicted whether a team will be relegated based on the wins,
+    losses. draws, and goal difference
     
       - This table is not affected by the changing of k Observations
 

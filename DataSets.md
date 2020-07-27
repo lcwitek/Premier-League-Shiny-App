@@ -1,7 +1,7 @@
 
 ## Data sets
 
-The following data sets contain data from the 2013-2014 Season up to the
+The following data sets contain data from the 2013-2014 season up to the
 2018-2019 season and were used for the analysis completed on this app.
 
 1.  Relegations
