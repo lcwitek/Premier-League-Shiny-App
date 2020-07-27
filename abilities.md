@@ -15,7 +15,7 @@
 
   - A table displaying Final Ranking, Team, Wins, Losses, and Draws
 
-## k Means Clustering - Unsupervised
+## k Means Clustering
 
   - All graphs and tables will change with the selection of the season
     and the k clusters
