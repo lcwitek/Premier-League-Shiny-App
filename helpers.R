@@ -18,6 +18,7 @@ library(factoextra)
 library(grid)
 library(class)
 library(cowplot)
+library(e1071)
 
 
 # Data Exploration
