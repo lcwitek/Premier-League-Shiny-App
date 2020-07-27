@@ -7,8 +7,13 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE, message = FALSE)
 
 ```
+
 ## Premier League Shiny App
+
+#### Available through GitHub:
 ```{r, eval=FALSE}
 shiny::runGitHub("ST558-Final-Project", "lcwitek")
 ```
 
+#### Also available through shinyapps.io
+[ST558 Final Project](https://lcwitek.shinyapps.io/ST558-Final-Project/)
