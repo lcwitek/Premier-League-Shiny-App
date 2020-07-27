@@ -718,7 +718,7 @@ server <- # Define server logic required to draw a histogram
               # Money Table
               
               # Transfer Expenditure
-              makePlot <- reactive({
+              output$transfer <- renderPlot({
                 
                 # Get Filtered Data
                 join2 <- join %>% filter(Season == input$seas, Transfer == "Winter") %>% 
@@ -753,21 +753,6 @@ server <- # Define server logic required to draw a histogram
                 }
                 transfer <- plots(join)
                 transfer
-              })
-              
-              # Output plot
-              output$transfer <- renderPlot({
-                print(makePlot())
-              })
-              
-              # Download the graph
-              output$downloadGraph <- downloadHandler({
-                filename = function(){paste(input$seas, '.png', sep='')}
-                content = function(file){
-                  png(file)
-                  makePlot()
-                  dev.off()
-                }
               })
               
               #Table for Transfer Money
