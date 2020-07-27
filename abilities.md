@@ -81,7 +81,5 @@ of the page.
 
   - View the amount of money spent on Winter Transfers and the rank
     difference from the middle of the season and the final rankings.
-    
-      - The graph can be downloaded
 
   - View the midseason rank, final ranking and expenditure for each club
