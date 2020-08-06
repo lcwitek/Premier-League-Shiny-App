@@ -1,13 +1,11 @@
 ---
-title: "Lauren Witek Final Project"
+title: "Premier League Shiny App"
 output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, eval = FALSE)
 ```
-
-## Premier League Shiny App
 
 This Shiny App looks at Premier League data from the 2013-2014 season up to the 2018-2019 season. It analyses the data through Data Exploration, k Means Clusters, k-Nearest Neighbors, and Random Forests. 
 
@@ -23,11 +21,11 @@ Please note that some data sets use club and some use team. Club and team are in
 
 #### Available through GitHub:
 ```{r}
-shiny::runGitHub("ST558-Final-Project", "lcwitek")
+shiny::runGitHub("Premier League", "lcwitek")
 ```
 
 #### Also available through shinyapps.io:
-[ST558 Final Project](https://lcwitek.shinyapps.io/ST558-Final-Project/)
+[Premier League Shiny App](https://lcwitek.shinyapps.io/ST558-Final-Project/)
 
 
 ## Packages Required for app.R

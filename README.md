@@ -20,12 +20,13 @@ content.
 #### Available through GitHub:
 
 ``` r
-shiny::runGitHub("ST558-Final-Project", "lcwitek")
+shiny::runGitHub("Premier League", "lcwitek")
 ```
 
 #### Also available through shinyapps.io:
 
-[ST558 Final Project](https://lcwitek.shinyapps.io/ST558-Final-Project/)
+[Premier League Shiny
+App](https://lcwitek.shinyapps.io/ST558-Final-Project/)
 
 ## Packages Required for app.R
 
