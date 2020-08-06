@@ -20,7 +20,7 @@ content.
 #### Available through GitHub:
 
 ``` r
-shiny::runGitHub("Premier League", "lcwitek")
+shiny::runGitHub("Premier-League-Shiny-App", "lcwitek")
 ```
 
 #### Also available through shinyapps.io:
