@@ -1,7 +1,5 @@
-Lauren Witek Final Project
+Premier League Shiny App
 ================
-
-## Premier League Shiny App
 
 This Shiny App looks at Premier League data from the 2013-2014 season up
 to the 2018-2019 season. It analyses the data through Data Exploration,
